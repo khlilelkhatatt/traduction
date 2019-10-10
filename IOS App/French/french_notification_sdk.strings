@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "notification_tab_title" = "Notifications";
@@ -23,17 +23,17 @@
 
 
 "notification_requested_amount" = "Montant demandé";
-"notification_remarks_text" = "Remarques (Optionnelle)";
+"notification_remarks_text" = "Remarque (Optionnelle)";
 "notification_send_btn" = "Envoyer";
 "notification_cancel_btn" = "Annuler";
-"notification_decline_btn" = "Declin";
+"notification_decline_btn" = "Refuser";
 "common_yes" = "Oui";
 "common_no" = "Non";
 "notification_are_u_sure" = "Êtes-vous sûr de vouloir ";
 "notification_accept" = "accepter ";
 "notification_reject" = "refuser ";
 "notification_request" = " demande ?";
-"notification_status_expired" = "Expiré";
+"notification_status_expired" = "Expirée";
 "notification_status_accepted" = "Approuvée";
 "notification_status_rejected" = "Rejetée";
 "notification_success" = "Succès!";

@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 "pop_up_button_yes" = "Oui";
 "pop_up_button_no" = "Non";
@@ -11,10 +11,10 @@
 "success" = "Succès";
 "error" = "Erreur";
 
-"favourite_titletext" = "Favori";
-"favouritelist_servicetype_sendmoney" = "Transfert d'argents";
-"favouritelist_servicetype_requestmoney" = "Demande d'argents";
-"favouritelist_servicetype_recharge" = "Recharge téléphoniques";
+"favourite_titletext" = "Favoris";
+"favouritelist_servicetype_sendmoney" = "Transfert d'argent";
+"favouritelist_servicetype_requestmoney" = "Demande d'argent";
+"favouritelist_servicetype_recharge" = "Recharges téléphoniques";
 "faouritelist_serviceusing_mobilenumber" = "Numéro de téléphone: ";
 "faouritelist_serviceusing_username" = "Nom d'utilisateur: ";
 "faouritelist_serviceusing_facebook" = "Amie Facebook: ";
@@ -22,4 +22,4 @@
 "faouritelist_serviceusingdetail_bank" = "Banque:";
 "faouritelist_serviceusingdetail_operator" = "Opérateur : ";
 "favourite_delete_text" = "Supprimer";
-"favourite_delete_message" = "Êtes-vous sûr de vouloir supprimer cet élément favori?";
+"favourite_delete_message" = "Êtes-vous sûr de vouloir supprimer cet élément des favoris?";

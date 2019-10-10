@@ -4,8 +4,8 @@
     <string name="splitbillgroup_screen_title_text">اللوحة</string>
     <string name="splitbillgroup_amount_label">المبلغ</string>
     <string name="splitbillgroup_amount_hint">أدخل المبلغ</string>
-    <string name="splitbillgroup_description_label">إسم اللوحة</string>
-    <string name="splitbillgroup_description_hint">أدخل إسم اللوحة</string>
+    <string name="splitbillgroup_description_label">اسم اللوحة </string>
+    <string name="splitbillgroup_description_hint">أدخل اسم اللوحة </string>
     <string name="splitbillgroup_members_label">أفراد</string>
     <string name="splitbillgroup_add_members_label">إضافة أفراد</string>
     <string name="splitbillgroup_next">التالى</string>
@@ -14,7 +14,7 @@
     <string name="addmember_screen_title_text">إضافة أفراد</string>
     <string name="addmember_mobilenumber_label">رقم الهاتف / اسم المستخدم</string>
     <string name="addmember_mobilenumber_hint">أدخل رقم الهاتف</string>
-    <string name="addmember_name_label">اسم</string>
+    <string name="addmember_name_label">اسم المشترك</string>
     <string name="addmember_name_hint">أدخل الاسم</string>
     <string name="addmember_add">إضافة</string>
 
@@ -52,7 +52,7 @@
     <string name="addmember_validation_of_errormsg">من</string>
 
     <string name="addmember_validation_cancelbutton">لا ، أضف المزيد</string>
-    <string name="addmember_validation_okbutton">نعم فعلا</string>
+    <string name="addmember_validation_okbutton">نعم</string>
     <string name="addmember_you_text">أنت</string>
 
     <string name="addmember_validation_error">يرجى إضافة أفراد</string>
@@ -83,7 +83,7 @@
     <string name="split_bill_cancel_rejected">مرفوض</string>
     <string name="split_bill_cancel_expired">منتهية الصلاحية</string>
     <string name="split_bill_cancel_canceled">ألغيت</string>
-    <string name="split_bill_cancel_partially_paid">المدفوعة جزئيا</string>
+    <string name="split_bill_cancel_partially_paid">مدفوعة جزئيا</string>
     <string name="split_bill_cancel_reject_dialog_text">هل أنت متأكد أنك تريد إلغاء هذا الطلب؟</string>
     <string name="split_bill_yes">نعم</string>
     <string name="split_bill_no">لا</string>
@@ -91,14 +91,14 @@
     <string name="split_bill_done">تم</string>
 
     <string name="split_bill_cancel_status">الحالة</string>
-    <string name="split_bill_cancel_description">إسم اللوحة</string>
+    <string name="split_bill_cancel_description">ملاحظة</string>
     <string name="split_bill_cancel_collected_amount">المبلغ المحصل</string>
     <string name="split_bill_cancel_requested_Amount">المبلغ المطلوب</string>
     <string name="split_bill_cancel_total_amount">المبلغ الإجمالي</string>
     <string name="split_bill_cancel_cancel_request">إلغاء الطلب</string>
 
     <string name="amount_not_distributed_well">لم يتم توزيع المبلغ بالكامل. هل تريد المتابعة ؟</string>
-    <string name="amount_is_more_than_total">المبلغ الموزع أكبر من إجمالي الفاتورة. يرجى المراجعة</string>
+    <string name="amount_is_more_than_total">المبلغ الموزع أكبر من إجمالي اللوحة. يرجى المراجعة</string>
     <string name="enter_valid_amount">أدخل مبلغ صالح</string>
     <string name="enter_valid_description">أدخل ملاحظة صالحة</string>
     <string name="no_members">لا يوجد أعضاء في هذه المجموعة</string>

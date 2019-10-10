@@ -13,7 +13,7 @@
 "available_biller_toolbar_text"     = "Available Billers";
 "addbiller_toolbar_text"            = "Add Biller";
 "addbiller_title_text"              = "Associate your account with Biller";
-"addbiller_accountnumber_label"     = "Account Number";
+"addbiller_accountnumber_label"     = "Reference";
 "addbiller_button_text"             = "Next";
 "addbiller_success_message"         = "You can now start paying bills from My Billers.";
 "billpayment_common_noresponse_text"= "Something went wrong";

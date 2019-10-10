@@ -2,8 +2,8 @@
  Localizable.strings
  Module_Framework
  
- Created by Gaurav Arora on 21/06/19.
- Copyright © 2019 Gaurav Arora. All rights reserved.
+ Created by BPM on 21/06/19.
+ Copyright © 2019 BPM. All rights reserved.
  */
 
 //Send Money Common
@@ -28,7 +28,7 @@
 "sm_mobile_mobilenum_label"="رقم الهاتف ";
 "sm_mobile_mobilenum_error"="أدخل رقم هاتف صالحًا";
 "sm_mobile_invalid_contact_error"="اختر جهة اتصال صالحة";
-"sm_mobile_mobilenum_not_exist_text"="رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 7 أيام. هل تريد الاستمرار؟";
+"sm_mobile_mobilenum_not_exist_text"="رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 3 أيام. هل تريد الاستمرار؟";
 
 //Send Money By Username
 "sm_username_label"="اسم المستخدم";
@@ -41,8 +41,8 @@
 //Send Money By Other Bank
 "sm_bank_other_title_text"="إرسال الأموال - بنك آخر";
 "sm_bank_other_subtitle_label"="أدخل تفاصيل حساب المستلم";
-"sm_other_bank_name_label"="اسم";
-"sm_other_bank_bank_label"="بنك";
+"sm_other_bank_name_label"="اسم المستفيد";
+"sm_other_bank_bank_label"="بنك المستفيد";
 "sm_other_bank_account_number_label"="رقم الحساب : ";
 "sm_bank_other_invalid_name_error"="أدخل اسمًا صالحًا";
 "sm_bank_other_invalid_bank_error"="اختر البنك";
@@ -75,4 +75,4 @@
 "sendmoney_homebank_name" = "البنك الشعبي الموريتاني";
 "sendmoney_confirm_payment" = "تأكيد الدفع";
 "sendmoney_ownbank_note_text" = "ملاحظة";
-"sendmoney_bpm" = "تحويل الأموال-BPM";
+"sendmoney_bpm" = "تحويل الأموال -لبنك الشعبي";

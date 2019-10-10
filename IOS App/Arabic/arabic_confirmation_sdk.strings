@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "Confirm" = "أكد ";
@@ -13,14 +13,14 @@
 "Review entered details" = "مراجعة التفاصيل المدخلة";
 "Service Charge" = "تكلفة الخدمة";
 "Commission" = "العمولة";
-"Tax" = "ضريبة";
+"Tax" = "الضريبة";
 
 "Done!" = "تم";
 "Set as favourite" = "تعيين كمفضل";
 "TXN ID:" = "معرف المعامله : ";
 "Date:" = "التاريخ والوقت: ";
 
-"Please enter your 4-digit PIN to " = "يرجى إدخال رقم السري لـ ";
+"Please enter your 4-digit PIN to " = "يرجى إدخال الرقم السري لـ";
 "initiate request." = "بدء الطلب.";
 "Send Request" = "ارسل طلب";
 "Cancel" = "إلغاء";

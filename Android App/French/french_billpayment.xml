@@ -5,12 +5,12 @@
   <string name="registeredbiller_add_text">Ajouter un facturier</string>
   <string name="registeredbiller_toolbar_text">Facturiers</string>
   <string name="availablebiller_toolbar_text">Les facturiers disponibles</string>
-  <string name="registeredbiller_accountnumber_label">Numéro de compte:</string>
+  <string name="registeredbiller_accountnumber_label">Référence Facture:</string>
 
   <!--Add Biller-->
   <string name="addbiller_toolbar_text">Ajouter un facturier</string>
   <string name="addbiller_title_text">Associez votre compte à un facturier</string>
-  <string name="addbiller_accountnumber_label">Numéro de compte</string>
+  <string name="addbiller_accountnumber_label">Référence de facture</string>
   <string name="addbiller_button_text">Suivante</string>
   <string name="addbiller_success_message">Vous pouvez maintenant commencer à payer les factures à partir du menu Facturiers</string>
 
@@ -21,12 +21,12 @@
 
   <string name="billpayment_pop_up_button_yes">Oui</string>
   <string name="billpayment_pop_up_button_no">Non</string>
-  <string name="associatebiller_accountnumber_emptytext">Veuillez entrer le numéro de compte</string>
+  <string name="associatebiller_accountnumber_emptytext">Veuillez entrer la référence de la facture</string>
 
   <string name="deletebiller_message_text">Êtes-vous sûr de vouloir supprimer cette association de facturiers?</string>
 
   <!--Biller Details-->
-  <string name="billerdetails_accountnumber_label">Numéro de compte:</string>
+  <string name="billerdetails_accountnumber_label">Référence facture:</string>
   <string name="billerdetails_billamount_label">Montant de la facture:</string>
   <string name="billerdetails_paymentduedate_label">Date d'échéance du paiement :</string>
   <string name="billerdetils_paynow_button">Payez maintenant!</string>
@@ -37,7 +37,7 @@
   <string name="billpay_confirmation_amountlabel">Montant de la facture</string>
 
   <string name="billpay_confirmation_billerlabel">Facturier :</string>
-  <string name="billpay_confirmation_accountnumber">Numéro de compte:</string>
+  <string name="billpay_confirmation_accountnumber">Référence facture:</string>
   <string name="billpay_confirmation_billamount">Montant de la facture:</string>
 
 

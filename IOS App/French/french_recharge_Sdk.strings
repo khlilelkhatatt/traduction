@@ -2,16 +2,16 @@
  Localizable.strings
  Module_Framework
  
- Created by Comviva on 21/06/19.
- Copyright © 2019 Comviva. All rights reserved.
+ Created by BPM on 21/06/19.
+ Copyright © 2019 BPM. All rights reserved.
  */
 
 
 "recharge_proceed_button_text" = "Suivant";
-"recharge_toolbar_text" = "Recharge téléphonique";
+"recharge_toolbar_text" = "Recharges téléphonique";
 "recharge_mobilenum_error"="Veuillez saisir un numéro de téléphone valide";
 "recharge_operator_error"="Choisissez votre opérateur pour continuer";
-"recharge_topup_error"="Choisissez votre plan de recharge pour continuer";
+"recharge_topup_error"="Choisissez votre montant de recharge pour continuer";
 "recharge_pop_up_button_no"="Non";
 "recharge_pop_up_button_yes"="Oui";
 "recharge_confirmation_navigation_title"="Confirmer la recharge";
@@ -23,6 +23,6 @@
 "recharge_pop_up_button_ok"="OK";
 "recharge_pop_up_error_title" = "Erreur";
 "recharge_something_went_wrong_text"="Une erreur est survenue";
-"recharge_confirmation_header_text"="Recharge téléphonique";
+"recharge_confirmation_header_text"="Recharges téléphonique";
 "recharge_noOffers_error_text"="Pas d'offres disponibles";
 "recharge_mobileNumber_PlaceholderText"="Entrez le numéro de téléphone";

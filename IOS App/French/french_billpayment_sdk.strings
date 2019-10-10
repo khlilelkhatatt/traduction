@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "registeredbillers_delete_text"     = "Supprimer un facturier";
@@ -12,17 +12,17 @@
 "available_biller_toolbar_text"     = "Les facturiers disponibles";
 "addbiller_toolbar_text"            = "Ajouter un facturier";
 "addbiller_title_text"              = "Associez votre compte à un facturier";
-"addbiller_accountnumber_label"     = "Numéro de compte";
+"addbiller_accountnumber_label"     = "Référence de facture";
 "addbiller_button_text"             = "Suivant";
 "addbiller_success_message"         = "Vous pouvez maintenant commencer à payer les factures à partir du menu Facturiers";
 "billpayment_common_noresponse_text"= "Une erreur est survenue";
-"billpayment_common_no_internet_error_text" = "Internet non disponible.";
+"billpayment_common_no_internet_error_text" = "Internet indisponible.";
 "billpayment_success_dialog_title"  = "Succès!";
 "billpayment_success_dialog_done_button" = "Effectué";
 "billpayment_pop_up_button_yes"     = "Oui";
 "billpayment_pop_up_button_no"      = "Non";
-"associatebiller_accountnumber_emptytext" = "Veuillez entrer le numéro de compte";
-"deletebiller_message_text"         = "Êtes-vous sûr de vouloir supprimer cette association de facturiers?";
+"associatebiller_accountnumber_emptytext" = "Veuillez entrer le numéro de facture";
+"deletebiller_message_text"         = "Êtes-vous sûr de vouloir supprimer cette association de facturier?";
 "biller_popup_ok_label"             = "Ok";
 "biller_popup_error_label"          = "Erreur";
 "billerdetails_tootlbar_title"      = "Détails de la facture";

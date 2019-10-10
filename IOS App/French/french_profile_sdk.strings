@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 //Profile information page
@@ -23,8 +23,8 @@
 
 //OTP page
 "change_mobile_otp_title_text"="Code de vérification";
-"change_mobile_otp_old_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre ancien numéro de mobile";
-"change_mobile_otp_new_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre nouveau numéro de mobile";
+"change_mobile_otp_old_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre ancien numéro de téléphone";
+"change_mobile_otp_new_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre nouveau numéro de téléphone";
 "change_mobile_resend_otp_button_text"="Renvoyer le code de vérification";
 "change_mobile_otp_proceed_button_text"="Continuer";
 "change_mobile_otp_cancel_button_text"="Annuler";

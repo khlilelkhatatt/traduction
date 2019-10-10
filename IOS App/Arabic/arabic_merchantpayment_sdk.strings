@@ -2,14 +2,14 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "merchant_payment_toolbar_text" = "تسديد المشتريات";
 "merchant_payment_scan_qr_code" = "مسح رمز QR";
 "merchant_payment_merchant_id_text" = "معرف التاجر";
-"merchant_payment_enter_valid_merchant_id" = "أدخل معرف التاجر صالح";
+"merchant_payment_enter_valid_merchant_id" = "أدخل معرف تاجر صالح";
 
 "merchant_payment_amount" = "المبلغ";
 "merchant_payment_enter_amount" = "أدخل المبلغ";

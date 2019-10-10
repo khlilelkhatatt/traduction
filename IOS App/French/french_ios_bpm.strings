@@ -2,8 +2,8 @@
  Localizable.strings
  DigitalBanking
  
- Created by Gaurav Arora on 18/02/19.
- Copyright © 2019 Gaurav Arora. All rights reserved.
+ Created by BPM on 18/02/19.
+ Copyright © 2019 BPM. All rights reserved.
  */
 "choosen_language_code"="2";
 "choosen_locale"="fr";
@@ -14,7 +14,7 @@
 //Splash Screen
 "splash_imeipermission_error"="Merci de donner l'autorisation au téléphone pour lancer l'applicaiton";
 "splash_updateavailable_text"="Mise à jour disponible";
-"splash_forceupdate_text"="Veuillez mettre à jour votre application. Sinon, vous ne pourrez pas utiliser l'application";
+"splash_forceupdate_text"="Veuillez mettre à jour votre application. Sinon, vous ne pourrez plus l'utiliser";
 "splash_update_btn"="Mise à jour";
 
 "selectLanaguage_text_englishText"="English";
@@ -29,9 +29,9 @@
 "walkthrough2_title"="Paiement commerçant";
 "walkthrough3_title"="Demande d’argent";
 "walkthrough4_title"="Paiement de factures";
-"walkthrough5_title"="Recharge téléphonique";
+"walkthrough5_title"="Recharges téléphonique";
 "walkthrough6_title"="EL LEWHA";
-"walkthrough1_desc"="Transférez de l'argent en toute sécurité avec vos proches avec votre application Bankily !";
+"walkthrough1_desc"="Transférez de l'argent en toute sécurité avec votre application Bankily !";
 "walkthrough2_desc"="Payez facilement vos achats avec votre application Bankily";
 "walkthrough3_desc"="Besoin d'argent ? Contactez vos proches en toute confiance avec votre application Bankily !";
 "walkthrough4_desc"="Payez votre facture d'eau ou d'électricité sans vous déplacer avec votre application Bankily !";
@@ -93,13 +93,13 @@
 "reg_createprofile_answer_label"="Réponse";
 "reg_createprofile_button_text"="Suivant";
 "username_blank_popup_message"="Nom d'utilisateur est obligatoire";
-"username_invalid_popup_message"="Entrez un nom d'utilisateur valide";
+"username_invalid_popup_message"="Le nom d'utilisateur doit être compris entre 5 et 15 alphanumerique et sans espaces.";
 "securityquestion_blank_popup_message"="Question de sécurité est obligatoire";
 "answer_blank_popup_message"="Réponse est obligatoire";
 "answer_invalid_popup_message"="Veuillez saisir une réponse valide";
 
 "reg_setmpin_titletext"="Définir le code PIN";
-"reg_setmpin_subtitletext"="Tu es presque fini !";
+"reg_setmpin_subtitletext"="Vous avez presque termine !";
 "reg_setmpin_setmpin_label"="Définir un PIN";
 "reg_setmpin_confirmmpin_label"="Confirmez votre PIN";
 "reg_setmpin_button_text"="Effectué";
@@ -136,7 +136,7 @@
 "dashboard_topbar_balance"="Comptes";
 "dashboard_topbar_transaction"="Transactions";
 
-"dashboard_service_recharge"="Recharge téléphoniques";
+"dashboard_service_recharge"="Recharges téléphoniques";
 "dashboard_service_billpayment"="Paiement de factures";
 "dashboard_service_chequebook"="Demande de carnet de chèques";
 "dashboard_service_debitcard"="Cartes de crédits";
@@ -156,8 +156,8 @@
 
 //Fund Transfer
 "fundtransfer_toolbar_text"="Transfert";
-"fundtransfer_sendmoney_text"="Transfert d'argents";
-"fundtransfer_requestmoney_text"="Demande d'argents";
+"fundtransfer_sendmoney_text"="Transfert d'argent";
+"fundtransfer_requestmoney_text"="Demande d'argent";
 "fundtransfer_nfc_text"="NFC";
 "fundtransfer_qr_text"="QR";
 "fundtransfer_splitbill_text"="EL LEWHA";
@@ -186,7 +186,7 @@
 "backbutton_are_you_sure_msg" = "Êtes-vous sûr de ne pas vouloir continuer?";
 "signout_Confirm_Msg" = "Êtes-vous certain de vouloir vous déconnecter ?";
 
-"session_invalidated_text"="Session terminée, vous reconnecter s'il vous plaît";
+"session_invalidated_text"="Session terminée, veuillez vous reconnecter ";
 "changePinSuccessful" = "Votre code PIN a été modifié avec succès.";
 
 "no_kyc_popup_contents" = "Vous devez remplir votre dossier avec la banque pour accéder à ces services.";

@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 //Profile information page
@@ -17,14 +17,14 @@
 "profile_information_choose_photo_text"="اختيار صورة";
 "profile_information_delete_text"="حذف";
 "profile_information_cancel_text"="إلغاء";
-"profile_information_mobilenum_error"="أدخل رقم هاتف صالحًا";
+"profile_information_mobilenum_error"="أدخل رقم هاتف صالح";
 "profile_information_camera_permission_text"="يرجى تمكين إذن للكاميرا ";
 "profile_information_photo_permission_text"="يرجى تمكين إذن للصور ";
 
 //OTP page
 "change_mobile_otp_title_text"="رمز التأكيد";
-"change_mobile_otp_old_mobile_subtitle_text"="أدخل رمز تأكيد المرسل إلى رقم هاتفك القديم";
-"change_mobile_otp_new_mobile_subtitle_text"="أدخل رمز تأكيد المرسل إلى رقم هاتفك القديم";
+"change_mobile_otp_old_mobile_subtitle_text"="أدخل رمز التأكيد المرسل إلى رقم هاتفك القديم";
+"change_mobile_otp_new_mobile_subtitle_text"="أدخل رمز التأكيد المرسل إلى رقم هاتفك الجديد";
 "change_mobile_resend_otp_button_text"="إعادة إرسال رمز التأكيد";
 "change_mobile_otp_proceed_button_text"="تقدم";
 "change_mobile_otp_cancel_button_text"="إلغاء";

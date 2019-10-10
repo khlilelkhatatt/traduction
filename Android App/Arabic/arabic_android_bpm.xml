@@ -82,7 +82,7 @@
   <string name="create_profile_security_answer_lable">الجواب</string>
   <string name="create_profile_button_text">التالى</string>
   <string name="create_profile_username_error_text">اسم المستخدم إلزامي</string>
-  <string name="create_profile_username_length_error_text">أدخل اسم مستخدم صالح</string>
+  <string name="create_profile_username_length_error_text">يجب أن يتراوح اسم المستخدم بين 5 و 15 حرفًا أبجديًا رقميًا دون مسافات.</string>
   <string name="create_profile_question_error_text">سؤال الحماية إلزامي</string>
   <string name="create_profile_answer_error_text">الجواب إلزامي</string>
   <string name="title_registration_text">هيا بنا لتسجيلك</string>
@@ -92,7 +92,7 @@
   <string name="signup_existingcustomer_button_text">زبون حالي</string>
 
   <string name="mpin_toolbar_title">تعيين الرقم السري</string>
-  <string name="mpin_title_text">كدت تنتهي !</string>
+  <string name="mpin_title_text">كدت تنهي التسجيل !</string>
   <string name="mpin_setpin_lable">تعيين الرقم السري</string>
   <string name="mpin_confirm_lable">تأكيد  الرقم السري</string>
   <string name="mpin_button_text">تم</string>
@@ -141,7 +141,7 @@
   <string name="dashboard_service_chequebook">طلب دفتر شيكات</string>
   <string name="dashboard_service_debitcard">البطاقات البنكية</string>
   <string name="dashboard_service_cashout">سحب النقود</string>
-  <string name="dashboard_partial_kyc_alert_text">يجب عليك إكمال ملفك لدى البنك للوصول إلى هذه الخدمات</string>
+  <string name="dashboard_partial_kyc_alert_text">يجب عليك إكمال ملفك لدى البنك للولوج إلى هذه الخدمات</string>
 
   <!--Hamberger Menu Items-->
   <string name="home_nav_menu_changelanguage_text">اللغة</string>
@@ -173,12 +173,12 @@
 
   <!--Forgot PIN-->
   <string name="forgotpin_toolbar_title">نسيت الرقم السري</string>
-  <string name="forgotpin_title_text">أجب عن سؤالك الحماية لتعيين رقم سري جديد</string>
+  <string name="forgotpin_title_text">أجب على سؤال الحماية لتعيين رقم سري جديد</string>
   <string name="forgotpin_security_question_lable">سؤال الحماية</string>
   <string name="forgotpin_answer_lable">الجواب</string>
   <string name="forgotpin_button_text">التالى</string>
   <string name="forgotpin_answer_error_message">الرجاء إدخال جواب صحيح</string>
-  <string name="forgotpin_success_dialog_message"> لقد تم تغيير الرقم السري الخاص بنجاح.</string>
+  <string name="forgotpin_success_dialog_message"> لقد تم تغيير الرقم السري بنجاح.</string>
   <string name="forgotpin_success_dialog_title">نجاح!</string>
   <string name="forgotpin_success_dialog_done_button">تم</string>
   <string name="forgotpin_set_new_pin_label">تعيين رقم سري جديد</string>
@@ -245,7 +245,7 @@
 
   <!--Mini Statement-->
   <string name="miniStatement_toolbar_text">حسابي</string>
-  <string name="miniStatement_account_number_label">رقم الحساب : </string>
+  <string name="miniStatement_account_number_label">رقم حساب</string>
   <string name="miniStatement_closing_balance_label">الرصيد</string>
   <string name="miniStatement_last_10_trans_label">آخر 10 معاملات</string>
   <string name="miniStatement_filter_date_label">تصفية حسب التاريخ</string>
@@ -283,9 +283,9 @@
 
   <string name="sendmoneybymobilenumber_contactpermission_error_title">خطأ</string>
   <string name="sendmoneybymobilenumber_contactpermission_msg">إذن قراءة مطلوب لعرض قائمة جهات الاتصال الخاصة بك.</string>
-  <string name="sendmoneybymobilenumber_mobileno_error">أدخل رقم الهاتف صالح</string>
+  <string name="sendmoneybymobilenumber_mobileno_error">أدخل رقم هاتف صالح</string>
   <string name="sendmoneybymobilenumber_amount_error">أدخل مبلغ صالح</string>
-  <string name="sendmoneybymobilenumber_mobile_number_not_exist">رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 7 أيام. هل تريد الاستمرار؟</string>
+  <string name="sendmoneybymobilenumber_mobile_number_not_exist">رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 3 أيام. هل تريد الاستمرار؟</string>
 
   <string name="sendmoneybybank_title_label">اختر بنك المستفيد</string>
   <string name="sendmoneybybank_bpm_bank_label">البنك الشعبي الموريتاني</string>
@@ -293,16 +293,16 @@
 
   <string name="sendmoney_confirm_account_no_label">رقم الحساب : </string>
   <string name="sendmoney_confirm_transfer_amount_label">المبلغ : </string>
-  <string name="sendmoney_confirm_receipent_name_label">اسم المستقبل</string>
-  <string name="sendmoney_confirm_receipent_account_no_label">رقم حساب المستلم</string>
+  <string name="sendmoney_confirm_receipent_name_label">اسم المستفيد</string>
+  <string name="sendmoney_confirm_receipent_account_no_label">رقم حساب المستفيد</string>
 
   <!--Send Money Other Bank-->
   <string name="otherbankaccountdetails_toolbar_text">إرسال الأموال - بنك آخر</string>
   <string name="otherbankaccountdetails_title_text">أدخل تفاصيل حساب المستلم</string>
   <string name="otherbankaccountdetails_button_text">التالى</string>
-  <string name="otherbankaccountdetails_name_lable">اسم</string>
-  <string name="otherbankaccountdetails_bank_lable">بنك</string>
-  <string name="otherbankaccountdetails_account_no_lable">رقم الحساب : </string>
+  <string name="otherbankaccountdetails_name_lable">اسم المستفيد</string>
+  <string name="otherbankaccountdetails_bank_lable">البنك</string>
+  <string name="otherbankaccountdetails_account_no_lable">رقم الحساب</string>
   <string name="otherbankaccountdetails_amount_lable">المبلغ</string>
   <string name="otherbankaccountdetails_note_lable">ملاحظة</string>
   <string name="otherbankaccountdetails_name_unerror_text">أدخل اسمًا صالحًا</string>
@@ -318,7 +318,7 @@
   <string name="bpmbankcifnumber_unerror_text">أدخل رقم الحساب (CIF) صالحًا</string>
 
   <string name="bpmbankaccountnoamount_toolbar_text">إرسال الأموال - BPM</string>
-  <string name="bpmbankaccountnoamount_title_text">اختيار حساب مصرفي وأدخل المبلغ</string>
+  <string name="bpmbankaccountnoamount_title_text">اختر حساب مصرفي وأدخل المبلغ</string>
   <string name="bpmbankaccountnoamount_amount_lable">المبلغ</string>
   <string name="bpmbankaccountnoamount_note_lable">ملاحظة</string>
   <string name="bpmbankaccountnoamount_button_text">التالى</string>
@@ -455,7 +455,7 @@
   <string name="merchant_payment_toolbar_text">تسديد المشتريات</string>
   <string name="merchant_payment_scan_qr_code">مسح رمز QR</string>
   <string name="merchant_payment_merchant_id_text">معرف التاجر</string>
-  <string name="merchant_payment_enter_valid_merchant_id">أدخل معرف التاجر صالح</string>
+  <string name="merchant_payment_enter_valid_merchant_id">أدخل معرف تاجر صالح</string>
   <string name="merchant_payment_amount">المبلغ</string>
   <string name="merchant_payment_enter_amount">أدخل المبلغ</string>
   <string name="merchant_payment_enter_valid_amount">أدخل مبلغ صالح</string>
@@ -476,10 +476,10 @@
   <string name="registeredbillers_delete_text">حذف المفوتر</string>
   <string name="registeredbiller_add_text">أضف مفوتر</string>
   <string name="registeredbiller_toolbar_text">المفوترين</string>
-  <string name="availablebiller_toolbar_text">المفوترين المتوفرين</string>
+  <string name="availablebiller_toolbar_text">المفوترين </string>
   <string name="addbiller_toolbar_text">أضف مفوتر</string>
   <string name="addbiller_title_text">أربط حسابك مع المفوتر</string>
-  <string name="addbiller_accountnumber_label">رقم الحساب</string>
+  <string name="addbiller_accountnumber_label">رقم الفاتورة</string>
   <string name="addbiller_button_text">التالى</string>
   <string name="addbiller_success_message">يمكنك الآن بدأ تسديد الفواتير من خلال قائمة المفوترين</string>
   <string name="billpayment_common_noresponse_text">هناك خطأ ما</string>
@@ -488,9 +488,9 @@
   <string name="billpayment_success_dialog_done_button">تم</string>
   <string name="billpayment_pop_up_button_yes">نعم</string>
   <string name="billpayment_pop_up_button_no">لا</string>
-  <string name="associatebiller_accountnumber_emptytext">الرجاء إدخال رقم الحساب.</string>
+  <string name="associatebiller_accountnumber_emptytext">الرجاء إدخال رقم الفاتورة.</string>
   <string name="deletebiller_message_text">هل أنت متأكد من أنك تريد حذف الربط مع المفوتر؟</string>
-  <string name="billerdetails_accountnumber_label">رقم الحساب:</string>
+  <string name="billerdetails_accountnumber_label">رقم الفاتورة:</string>
   <string name="billerdetails_billamount_label">مبلغ الفاتورة :</string>
   <string name="billerdetails_paymentduedate_label">التاريخ المحدد للدفع:</string>
   <string name="billerdetils_paynow_button">ادفع الآن!</string>
@@ -498,7 +498,7 @@
   <string name="billpay_confirmation_toolbar_title">تأكيد الدفع</string>
   <string name="billpay_confirmation_amountlabel">مبلغ الفاتورة</string>
   <string name="billpay_confirmation_billerlabel">المفوتر</string>
-  <string name="billpay_confirmation_accountnumber">رقم الحساب:</string>
+  <string name="billpay_confirmation_accountnumber">رقم الفاتورة:</string>
   <string name="billpay_confirmation_billamount">مبلغ الفاتورة :</string>
   <string name="favouritelist_servicetype_sendmoney">إرسال الأموال</string>
   <string name="favouritelist_servicetype_requestmoney">طلب المال</string>
@@ -538,7 +538,7 @@
   <string name="profile_otp_expires_in">تنتهي صلاحية رمز التأكيد خلال</string>
   <string name="profile_otp_resend_text">إعادة إرسال رمز التأكيد</string>
   <string name="profile_otp_button_text">التحقق</string>
-  <string name="profile_otp_empty_error">يرجى إدخال رمز التأكيد صالح</string>
+  <string name="profile_otp_empty_error">يرجى إدخال رمز تأكيد صالح</string>
   <string name="profile_otp_change_mobile_success_title">نجاح!</string>
   <string name="profile_otp_change_mobile_success_message">تم تغيير رقم هاتفك بنجاح</string>
   <string name="profile_otp_change_mobile_success_button">تم</string>
@@ -572,8 +572,8 @@
   <string name="confirmation_dialog_favorite_text">إضافة إلى المفضلة</string>
   <string name="confirmation_transactionid_text"> معرف المعاملة : </string>
   <string name="confirmation_datetime_text">التاريخ والوقت :</string>
-  <string name="confirmation_pin_dialog_message_text">الرجاء إدخال الرقم السري </string>
-  <string name="confirmation_initiate_request_text"></string>
+  <string name="confirmation_pin_dialog_message_text">الرجاء إدخال الرقم السري ل </string>
+  <string name="confirmation_initiate_request_text">بدأ الطلب</string>
   <string name="confirmation_action_request_text">ارسل الطلب</string>
   <string name="confirmation_pop_up_button_cancel">إلغاء</string>
   <string name="confirmation_common_network_error">حدث خطأ ما. أعد المحاولة من فضلك</string>

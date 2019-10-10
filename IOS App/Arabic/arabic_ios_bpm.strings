@@ -2,8 +2,8 @@
  Localizable.strings
  DigitalBanking
  
- Created by Gaurav Arora on 18/02/19.
- Copyright © 2019 Comviva. All rights reserved.
+ Created by BPM on 18/02/19.
+ Copyright © 2019 BPM. All rights reserved.
  */
 "choosen_language_code"="3";
 "choosen_locale"="ar";
@@ -93,20 +93,20 @@
 "reg_createprofile_answer_label"="الجواب";
 "reg_createprofile_button_text"="التالى";
 "username_blank_popup_message"="اسم المستخدم إلزامي";
-"username_invalid_popup_message"="أدخل اسم مستخدم صالح";
+"username_invalid_popup_message"="يجب أن يتراوح اسم المستخدم بين 5 و 15 حرفًا أبجديًا رقميًا دون مسافات.";
 "securityquestion_blank_popup_message"="سؤال الحماية إلزامي";
 "answer_blank_popup_message"="الجواب إلزامي";
 "answer_invalid_popup_message"="الرجاء إدخال إجابة صالحة";
 
 "reg_setmpin_titletext"="تعيين الرقم السري";
-"reg_setmpin_subtitletext"="كدت تنتهي !";
+"reg_setmpin_subtitletext"="كدت تنهي التسجيل !";
 "reg_setmpin_setmpin_label"="تعيين االرقم السري";
 "reg_setmpin_confirmmpin_label"="تأكيد  الرقم السري";
 "reg_setmpin_button_text"="تم";
 "setpin_blank_popup_message"="الرقم السري إلزامي";
-"setpin_invalid_popup_message"="الرجاء إدخال رقم السري صالح";
+"setpin_invalid_popup_message"="الرجاء إدخال رقم سري صالح";
 "confirmpin_blank_popup_message"="تأكيد الرقم السري إلزامي";
-"confirmpin_invalid_popup_message"="الرجاء إدخال  تأكيد رقم السري صحيح";
+"confirmpin_invalid_popup_message"="الرجاء إدخال  تأكيد الرقم السري صحيح";
 "pin_didnt_match"="الرقم السري و تأكيده لا يتطابقان";
 
 "login_titletext"="تسجيل الدخول";
@@ -144,12 +144,12 @@
 
 //Forgot PIN
 "forgotpin_toolbar_title"="نسيت الرقم السري";
-"forgotpin_title_text"="أجب عن سؤالك الحماية لتعيين رقم سري جديد";
+"forgotpin_title_text"="أجب على سؤال الحماية لتعيين رقم سري جديد";
 "forgotpin_security_question_lable"="سؤال الحماية";
 "forgotpin_answer_lable"="الجواب";
 "forgotpin_button_text"="التالى";
 "forgotpin_answer_error_message"="الرجاء إدخال جواب صحيح";
-"forgotpin_success_dialog_message"=" لقد تم تغيير الرقم السري الخاص بنجاح.";
+"forgotpin_success_dialog_message"=" لقد تم تغيير الرقم السري بنجاح.";
 "forgotpin_success_dialog_title"="نجاح!";
 "forgotpin_success_dialog_done_button"="تم";
 "forgotpin_set_new_pin_label"="تعيين رقم سري جديد";
@@ -187,8 +187,8 @@
 "signout_Confirm_Msg" = " هل أنت متأكد أنك تريد الخروج ؟";
 
 "session_invalidated_text"="تم إنهاء الجلسة ، إعادة تسجيل الدخول من فضلك";
-"changePinSuccessful" = " لقد تم تغيير الرقم السري الخاص بنجاح.";
+"changePinSuccessful" = " لقد تم تغيير الرقم السري بنجاح.";
 
-"no_kyc_popup_contents" = "يجب عليك إكمال ملفك لدى البنك للوصول إلى هذه الخدمات";
+"no_kyc_popup_contents" = "يجب عليك إكمال ملفك لدى البنك للولوج إلى هذه الخدمات";
 "facebook_link_success" = " تم ربط حسابك على فيسبوك بنجاح.";
 "facebook_delink_success" = "تم إلغاء ربط حسابك على فيسبوك بنجاح.";

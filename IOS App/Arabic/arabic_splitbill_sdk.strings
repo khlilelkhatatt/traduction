@@ -2,23 +2,23 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "sb_title_label" = "اللوحة";
 "sb_amount_label" = "المبلغ";
-"sb_note_label" = "إسم اللوحة";
+"sb_note_label" = "اسم اللوحة";
 "sb_memberslist_label" = "أفراد";
 "sb_you_label" = "أنت";
 "sb_next_label" = "التالى";
 "sb_add_title_label" = "إضافة أفراد";
 "sb_add_number_label" = "رقم الهاتف / اسم المستخدم";
-"sb_add_name_label" = "اسم";
+"sb_add_name_label" = "اسم المشترك";
 "sb_add_next_label" = "إضافة";
 "sb_add_member_exists_label" = "تمت إضافة هذا المستخدم بالفعل إلى قائمة الأعضاء الخاصة بك";
-"sb_add_number_validation_label" = "أدخل رقم هاتف صالحًا";
-"sb_select_number_validation_label" = "أدخل رقم هاتف صالحًا";
+"sb_add_number_validation_label" = "أدخل رقم هاتف صالحً";
+"sb_select_number_validation_label" = "أدخل رقم هاتف صالحً";
 "sb_add_name_validation_label" = "الرجاء إدخال اسم صالح.";
 "sb_save_group_message_label" = "هل تريد حفظ هذه المجموعة؟";
 "sb_update_group_message_label" = "هل تريد تحديث هذه المجموعة؟";
@@ -31,7 +31,7 @@
 "sb_invalidMobileUserNameError" = ".رقم الهاتف / اسم المستخدم غير صالح";
 "sb_emptyMemberNameError" = "لا يمكن أن يكون الاسم فارغًا";
 "sb_emptyAmountError" = "الرجاء إدخال مبلغ صالح.";
-"sb_emptyNoteError" = "لا يمكن أن تكون الملاحظة فارغة";
+"sb_emptyNoteError" = "لا يمكن أن يكون اسم اللوحة فارغا";
 "sb_noGroupMembers" = ".لم يتم العثور على أعضاء في هذه المجموعة";
 "sb_amountNotDist" = "المبلغ غير الموزع بالكامل. هل تريد المتابعة؟";
 "sb_amountNotDist_More" = ".تقسيم المبلغ يتجاوز المبلغ الإجمالي";
@@ -52,14 +52,14 @@
 "sb_noAddMore" = "لا ، أضف المزيد";
 "pop_up_button_yes" = "نعم";
 "pop_up_button_no" = "لا";
-"splibill_delete_message" = "هل أنت متأكد أنك تريد حذف أصدقاء المجموعة؟";
+"splibill_delete_message" = "هل أنت متأكد أنك تريد حذف أعضاء من المجموعة؟";
 "splitbill_noGroup_text" = "لا توجد مجموعة";
 "sb_delete_success_description" = "لقد حذفت المجموعة بنجاح";
 
 //Confirmation SDK
 "sb_confirm_splitAmount" = "المبلغ الإجمالي";
 "sb_confirm_yourShare" = "مشاركتك";
-"sb_confirm_descriptionLabel" = "ملاحظة";
+"sb_confirm_descriptionLabel" = "اسم اللوحة";
 "sb_confirm_groupName" = "أسم المجموعة";
 "sb_confirm_request" = "حصص المشتركين";
 "sb_confirm_title" = "تأكيد الطلب";
@@ -69,7 +69,7 @@
 "sb_totalamount_Text"           = "المبلغ الإجمالي";
 "sb_reqamount_Text"             = "المبلغ المطلوب";
 "sb_colamount_Text"             = "المبلغ المحصل";
-"sb_description_Text"           = "إسم اللوحة";
+"sb_description_Text"           = "اسم اللوحة";
 "sb_status_Text"                = "الحالة";
 "sb_cancelBtn_Text"             = "إلغاء الطلب";
 "sb_cancel_request_Text" = "هل أنت متأكد أنك تريد إلغاء هذا الطلب؟";

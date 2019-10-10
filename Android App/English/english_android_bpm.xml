@@ -84,7 +84,7 @@
   <string name="create_profile_security_answer_lable">Answer</string>
   <string name="create_profile_button_text">Next</string>
   <string name="create_profile_username_error_text">Username is mandatory</string>
-  <string name="create_profile_username_length_error_text">Username is invalid</string>
+  <string name="create_profile_username_length_error_text">The username must be between 5 and 15 alphanumeric without spaces.</string>
   <string name="create_profile_question_error_text">Security question is mandatory</string>
   <string name="create_profile_answer_error_text">Answer is mandatory</string>
   <!--Popup dialog-->
@@ -245,7 +245,7 @@
   <string name="confirmation_byotherbank_credited_account_text">credited to Account number</string>
   <string name="confirmation_byotherbank_business_days_text">in 3 to 5 business days</string>
 
-  <string name="home_bank_name">Peoples Bank of Mauritania</string>
+  <string name="home_bank_name">Banque Populaire de Mauritanie</string>
 
   <!--Fund Transfer-->
   <string name="fundtransfer_toolbar_text">Transfer</string>
@@ -494,7 +494,7 @@
   <string name="availablebiller_toolbar_text">Available Billers</string>
   <string name="addbiller_toolbar_text">Add Biller</string>
   <string name="addbiller_title_text">Associate your account with Biller</string>
-  <string name="addbiller_accountnumber_label">Account Number</string>
+  <string name="addbiller_accountnumber_label">Reference</string>
   <string name="addbiller_button_text">Next</string>
   <string name="addbiller_success_message">You can now start paying bills from My Billers.</string>
   <string name="billpayment_common_noresponse_text">Something went wrong</string>

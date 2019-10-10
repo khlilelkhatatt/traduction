@@ -2,13 +2,13 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 
 "cashout_tabbar_agent_text"          = "Agent";
-"cashout_tabbar_card_atm_text"       = "AU M";
+"cashout_tabbar_card_atm_text"       = "GAB";
 
 "cashoutAgent_confirmation_Field_text"="Montant";
 "cashoutAgent_confirmation_Header_text"="";

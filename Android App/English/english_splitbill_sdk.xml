@@ -4,8 +4,8 @@
     <string name="splitbillgroup_screen_title_text">AL LEWHA </string>
     <string name="splitbillgroup_amount_label">Amount</string>
     <string name="splitbillgroup_amount_hint">Enter Amount</string>
-    <string name="splitbillgroup_description_label">Name of LEWHA</string>
-    <string name="splitbillgroup_description_hint">Enter the name of LEWHA</string>
+    <string name="splitbillgroup_description_label">Description</string>
+    <string name="splitbillgroup_description_hint">Enter Description</string>
     <string name="splitbillgroup_members_label">Members</string>
     <string name="splitbillgroup_add_members_label">Add members</string>
     <string name="splitbillgroup_next">Next</string>
@@ -90,7 +90,7 @@
     <string name="split_bill_done">Done</string>
 
     <string name="split_bill_cancel_status">Status</string>
-    <string name="split_bill_cancel_description">Name of LEWHA</string>
+    <string name="split_bill_cancel_description">Description</string>
     <string name="split_bill_cancel_collected_amount">Collected Amount</string>
     <string name="split_bill_cancel_requested_Amount">Requested Amount</string>
     <string name="split_bill_cancel_total_amount">Total Amount</string>

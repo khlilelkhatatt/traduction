@@ -23,9 +23,9 @@
     <string name="merchant_payment_pay">Payez</string>
     <string name="merchant_payment_merchant_name">Nom du commerçant:</string>
     <string name="merchant_payment_amount_paid">Montant payé :</string>
-    <string name="merchant_payment_scan_qr_error">Erreur QR</string>
+    <string name="merchant_payment_scan_qr_error">Erreur QR Code</string>
 
     <string name="merchant_payment_enter_merchant_details">Entrez les détails du commerçant</string>
     <string name="merchant_payment_merchant_id_label">Code commerçant</string>
-    <string name="merchant_payment_enter_merchant_id">Entrez Code commerçant</string>
+    <string name="merchant_payment_enter_merchant_id">Entrez le code commerçant</string>
 </resources>

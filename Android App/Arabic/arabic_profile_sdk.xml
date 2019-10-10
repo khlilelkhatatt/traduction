@@ -11,7 +11,7 @@
     <!--Profile Details-->
     <string name = "profile_details_toolbar_text"> </string>
     <string name = "profile_details_title_text">تعديل معلومات ملفك الشخصي</string>
-    <string name="profile_details_firstname_text">الأسم</string>
+    <string name="profile_details_firstname_text">الإسم</string>
     <string name="profile_details_lastname_text">اسم العائلة</string>
     <string name="profile_details_username_text">اسم المستخدم</string>
     <string name="profile_details_mobile_text">رقم الهاتف </string>
@@ -33,7 +33,7 @@
     <string name="profile_otp_expires_in">تنتهي صلاحية رمز التأكيد خلال</string>
     <string name="profile_otp_resend_text">إعادة إرسال رمز التأكيد</string>
     <string name="profile_otp_button_text">التحقق</string>
-    <string name="profile_otp_empty_error">يرجى إدخال رمز التأكيد صالح</string>
+    <string name="profile_otp_empty_error">يرجى إدخال رمز تأكيد صالح</string>
     <string name="profile_otp_change_mobile_success_title">نجاح!</string>
     <string name="profile_otp_change_mobile_success_message">تم تغيير رقم هاتفك بنجاح</string>
     <string name="profile_otp_change_mobile_success_button">تم</string>

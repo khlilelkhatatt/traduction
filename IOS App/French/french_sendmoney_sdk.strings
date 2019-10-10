@@ -2,12 +2,12 @@
  Localizable.strings
  Module_Framework
  
- Created by Gaurav Arora on 21/06/19.
- Copyright © 2019 Gaurav Arora. All rights reserved.
+ Created by BPM on 21/06/19.
+ Copyright © 2019 BPM. All rights reserved.
  */
 
 //Send Money Common
-"sm_title_text"="Transfert d'argents";
+"sm_title_text"="Transfert d'argent";
 "sm_mobile_tab_text"="Numéro de téléphone";
 "sm_username_tab_text"="Nom d'utilisateur";
 "sm_bank_tab_text"="Banque";
@@ -28,7 +28,7 @@
 "sm_mobile_mobilenum_label"="Numéro de téléphone";
 "sm_mobile_mobilenum_error"="Veuillez saisir un numéro de téléphone valide";
 "sm_mobile_invalid_contact_error"="Sélectionnez un contact valide";
-"sm_mobile_mobilenum_not_exist_text"="Le numéro de téléphone n'est pas enregistré. Cepedant le bénéficiaire peut toujours recevoir le montant s'il s'enregistre ou en visitant le GAB ou le point Bankily les plus proches dans les prochains 7 jours. Voulez-vous continuer ?";
+"sm_mobile_mobilenum_not_exist_text"="Le numéro de téléphone n'est pas enregistré. Cepedant le bénéficiaire peut toujours recevoir le montant s'il s'enregistre ou en visitant le GAB ou le point Bankily les plus proches dans les prochains 3 jours. Voulez-vous continuer ?";
 
 //Send Money By Username
 "sm_username_label"="Nom d'utilisateur";
@@ -41,7 +41,7 @@
 //Send Money By Other Bank
 "sm_bank_other_title_text"="Virements-Autres Banques";
 "sm_bank_other_subtitle_label"="Entrez les détails du compte du bénéficiaire";
-"sm_other_bank_name_label"="Prénom";
+"sm_other_bank_name_label"="Nom bénéficiaire";
 "sm_other_bank_bank_label"="Banque";
 "sm_other_bank_account_number_label"="Numéro de compte : ";
 "sm_bank_other_invalid_name_error"="Entrez un nom valide";
@@ -55,7 +55,7 @@
 "sm_pop_up_button_no" = "Non";
 
 "sendmoney_bybank_choose_bank" = "Sélectionnez la banque du bénéficiaire";
-"sendmoney_by_bpm" = "Banque Populaire De Mauritanie";
+"sendmoney_by_bpm" = "Banque Populaire de Mauritanie";
 "sendmoney_byother_bank" = "Autres Banques";
 
 "sendmoney_ownbank_cif" = "Numéro CIF";
@@ -67,7 +67,7 @@
 "sendmoney_ownbank_amount" = "Montant";
 "sendmoney_ownbank_enter_amount" = "Entrer le montant";
 "sendmoney_ownbank_enter_valid_amount" = "Entrer un montant valide";
-"sendmoney_ownbank_note" = "Remarque (Facultatif)";
+"sendmoney_ownbank_note" = "Remarque (optionelle)";
 "sendmoney_ownbank_enter_note" = "Entrer la remarque";
 "sendmoney_ownbank_title" = "Banque Populaire de Mauritanie";
 "sendmoney_otherbank_title" = "Autre banque";

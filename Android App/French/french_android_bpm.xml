@@ -8,24 +8,24 @@
   <string name="selectLanaguage_text_arabicText">العربية</string>
   <string name="selectLanaguage_text_frenchText">Français</string>
 
-  <string name="splash_imeipermission_error">Merci de donner l'autorisation au téléphone pour lancer l'applicaiton</string>
+  <string name="splash_imeipermission_error">Merci de donner l'autorisation au téléphone pour lancer l'application</string>
   <string name="splash_updateavailable_text">Mise à jour disponible</string>
-  <string name="splash_forceupdate_text">Veuillez mettre à jour votre application. Sinon, vous ne pourrez pas utiliser l'application</string>
+  <string name="splash_forceupdate_text">Veuillez mettre à jour votre application. Sinon, vous ne pourrez plus l'utiliser </string>
   <string name="splash_update_btn">Mise à jour</string>
   <string name="selectLanguage_button_text">Continuer</string>
 
   <string name="walkthrough6_title">EL LEWHA</string>
   <string name="walkthrough6_desc">Soyez l’initiateur d’une collecte sociale pour venir en aide à un proche ou une collecte pour un événement  avec votre application Bankily !</string>
-  <string name="walkthrough5_title">Recharge téléphonique</string>
+  <string name="walkthrough5_title">Recharges téléphoniques</string>
   <string name="walkthrough5_desc">Rechargez votre crédit téléphonique  ou celui d'un  proche sans vous déplacer avec votre application Bankily !</string>
   <string name="walkthrough4_title">Paiement de factures</string>
   <string name="walkthrough4_desc">Payez votre facture d'eau ou d'électricité sans vous déplacer avec votre application Bankily !</string>
   <string name="walkthrough3_title">Demande d’argent</string>
   <string name="walkthrough3_desc">Besoin d'argent ? Contactez vos proches en toute confiance avec votre application Bankily !</string>
   <string name="walkthrough2_title">Paiement commerçant</string>
-  <string name="walkthrough2_desc">Payez facilement vos achats avec votre application Bankily</string>
+  <string name="walkthrough2_desc">Payez facilement vos achats avec votre application Bankily !</string>
   <string name="walkthrough1_title">Transfert d'argent</string>
-  <string name="walkthrough1_desc">Transférez de l'argent en toute sécurité avec vos proches avec votre application Bankily !</string>
+  <string name="walkthrough1_desc">Transférez de l'argent en toute sécurité avec votre application Bankily !</string>
   <string name="walkthrough_text_skiptext">Passer</string>
   <string name="walkthrough_text_gotittext">Compris</string>
   <string name="before_login_login_signin">Se connecter</string>
@@ -84,7 +84,7 @@
   <string name="create_profile_security_answer_lable">Réponse</string>
   <string name="create_profile_button_text">Suivant</string>
   <string name="create_profile_username_error_text">Nom d'utilisateur est obligatoire</string>
-  <string name="create_profile_username_length_error_text">Entrez un nom d'utilisateur valide</string>
+  <string name="create_profile_username_length_error_text">Le nom d'utilisateur doit être compris entre 5 et 15 alphanumerique sans espaces.</string>
   <string name="create_profile_question_error_text">Question de sécurité est obligatoire</string>
   <string name="create_profile_answer_error_text">Réponse est obligatoire</string>
   <string name="title_registration_text">Allons-y pour votre enregistrement</string>
@@ -94,7 +94,7 @@
   <string name="signup_existingcustomer_button_text">Client Existant</string>
 
   <string name="mpin_toolbar_title">Définir le code PIN</string>
-  <string name="mpin_title_text">Tu es presque fini !</string>
+  <string name="mpin_title_text">Vous avez presque termine !</string>
   <string name="mpin_setpin_lable">Définir un PIN à 4 chiffres</string>
   <string name="mpin_confirm_lable">Confirmez votre PIN</string>
   <string name="mpin_button_text">Effectué</string>
@@ -131,19 +131,19 @@
   <string name="notification_toolbar_text">Notifications</string>
   <string name="home_bottombar_home_text">Accueil</string>
   <string name="home_bottombar_favorites_text">Favoris</string>
-  <string name="home_bottombar_notification_text">Notificaitons</string>
+  <string name="home_bottombar_notification_text">Notifications</string>
   <string name="home_bottombar_help_text">Aide</string>
   <string name="dashboard_topbar_pay">Paiements</string>
   <string name="dashboard_topbar_transfer">Transferts</string>
   <string name="dashboard_topbar_balance">Comptes</string>
   <string name="dashboard_topbar_transaction">Transactions</string>
 
-  <string name="dashboard_service_recharge">Recharge téléphoniques</string>
+  <string name="dashboard_service_recharge">Recharges téléphoniques</string>
   <string name="dashboard_service_billpayment">Paiement de factures</string>
   <string name="dashboard_service_chequebook">Demande de carnet de chèques</string>
   <string name="dashboard_service_debitcard">Cartes de crédits</string>
   <string name="dashboard_service_cashout">Retrait d'argent</string>
-  <string name="dashboard_partial_kyc_alert_text">Vous devez remplir votre dossier avec la banque pour accéder à ces services</string>
+  <string name="dashboard_partial_kyc_alert_text">Vous devez compléter votre dossier avec la banque pour accéder à ces services</string>
 
   <!--Hamberger Menu Items-->
   <string name="home_nav_menu_changelanguage_text">Langue</string>
@@ -234,8 +234,8 @@
 
   <!--Fund Transfer-->
   <string name="fundtransfer_toolbar_text">Transfert</string>
-  <string name="fundtransfer_sendmoney_text">Transfert d'argents</string>
-  <string name="fundtransfer_requestmoney_text">Demande d'argents</string>
+  <string name="fundtransfer_sendmoney_text">Transfert d'argent</string>
+  <string name="fundtransfer_requestmoney_text">Demande d'argent</string>
   <string name="fundtransfer_nfc_text">NFC</string>
   <string name="fundtransfer_qr_text">QR</string>
   <string name="fundtransfer_splitbill_text">EL LEWHA</string>
@@ -257,7 +257,7 @@
   <string name="fundtransfer_nfc_not_enabled">NFC non activé</string>
 
   <!--Send Money-->
-  <string name="sendmoney_toolbar_text">Transfert d'argents</string>
+  <string name="sendmoney_toolbar_text">Transfert d'argent</string>
   <string name="sendmoney_send_button">Envoi</string>
   <string name="sendmoney_tab_mobile_text">Numéro de téléphone</string>
   <string name="sendmoney_tab_username_text">Nom d'utilisateur</string>
@@ -285,10 +285,10 @@
   <string name="sendmoneybymobilenumber_contactpermission_msg">Autorisation de lecture est requise pour afficher votre liste de contacts.</string>
   <string name="sendmoneybymobilenumber_mobileno_error">Veuillez saisir un numéro de téléphone valide</string>
   <string name="sendmoneybymobilenumber_amount_error">Veuillez saisir un montant valide</string>
-  <string name="sendmoneybymobilenumber_mobile_number_not_exist">Le numéro de téléphone entré n\'est pas enregistré. Toutefois, le bénéficiaire peut toujours le recevoir en s’inscrivant ou en visitant un guichet automatique ou un point de vente d’agent à proximité dans les 7 jours. Voulez-vous continuer?</string>
+  <string name="sendmoneybymobilenumber_mobile_number_not_exist">Le numéro de téléphone entré n\'est pas enregistré. Toutefois, le bénéficiaire peut toujours le recevoir en s’inscrivant sur Bankily ou en visitant un guichet automatique ou un point Bankily  à proximité dans les 3 jours. Voulez-vous continuer?</string>
 
   <string name="sendmoneybybank_title_label">Choisir la banque du bénéficiaire</string>
-  <string name="sendmoneybybank_bpm_bank_label">Banque Populaire De Mauritanie</string>
+  <string name="sendmoneybybank_bpm_bank_label">Banque Populaire de Mauritanie</string>
   <string name="sendmoneybybank_other_bank_label">Autres Banques</string>
 
   <string name="sendmoney_confirm_account_no_label">Numéro de compte : </string>
@@ -300,13 +300,13 @@
   <string name="otherbankaccountdetails_toolbar_text">Virements-Autres Banques</string>
   <string name="otherbankaccountdetails_title_text">Entrez les détails du compte du bénéficiaire</string>
   <string name="otherbankaccountdetails_button_text">Suivant</string>
-  <string name="otherbankaccountdetails_name_lable">Nom</string>
+  <string name="otherbankaccountdetails_name_lable">Nom Bénéficiaire</string>
   <string name="otherbankaccountdetails_bank_lable">Banque</string>
   <string name="otherbankaccountdetails_account_no_lable">Numéro de compte</string>
   <string name="otherbankaccountdetails_amount_lable">Montant</string>
   <string name="otherbankaccountdetails_note_lable">Remarque</string>
   <string name="otherbankaccountdetails_name_unerror_text">Entrez un nom valide</string>
-  <string name="otherbankaccountdetails_bank_unerror_text">Séléctionner la banque</string>
+  <string name="otherbankaccountdetails_bank_unerror_text">Séléctionnez la banque</string>
   <string name="otherbankaccountdetails_account_no_unerror_text">Entrez un numéro de compte valide</string>
   <string name="otherbankaccountdetails_amount_unerror_text">Entrez un montant valide</string>
 
@@ -322,7 +322,7 @@
   <string name="bpmbankaccountnoamount_amount_lable">Montant</string>
   <string name="bpmbankaccountnoamount_note_lable">Remarque</string>
   <string name="bpmbankaccountnoamount_button_text">Suivant</string>
-  <string name="bpmbankaccountnoamount_amount_unerror_text">Entrer un montant  valide</string>
+  <string name="bpmbankaccountnoamount_amount_unerror_text">Entrez un montant  valide</string>
   <string name="bpmbankaccountnoamount_account_unerror_text">Choisissez un compte</string>
 
   <string name="dialog_comingsoon_message">Arrive bientôt</string>
@@ -339,7 +339,7 @@
   <string name="debit_card_type_not_found_text">Aucun type de carte trouvé pour générer la demande.</string>
 
   <!--Request Money-->
-  <string name="requestmoney_toolbar_text">Demande d'argents</string>
+  <string name="requestmoney_toolbar_text">Demande d'argent</string>
   <string name="requestmoney_tab_mobile_text">Numéro de téléphone</string>
   <string name="requestmoney_tab_username_text">Nom d'utilisateur</string>
   <string name="requestmoney_tab_facebook_text">Facebook</string>
@@ -349,7 +349,7 @@
   <string name="requestmoneybymobilenumber_mobileno_label">Numéro de téléphone</string>
   <string name="requestmoneybymobilenumber_mobileno_hint">Entrez le numéro de téléphone</string>
   <string name="requestmoneybymobilenumber_amount_label">Montant</string>
-  <string name="requestmoneybymobilenumber_amount_hint">Entrer le montant</string>
+  <string name="requestmoneybymobilenumber_amount_hint">Entrez le montant</string>
   <string name="requestmoneybymobilenumber_purpose_label">Remarque (Optionnelle)</string>
   <string name="requestmoneybymobilenumber_purpose_hint">Entrez la remarque</string>
   <string name="requestmoneybymobilenumber_contactpermission_error_title">Erreur</string>
@@ -366,7 +366,7 @@
   <string name="requestmoneybyusername_username_label">Nom d'utilisateur</string>
   <string name="requestmoneybyusername_username_hint">Entrez le nom d'utilisateur</string>
   <string name="requestmoneybyusername_amount_label">Montant</string>
-  <string name="requestmoneybyusername_amount_hint">Entrer le montant</string>
+  <string name="requestmoneybyusername_amount_hint">Entrez le montant</string>
   <string name="requestmoneybyusername_purpose_label">Remarque (Optionnelle)</string>
   <string name="requestmoneybyusername_purpose_hint">Entrez la remarque</string>
   <string name="requestmoneybyusername_unerror_text">Entrez un nom d\'utilisateur valide</string>
@@ -384,12 +384,12 @@
   <string name="notification_requestreceived_splitbill_amount">Demande de LEWHA pour</string>
   <string name="notification_requestreceived_from">De </string>
   <string name="notification_requestreceived_note">Remarque: </string>
-  <string name="notificationstatus_pendingtext">en attendant</string>
-  <string name="notificationstatus_expiredtext">Expiré</string>
+  <string name="notificationstatus_pendingtext">en attente</string>
+  <string name="notificationstatus_expiredtext">Expirée</string>
   <string name="notificationstatus_approvedtext">Approuvée!</string>
   <string name="notificationstatus_rejectedtext">Rejetée</string>
-  <string name="notificationstatus_canceledtext">Annulé</string>
-  <string name="notificationstatus_partiallypaidtext">Partiellement payé</string>
+  <string name="notificationstatus_canceledtext">Annulée</string>
+  <string name="notificationstatus_partiallypaidtext">Partiellement payée</string>
 
   <string name="notification_requestsent_amount">Demande de</string>
   <string name="notification_requestsent_splitbill_amount">Demande de LEWHA pour </string>
@@ -410,7 +410,7 @@
 
   <string name="notification_requestrejectinput_remarkslabel">Raison (optionnel)</string>
   <string name="notification_requestrejectinput_cancelbutton">Annuler</string>
-  <string name="notification_requestrejectinput_declinebutton">Déclin</string>
+  <string name="notification_requestrejectinput_declinebutton">Refuser</string>
   <string name="notification_requestrejectdialog_success">Succès!</string>
 
   <string name="notification_requestaccepted_confirmation_title_text">Confirmer le transfert d'argent</string>
@@ -427,14 +427,14 @@
   <string name="notification_expiredstatus_notetext">Remarque:</string>
   <string name="notification_splitbill_notetext">Description:</string>
 
-  <string name="confirmation_requestaccepted_name">Prénom:</string>
+  <string name="confirmation_requestaccepted_name">Nom:</string>
   <string name="confirmation_requestaccepted_amounttext">Montant:</string>
 
   <string name="ministatement_notransaction_text">Aucune transaction trouvée</string>
 
   <!--Favourites-->
 
-  <string name="recharge_service_toolbar_text">Recharge téléphoniques</string>
+  <string name="recharge_service_toolbar_text">Recharges téléphoniques</string>
   <string name="rechargeservice_btn_next">Suivant</string>
   <string name="recharge_service_mobile_number">Numéro de téléphone</string>
   <string name="recharge_service_enter_mobile_number">Entrez le numéro de téléphone</string>
@@ -470,7 +470,7 @@
   <string name="merchant_payment_pay">Payez </string>
   <string name="merchant_payment_merchant_name">Nom du commerçant :</string>
   <string name="merchant_payment_amount_paid">Montant payé :</string>
-  <string name="merchant_payment_scan_qr_error">Erreur QR</string>
+  <string name="merchant_payment_scan_qr_error">Erreur QR Code</string>
   <string name="merchant_payment_enter_merchant_details">Entrez les détails du commerçant</string>
   <string name="merchant_payment_merchant_id_label">Code commerçant</string>
   <string name="merchant_payment_enter_merchant_id">Entrez Code commerçant</string>
@@ -480,7 +480,7 @@
   <string name="availablebiller_toolbar_text">Les facturiers disponibles</string>
   <string name="addbiller_toolbar_text">Ajouter un facturier</string>
   <string name="addbiller_title_text">Associez votre compte à un facturier</string>
-  <string name="addbiller_accountnumber_label">Numéro de compte</string>
+  <string name="addbiller_accountnumber_label">Référence de facture</string>
   <string name="addbiller_button_text">Suivant</string>
   <string name="addbiller_success_message">Vous pouvez maintenant commencer à payer les factures à partir du menu Facturiers</string>
   <string name="billpayment_common_noresponse_text">Une erreur est survenue</string>
@@ -489,9 +489,9 @@
   <string name="billpayment_success_dialog_done_button">Effectué</string>
   <string name="billpayment_pop_up_button_yes">Oui</string>
   <string name="billpayment_pop_up_button_no">Non</string>
-  <string name="associatebiller_accountnumber_emptytext">Veuillez entrer le numéro de compte</string>
+  <string name="associatebiller_accountnumber_emptytext">Veuillez entrer la référence de votre facture</string>
   <string name="deletebiller_message_text">Êtes-vous sûr de vouloir supprimer cette association de facturiers?</string>
-  <string name="billerdetails_accountnumber_label">Numéro de compte :</string>
+  <string name="billerdetails_accountnumber_label">Référence facture :</string>
   <string name="billerdetails_billamount_label">Montant de la facture :</string>
   <string name="billerdetails_paymentduedate_label">Date d'échéance du paiement :</string>
   <string name="billerdetils_paynow_button">Payez maintenant!</string>
@@ -499,11 +499,11 @@
   <string name="billpay_confirmation_toolbar_title">Confirmez le paiement</string>
   <string name="billpay_confirmation_amountlabel">Montant de la facture</string>
   <string name="billpay_confirmation_billerlabel">Facturier :</string>
-  <string name="billpay_confirmation_accountnumber">Numéro de compte:</string>
+  <string name="billpay_confirmation_accountnumber">Référence facture:</string>
   <string name="billpay_confirmation_billamount">Montant de la facture :</string>
-  <string name="favouritelist_servicetype_sendmoney">Transfert d'argents</string>
-  <string name="favouritelist_servicetype_requestmoney">Demande d'argents</string>
-  <string name="favouritelist_servicetype_recharge">Recharge téléphoniques</string>
+  <string name="favouritelist_servicetype_sendmoney">Transfert d'argent</string>
+  <string name="favouritelist_servicetype_requestmoney">Demande d'argent</string>
+  <string name="favouritelist_servicetype_recharge">Recharges téléphoniques</string>
   <string name="faouritelist_serviceusing_mobilenumber">Numéro de téléphone :</string>
   <string name="faouritelist_serviceusing_username">Nom d'utilisateur :</string>
   <string name="faouritelist_serviceusing_facebook">Amie Facebook :</string>
@@ -511,7 +511,7 @@
   <string name="faouritelist_serviceusingdetail_bank">Banque :</string>
   <string name="faouritelist_serviceusingdetail_operator">Opérateur : </string>
   <string name="favourite_delete_text">Supprimer</string>
-  <string name="favourite_delete_message">Êtes-vous sûr de vouloir supprimer cet élément favori?</string>
+  <string name="favourite_delete_message">Êtes-vous sûr de vouloir supprimer cet élément des favoris?</string>
   <string name="profile_pop_up_button_ok">OK</string>
   <string name="profile_pop_up_button_cancel">Annuler</string>
   <string name="profile_pop_up_button_yes">Oui</string>
@@ -583,7 +583,7 @@
   <string name="otp_expires_min">0 Minutes 0 Secondes</string>
   <string name="sendmoneybyfacebook_add_friend">Ajouter un ami</string>
   <string name="sendmoneybyfacebook_amount_label">Montant</string>
-  <string name="sendmoneybyfacebook_amount_hint">Entrer le montant</string>
+  <string name="sendmoneybyfacebook_amount_hint">Entrez le montant</string>
   <string name="sendmoneybyfacebook_purpose_label">Remarque (Optionnelle)</string>
   <string name="sendmoneybyfacebook_purpose_hint">Entrez la remarque</string>
   <string name="sendmoneybyfacebook_friendname_emptytext">Veuillez ajouter un ami facebook.</string>

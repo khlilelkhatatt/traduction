@@ -4,7 +4,7 @@
   <string name="app_name">Bankily</string>
 
   <!--Recharge Service -->
-  <string name="recharge_service_toolbar_text">Recharge téléphoniques</string>
+  <string name="recharge_service_toolbar_text">Recharges téléphoniques</string>
   <string name="rechargeservice_btn_next">Suivant</string>
 
   <string name="recharge_service_mobile_number">Numéro de téléphone</string>

@@ -8,7 +8,7 @@
 
 
 "cashout_tabbar_agent_text"          = "وكيل";
-"cashout_tabbar_card_atm_text"       = "ماكينة الصراف الآلي";
+"cashout_tabbar_card_atm_text"       = " الصراف الآلي";
 "cashoutAgent_confirmation_Field_text"="المبلغ";
 "cashoutAgent_confirmation_Header_text"="";
 "cashoutAgent_confirmation_Sub_Header_text"="رمز الوكيل :";

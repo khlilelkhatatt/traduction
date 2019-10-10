@@ -15,10 +15,10 @@
   <string name="sendmoneypayqr_confirm_note">Remarque</string>
   <string name="sendmoneypayqr_amount_error">Veuillez entrer un montant valide</string>
   <string name="sendmoneynfc_toolbar_text">NFC</string>
-  <string name="sendmoneynfc_enter_amount">Entrer le montant</string>
+  <string name="sendmoneynfc_enter_amount">Entrez le montant</string>
   <string name="sendmoneynfc_payment_label">Votre transfert est en cours</string>
   <string name="sendmoneynfc_amount_error">Veuillez entrer un montant valide</string>
-  <string name="sendmoneynfc_confirmation_title_text">Confirmer le transfert de d'argent</string>
+  <string name="sendmoneynfc_confirmation_title_text">Confirmez le transfert de d'argent</string>
   <string name="sendmoneynfc_confirm_note_label">Remarque</string>
   <string name="sendmoneynfc_enter_note_label">Entrez la remarque</string>
   <string name="sendmoneynfc_pop_up_button_ok">OK</string>

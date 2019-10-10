@@ -92,7 +92,7 @@
 "reg_createprofile_answer_label"="Answer";
 "reg_createprofile_button_text"="Next";
 "username_blank_popup_message"="Username is mandatory";
-"username_invalid_popup_message"="Enter valid Username";
+"username_invalid_popup_message"="The username must be between 5 and 15 alphanumeric without spaces.";
 "securityquestion_blank_popup_message"="Security question is mandatory";
 "answer_blank_popup_message"="Answer is mandatory";
 "answer_invalid_popup_message"="Enter valid Answer";

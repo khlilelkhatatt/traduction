@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 "debit_card_toolbar_text"               = "Cartes de crédits";
@@ -27,7 +27,7 @@
 "initiate request."                     = "initialisation de la demande";
 "Send Request"                          = "Envoyer la demande";
 "Cancel"                                = "Annuler";
-"select_valid_cardtype"                 = "Sélectionnez le type de carte valide";
+"select_valid_cardtype"                 = "Sélectionnez un type de carte valide";
 "error_response_message"                = "Une erreur est survenue";
 "request_debitcard_type_text"           = "Type de carte de débit";
 "debitcard_popup_ok_label"              = "Ok";

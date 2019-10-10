@@ -24,7 +24,7 @@
   <string name="cashout_pop_up_button_cancel">Annuler</string>
   <string name="cashout_pop_up_button_yes">Oui</string>
   <string name="cashout_pop_up_button_no">Non</string>
-  <string name="cashout_confirm_screen_text">Confirmer la demande</string>
+  <string name="cashout_confirm_screen_text">Confirmez la demande</string>
   <string name="cashout_alert_dialog_title">Alerte</string>
   <string name="cashout_ok_btn">OK</string>
 

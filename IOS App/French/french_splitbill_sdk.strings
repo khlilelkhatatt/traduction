@@ -8,13 +8,13 @@
 
 "sb_title_label" = "EL LEWHA";
 "sb_amount_label" = "Montant";
-"sb_note_label" = "Nom de LEWHA";
+"sb_note_label" = "Description";
 "sb_memberslist_label" = "Membres";
 "sb_you_label" = "Vous";
 "sb_next_label" = "Suivant";
 "sb_add_title_label" = "Ajouter des membres";
 "sb_add_number_label" = "Numéro de téléphone / Nom d'utilisateur";
-"sb_add_name_label" = "Prénom";
+"sb_add_name_label" = "Nom participant";
 "sb_add_next_label" = "Ajouter";
 "sb_add_member_exists_label" = "Cet utilisateur est déjà ajouté à votre liste de membres.";
 "sb_add_number_validation_label" = "Veuillez entrer un numéro de téléphone valide.";
@@ -22,23 +22,23 @@
 "sb_add_name_validation_label" = "Veuillez entrer un nom valide.";
 "sb_save_group_message_label" = "Voulez-vous enregistrer ce groupe?";
 "sb_update_group_message_label" = "Voulez-vous mettre à jour ce groupe?";
-"sb_save_group_name_label" = "Nom de groupe";
+"sb_save_group_name_label" = "Nom du groupe";
 "sb_save_group_positive_label" = "Oui";
 "sb_save_group_negative_label" = "Non";
 "sb_Some_Invalid_Users_Confirmation" = "%d de %d membres n'ont pas pu être ajoutés car ils sont inactifs ou non enregistrés. Voulez-vous toujours continuer?";
 
-"sb_emptyMobileUserNameError" = "Le numéro de téléphone mobile / nom d'utilisateur ne peut pas être vide.";
+"sb_emptyMobileUserNameError" = "Le numéro de téléphone / nom d'utilisateur ne peut pas être vide.";
 "sb_invalidMobileUserNameError" = "Numéro de téléphone / Nom d'utilisateur est invalide.";
-"sb_emptyMemberNameError" = "Nom ne peut être vide.";
+"sb_emptyMemberNameError" = "Nom participant ne peut être vide.";
 "sb_emptyAmountError" = "Veuillez entrer un montant valide.";
 "sb_emptyNoteError" = "Description ne peut pas être vide.";
 "sb_noGroupMembers" = "Aucun membre trouvé dans ce groupe.";
 "sb_amountNotDist" = "Montant non distribué complètement. Voulez-vous poursuivre?";
-"sb_amountNotDist_More" = "Montant divisé dépasse le montant total.";
+"sb_amountNotDist_More" = "Somme des montants dépasse le montant total.";
 "sb_noMembersAdded" = "Aucun membre ajouté.";
 
 "sb_Main_title_label" = "EL LEWHA";
-"sb_subtitle_label" = "Créez un nouveau groupe ou sélectionnez-en un existant pour diviser votre LEWHA.";
+"sb_subtitle_label" = "Créez un nouveau groupe ou sélectionnez-en un existant pour initier votre LEWHA.";
 "sb_delete_text" = "Supprimer le groupe";
 "sb_group_members_label" = "membres";
 "splibill_navigationbar_title_text" = "Supprimer le groupe";
@@ -70,7 +70,7 @@
 "sb_totalamount_Text"           = "Montant total";
 "sb_reqamount_Text"             = "Montant demandé";
 "sb_colamount_Text"             = "Montant collecté";
-"sb_description_Text"           = "Nom de LEWHA";
+"sb_description_Text"           = "Description";
 "sb_status_Text"                = "Statut";
 "sb_cancelBtn_Text"             = "Annuler la demande";
 "sb_cancel_request_Text" = "Êtes-vous sûr de vouloir annuler cette demande?";

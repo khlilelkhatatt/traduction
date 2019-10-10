@@ -2,8 +2,8 @@
   Localizable.strings
   Module_Framework
 
-  Created by Comviva on 21/06/19.
-  Copyright © 2019 Comviva. All rights reserved.
+  Created by BPM on 21/06/19.
+  Copyright © 2019 BPM. All rights reserved.
 */
 
 
@@ -26,14 +26,14 @@
 "debit_card_success_dialog_button"      = "تم";
 "error_dialog_title"                    = "خطأ";
 
-"pin_dialog_message_text "              = "رجاء إدخال الرقم السري ل ";
-"initiate request."                     = "";
+"pin_dialog_message_text "              = "الرجاء إدخال الرقم السري ل ";
+"initiate request."                     = "بدء الطلب.";
 "Send Request"                          = "ارسل طلب";
 "Cancel"                                = "إلغاء";
-"select_valid_cardtype"                 = "اختر نوع البطاقة الصحيحة";
+"select_valid_cardtype"                 = "اختر نوع بطاقة صحيح";
 "error_response_message"                = "هناك خطأ ما";
-"request_debitcard_type_text"           = "نوع بطاقة الخصم";
-"debitcard_blockpin_msg_text"           = "الرجاء إدخال رقم السري لـ ";
+"request_debitcard_type_text"           = "نوع البطاقة البنكية";
+"debitcard_blockpin_msg_text"           = "الرجاء إدخال الرقم السري لـ ";
 "debitcard_popup_ok_label"              = "تم";
 "debitcard_popup_error_label"           = "خطأ";
 "debitcard_confirmation_title_text"     = "تأكيد الطلب";

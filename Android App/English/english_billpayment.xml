@@ -8,7 +8,7 @@
   <!--Add Biller-->
   <string name="addbiller_toolbar_text">Add Biller</string>
   <string name="addbiller_title_text">Associate your account with Biller</string>
-  <string name="addbiller_accountnumber_label">Account Number</string>
+  <string name="addbiller_accountnumber_label">Reference</string>
   <string name="addbiller_button_text">Next</string>
   <string name="addbiller_success_message">You can now start paying bills from My Billers.</string>
 
