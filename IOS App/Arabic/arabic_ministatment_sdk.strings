@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"miniStatement_toolbar_text"                = "حسابي";
+"miniStatement_closing_balance_label"       = "الرصيد";
+"miniStatement_last_10_trans_label"         = "آخر 10 معاملات";
+"miniStatement_filter_date_label"           = "تصفية حسب التاريخ";
+"miniStatement_transaction_id_label"        = "معرف المعاملة";
+"miniStatement_popup_ok_label"              = "تم";
+"miniStatement_popup_error_label"           = "خطأ";
+"miniStatement_comingsoon_label"            = "قريبا";
+"miniStatement_from_label" = "من عند";
+"miniStatement_to_label" = "إلى";
+"miniStatement_cancel_text" = "إلغاء";
+"miniStatement_select_valid_date" = "يرجى تحديد تاريخ صالح ، أي يجب أن يكون تاريخ البدء أقل من تاريخ الانتهاء";
+"miniStatement_cr_text" = "Cr";
+"miniStatement_dr_text" = "Dr";

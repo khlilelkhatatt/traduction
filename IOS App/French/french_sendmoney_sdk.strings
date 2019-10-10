@@ -1,0 +1,78 @@
+/*
+ Localizable.strings
+ Module_Framework
+ 
+ Created by Gaurav Arora on 21/06/19.
+ Copyright © 2019 Gaurav Arora. All rights reserved.
+ */
+
+//Send Money Common
+"sm_title_text"="Transfert d'argents";
+"sm_mobile_tab_text"="Numéro de téléphone";
+"sm_username_tab_text"="Nom d'utilisateur";
+"sm_bank_tab_text"="Banque";
+"sm_facebook_tab_text"="Facebook";
+
+"sm_amount_label"="Montant";
+"sm_note_label"="Remarque (Optionnelle)";
+"sm_button_text"="Envoi";
+"sm_next_button_text"="Suviant";
+"sm_amount_error"="Entrez un montant valide";
+"sm_confirmation_navigation_title"="Confirmer le transfert ";
+"sm_confirmation_note_label"="Remarque";
+"sm_confirmation_amount_sent_label"="Montant";
+"sm_confirmation_recipient_name_label"="Nom du bénéficiaire";
+"sm_confirmation_transfer_amount_label"="Montant à transférer";
+
+//Send Money By Mobile
+"sm_mobile_mobilenum_label"="Numéro de téléphone";
+"sm_mobile_mobilenum_error"="Veuillez saisir un numéro de téléphone valide";
+"sm_mobile_invalid_contact_error"="Sélectionnez un contact valide";
+"sm_mobile_mobilenum_not_exist_text"="Le numéro de téléphone n'est pas enregistré. Cepedant le bénéficiaire peut toujours recevoir le montant s'il s'enregistre ou en visitant le GAB ou le point Bankily les plus proches dans les prochains 7 jours. Voulez-vous continuer ?";
+
+//Send Money By Username
+"sm_username_label"="Nom d'utilisateur";
+"sm_username_error"="Entrez un nom d'utilisateur valide";
+
+//Send Money By Facebook
+"sm_facebook_add_friend" = "Ajouter un ami";
+"sm_select_friend_error" = "Veuillez sélectionner un ami";
+
+//Send Money By Other Bank
+"sm_bank_other_title_text"="Virements-Autres Banques";
+"sm_bank_other_subtitle_label"="Entrez les détails du compte du bénéficiaire";
+"sm_other_bank_name_label"="Prénom";
+"sm_other_bank_bank_label"="Banque";
+"sm_other_bank_account_number_label"="Numéro de compte : ";
+"sm_bank_other_invalid_name_error"="Entrez un nom valide";
+"sm_bank_other_invalid_bank_error"="Sélectionnez la banque";
+"sm_bank_other_invalid_acc_number_error"="Entrez un numéro de compte valide";
+
+//Popup dialog
+"sm_pop_up_button_ok" = "OK";
+"sm_pop_up_error_title" = "Erreur";
+"sm_pop_up_button_yes" = "Oui";
+"sm_pop_up_button_no" = "Non";
+
+"sendmoney_bybank_choose_bank" = "Sélectionnez la banque du bénéficiaire";
+"sendmoney_by_bpm" = "Banque Populaire De Mauritanie";
+"sendmoney_byother_bank" = "Autres Banques";
+
+"sendmoney_ownbank_cif" = "Numéro CIF";
+"sendmoney_ownbank_enter_cif" = "Entrer le numéro CIF";
+"sendmoney_ownbank_enter_valid_cif" = "Entrez un numéro CIF valide";
+"sendmoney_ownbank_enter_rec_details" = "Entrez les détails du compte du destinataire";
+"sendmoney_ownbank_next" = "Suivant";
+"sendmoney_ownbank_choose_bank_account" = "Choisissez un compte bancaire et entrez le montant";
+"sendmoney_ownbank_amount" = "Montant";
+"sendmoney_ownbank_enter_amount" = "Entrer le montant";
+"sendmoney_ownbank_enter_valid_amount" = "Entrer un montant valide";
+"sendmoney_ownbank_note" = "Remarque (Facultatif)";
+"sendmoney_ownbank_enter_note" = "Entrer la remarque";
+"sendmoney_ownbank_title" = "Banque Populaire de Mauritanie";
+"sendmoney_otherbank_title" = "Autre banque";
+"sendmoney_ownbank_select_account_num" = "Sélectionnez un numéro de compte";
+"sendmoney_homebank_name" = "Banque Populaire de Mauritanie";
+"sendmoney_confirm_payment" = "Confirmez le transfert";
+"sendmoney_ownbank_note_text" = "Remarque";
+"sendmoney_bpm" = "Virements-BPM";

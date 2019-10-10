@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"Confirm" = "Confirm";
+"Proceed" = "Continue";
+"Review entered details" = "Review entered details";
+"Charges breakdown:" = "Charges breakdown:";
+"Review entered details" = "Review entered details";
+"Service Charge" = "Service Charge";
+"Commission" = "Commission";
+"Tax" = "Tax";
+
+"Done!" = "Done!";
+"Set as favourite" = "Set as favourite";
+"TXN ID:" = "Txn ID: ";
+"Date:" = "Date & Time: ";
+
+"Please enter your 4-digit PIN to " = "Please enter your PIN to ";
+"initiate request." = "initiate request.";
+"Send Request" = "Send Request";
+"Cancel" = "Cancel";
+
+"Something went wrong please try again" = "Something went wrong please try again";
+
+"OK" = "OK";
+"Error" = "Error";

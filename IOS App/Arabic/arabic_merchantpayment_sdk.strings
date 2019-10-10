@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"merchant_payment_toolbar_text" = "تسديد المشتريات";
+"merchant_payment_scan_qr_code" = "مسح رمز QR";
+"merchant_payment_merchant_id_text" = "معرف التاجر";
+"merchant_payment_enter_valid_merchant_id" = "أدخل معرف التاجر صالح";
+
+"merchant_payment_amount" = "المبلغ";
+"merchant_payment_enter_amount" = "أدخل المبلغ";
+"merchant_payment_enter_valid_amount" = "أدخل مبلغ صالح";
+"merchant_payment_next" = "التالى";
+"merchant_payment_pay_now" = "ادفع الآن";
+"merchant_payment_note_optional" = "ملاحظة (اختياري)";
+"merchant_payment_enter_note" = "أدخل ملاحظة";
+
+"OK" = "حسنا";
+"merchant_payment_error" = "خطأ";
+"merchant_payment_merchant_id" = "معرف التاجر:";
+
+"merchant_payment_note" = "ملاحظة";
+"merchant_payment_pay" = "دفع";
+"merchant_payment_merchant_name" = "اسم التاجر:";
+"merchant_payment_amount_paid" = "المبلغ المدفوع:";
+"merchant_payment_scan_qr_error" = "خطأ QR";
+
+"merchant_payment_enter_merchant_details" = "أدخل تفاصيل التاجر";
+"merchant_payment_merchant_id_label" = "معرف التاجر";
+"Enter Merchant ID" = "أدخل معرف التاجر";
+
+"merchant_payment_enter_merchant_id" = "أدخل معرف التاجر";
+
+"merchant_payment_invalid_qr" = "لا يمكن معالجة رمز QR ، يرجى المحاولة مرة أخرى";
+
+"merchant_payment_confirm_title_text" = "تأكيد الدفع";

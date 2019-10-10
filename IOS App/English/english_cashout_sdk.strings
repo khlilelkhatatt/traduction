@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"cashout_tabbar_agent_text"          = "Agent";
+"cashout_tabbar_atm_text"            = "ATM";
+"cashoutAgent_confirmation_Field_text"="Amount";
+"cashoutAgent_confirmation_Header_text"="";
+"cashoutAgent_confirmation_Sub_Header_text"="Agent Code:";
+"cashout_agent_toolbar_text"="Confirm Request";
+"agent_header_text"="Enter the agent details & amount";
+"atm_main_heading_text"="Enter the amount";
+"empty_agent_code_error_text"="Please enter the agent code";
+"empty_amount_error_text"="Please enter the amount";
+"invalid_amount_error_text"="Please enter valid amount";
+"invalid_agent_error_text"="Please enter valid agent code";
+"Nextbutton_text"="Next";
+"cashout_pop_up_button_ok"="OK";
+"cashout_pop_up_error_title"="Error";
+"cashout_root_title_text"="Cashout";
+"cashout_amount_placeholder_text"="Enter Amount";
+"cashout_agentcode_placeholder_text"="Enter Agent Code";

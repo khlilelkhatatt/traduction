@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"enterExistingPIN" = "Entrez votre code PIN existant pour en créer un nouveau";
+"pleaseEnterOldPIN" = "Ancien PIN";
+"pleaseEnterValidOldPIN" = "Veuillez saisir un ancien PIN vlaide";
+"pleaseEnterNewPIN" = "Nouveau PIN";
+"pleaseEnterValidNewPIN"= "Veuillez saisir un nouveau PIN valide";
+"pleaseEnterConfirmPIN" = "Confirmez le nouveau PIN";
+"pleaseEnterValidConfirmPIN" = "Veuillez saisir une confirmation de code PIN valide";
+"newPinConfirmPinShouldMatch" = "le nouveau PIN et sa confirmation ne sont pas conformes";
+"oldPin" = "Ancien PIN";
+"newPIN" = "Nouveau PIN";
+"confirmPIN" = "Confirmez le nouveau PIN";
+"proceed" = "Continuer";
+"changePIN" = "Changer le code PIN";
+"okText" = "OK";
+"errorLabel" = "Erreur";

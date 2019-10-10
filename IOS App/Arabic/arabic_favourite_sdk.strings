@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"pop_up_button_yes" = "نعم";
+"pop_up_button_no" = "لا";
+"pop_up_button_ok" = "تم";
+"success" = "نجاح";
+"error" = "خطأ";
+
+"favourite_titletext"="مفضل";
+"favouritelist_servicetype_sendmoney" = "إرسال الأموال";
+"favouritelist_servicetype_requestmoney" = "طلب المال";
+"favouritelist_servicetype_recharge" = "تعبئة رصيد الهاتف";
+"faouritelist_serviceusing_mobilenumber" = "رقم الهاتف :";
+"faouritelist_serviceusing_username" = "اسم المستخدم :";
+"faouritelist_serviceusing_facebook" = "صديق فيسبوك :";
+"faouritelist_serviceusing_account" = "الحساب:";
+"faouritelist_serviceusingdetail_bank" = "البنك :";
+"faouritelist_serviceusingdetail_operator" = "المشغل:";
+"favourite_delete_text" = "حذف";
+"favourite_delete_message" = "هل أنت متأكد من أنك تريد حذف هذا العنصر المفضل؟";
+

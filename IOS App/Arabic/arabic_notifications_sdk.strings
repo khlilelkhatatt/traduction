@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"notification_tab_title" = "إشعارات";
+"notification_request_sent_tab_title" = "الطلبات المرسلة";
+"notification_request_received_tab_title" = "الطلبات الواردة";
+
+//Popup dialog
+"noti_pop_up_button_ok" = "تم";
+"noti_pop_up_error_title" = "خطأ";
+"noti_pop_up_button_yes" = "نعم";
+"noti_pop_up_button_no" = "لا";
+"notification_requestreceived_amount" = "طلب ل ";
+"notification_requestreceived_from" = "من  ";
+"notification_requestsent_to" = "إلى ";
+"notification_requestreceived_note" = ">ملاحظة: ";
+"notification_requestreceived_remarks" = "ملاحظة: ";
+
+"notification_requested_amount" = "المبلغ المطلوب";
+"notification_remarks_text" = "ملاحظة (اختياري)";
+"notification_send_btn" = "إرسال";
+"notification_cancel_btn" = "إلغاء";
+"notification_decline_btn" = "رفض";
+"notification_are_u_sure" = " هل أنت متأكد أنك تريد ";
+"notification_accept" = " قبول ";
+"notification_reject" = " رفض ";
+"common_yes" = "نعم";
+"common_no" = "لا";
+"notification_request" = " طلب?";
+"notification_status_expired" = "منتهية الصلاحية";
+"notification_status_accepted" = "معتمدة!";
+"notification_status_rejected" = "مرفوضة";
+"notification_success" = "نجاح!";
+"confirm_fund_transfer" = "تأكيد تحويل الأموال";
+"transfer_amount" = "المبلغ";
+"note_txt" = "ملاحظة";
+"enter_valid_amount" = "أدخل مبلغ صالح";
+"enter_valid" = " أدخل صالح ";
+"done_txt" = "تم";
+
+"notification_splitbill_title" = "اللوحة";

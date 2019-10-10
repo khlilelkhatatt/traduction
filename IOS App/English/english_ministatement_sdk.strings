@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"miniStatement_toolbar_text"             = "Accounts";
+"miniStatement_closing_balance_label"    = "Balance";
+"miniStatement_last_10_trans_label"      = "Last 10 Transactions";
+"miniStatement_filter_date_label"        = "Filter by Date";
+"miniStatement_transaction_id_label"     = "Transaction ID ";
+"miniStatement_popup_ok_label"           = "OK";
+"miniStatement_popup_error_label"        = "Error";
+"miniStatement_comingsoon_label"         = "Coming Soon";
+"miniStatement_from_label" = "From";
+"miniStatement_to_label" = "To";
+"miniStatement_cancel_text" = "Cancel";
+"miniStatement_select_valid_date" = "Please select valid date , i.e. start date should be lesser than end date";
+"miniStatement_cr_text" = "Cr";
+"miniStatement_dr_text" = "Dr";

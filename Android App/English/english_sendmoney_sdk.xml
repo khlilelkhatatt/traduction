@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bankily</string>
+    <string name="sendmoneyqr_toolbar_text">QR</string>
+    <string name="sendmoneyqr_myqr_tabtext">My QR</string>
+    <string name="sendmoneyqr_qrpay_tabtext">Scan QR</string>
+    <string name="sendmoneyqr_myqr_titletext">Use this QR code to receive money</string>
+    <string name="sendmoneyscanqr_fragment_text">Coming Soon</string>
+    <string name="sendmoneyscanqr_camerapermission_msg">Camera permission is required to show scan QR</string>
+    <string name="sendmoneyqrpay_toolbar_text">Scan QR</string>
+    <string name="sendmoneyqrpay_amount_label">Amount</string>
+    <string name="sendmoneyqrpay_note_label">Note (Optional)</string>
+    <string name="sendmoneyqrpay_button_text">Next</string>
+    <string name="sendmoneypayqr_confirm_toolbartext">Confirm money transfer</string>
+    <string name="sendmoneypayqr_amount_confirm">Amount</string>
+    <string name="sendmoneypayqr_confirm_note">Note</string>
+    <string name="sendmoneypayqr_amount_error">Please enter valid amount.</string>
+    <string name="sendmoneynfc_toolbar_text">NFC</string>
+    <string name="sendmoneynfc_enter_amount">Enter Amount</string>
+    <string name="sendmoneynfc_payment_label">Your transfer is in progress</string>
+    <string name="sendmoneynfc_amount_error">Please enter valid amount</string>
+    <string name="sendmoneynfc_confirmation_title_text">Confirm send money</string>
+    <string name="sendmoneynfc_confirm_note_label">Note</string>
+    <string name="sendmoneynfc_enter_note_label">Enter Note</string>
+    <string name="sendmoneynfc_pop_up_button_ok">OK</string>
+    <string name="sendmoneynfc_alert_dialog_title">Alert</string>
+    <string name="sendmoneynfc_invalid_amount_error">Please enter valid amount</string>
+
+    <string name="sendmoneyqr_invalid_qr_error">Invalid QR Code.</string>
+</resources>

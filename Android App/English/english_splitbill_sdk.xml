@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Bankily</string>
+    <!--SplitBillGroup-->
+    <string name="splitbillgroup_screen_title_text">AL LEWHA </string>
+    <string name="splitbillgroup_amount_label">Amount</string>
+    <string name="splitbillgroup_amount_hint">Enter Amount</string>
+    <string name="splitbillgroup_description_label">Name of LEWHA</string>
+    <string name="splitbillgroup_description_hint">Enter the name of LEWHA</string>
+    <string name="splitbillgroup_members_label">Members</string>
+    <string name="splitbillgroup_add_members_label">Add members</string>
+    <string name="splitbillgroup_next">Next</string>
+
+    <!--Add Member-->
+    <string name="addmember_screen_title_text">Add Members</string>
+    <string name="addmember_mobilenumber_label">Mobile number/Username</string>
+    <string name="addmember_mobilenumber_hint">Enter Mobile Number</string>
+    <string name="addmember_name_label">Name</string>
+    <string name="addmember_name_hint">Enter Name</string>
+    <string name="addmember_add">Add</string>
+
+    <!--Add Member Mobile number Dialog-->
+    <string name="addmember_bymobilenumber_contactpermission_msg">Read contact permission is required to show your contact list</string>
+    <string name="addmember_bymobilenumber_contactpermission_error_title">Error</string>
+    <string name="addmember_pop_up_button_ok">OK</string>
+
+    <!--Delete Group-->
+    <string name="delete_group_screen_title_text">Delete Group</string>
+    <string name="delete_group_member_text">members</string>
+    <string name="delete_group_message">Are you sure you want to delete the group </string>
+    <string name="delete_group_success_message">Success!</string>
+
+    <!--Custom Dialog-->
+    <string name="success_dialog_button">Done!</string>
+    <string name="suceess_dialog_favorite_text">Add to favorites</string>
+
+    <!--EL LEWHA group Save Group Dialog-->
+    <string name="splitbillgroup_savegroup_label">Do you want to save this group?</string>
+    <string name="splitbillgroup_savegroup_groupname_label">Group Name</string>
+    <string name="splitbillgroup_savegroup_dontsave_button">No</string>
+    <string name="splitbillgroup_savegroup_save_button">Yes</string>
+    <string name="splitbillgroup_modify_group_cancel_button">Cancel</string>
+
+    <string name="addmember_mobileerror_text">Mobile number already added.</string>
+    <string name="addmember_username_text">Username already added.</string>
+    <string name="addmember_name_text">Name is mandatory</string>
+
+
+    <string name="addmember_mobilenumber_empty_error_text">Mobile number/Username is mandatory</string>
+    <string name="addmember_username_length_error_text">Mobile number/Username is invalid</string>
+
+    <string name="addmember_validation_errormsg">members could not be added as they are inactive or unregistered. Do you still want to continue?</string>
+    <string name="addmember_validation_of_errormsg">of</string>
+
+  <string name="addmember_validation_cancelbutton">No, Add more</string>
+  <string name="addmember_validation_okbutton">Yes</string>
+  <string name="addmember_you_text">You</string>
+
+    <string name="addmember_validation_error">Please add members.</string>
+
+    <!--Popup Dialogue-->
+    <string name="pop_up_button_yes">Yes</string>
+    <string name="pop_up_button_no">No</string>
+    <string name="common_pop_up_button_ok">OK</string>
+    <string name="common_error_dialog_title">Error</string>
+
+
+    <!--Initiate Split Group Request-->
+    <string name="splitbill_initiate_your_share">Your Share</string>
+    <string name="splitbill_initiate_split_amount">Total Amount</string>
+    <string name="splitbill_initiate_request">Requests</string>
+    <string name="splitbill_initiate_enter_group_name">Please enter group name</string>
+    <string name="splitbill_initiate_confirm_request">Confirm Request</string>
+    <string name="splitbill_initiate_description">Description</string>
+    <string name="splitbill_initiate_save_group">Do you want to save this group ?</string>
+    <string name="splitbill_initiate_additional_charges">*Additional Charges may apply</string>
+    <!--Cancel Splitbill Strings-->
+    <string name="split_bill_cancel_request">Cancel Request</string>
+    <string name="split_bill_cancel_members">Members</string>
+    <string name="split_bill_cancel_unpaid">Unpaid</string>
+    <string name="split_bill_cancel_pending">Pending</string>
+    <string name="split_bill_cancel_accepted">Accepted</string>
+    <string name="split_bill_cancel_rejected">Rejected</string>
+    <string name="split_bill_cancel_expired">Expired</string>
+    <string name="split_bill_cancel_canceled">Canceled</string>
+    <string name="split_bill_cancel_partially_paid">Partially Paid</string>
+    <string name="split_bill_cancel_reject_dialog_text">Are you sure you want to cancel this request?</string>
+    <string name="split_bill_yes">Yes</string>
+    <string name="split_bill_no">No</string>
+    <string name="split_bill_success">Success!</string>
+    <string name="split_bill_done">Done</string>
+
+    <string name="split_bill_cancel_status">Status</string>
+    <string name="split_bill_cancel_description">Name of LEWHA</string>
+    <string name="split_bill_cancel_collected_amount">Collected Amount</string>
+    <string name="split_bill_cancel_requested_Amount">Requested Amount</string>
+    <string name="split_bill_cancel_total_amount">Total Amount</string>
+    <string name="split_bill_cancel_cancel_request">Cancel Request</string>
+
+    <string name="amount_not_distributed_well">Amount is not distributed completely. Do you want to proceed ?</string>
+    <string name="amount_is_more_than_total">Amount distributed is more than total bill amount. Please check</string>
+    <string name="enter_valid_amount">Enter Valid Amount</string>
+    <string name="enter_valid_description">Enter Valid Description</string>
+    <string name="no_members">No members found in this group</string>
+    <string name="do_you_want_to_update">Do you want to update this group ?</string>
+</resources>

@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"debit_card_toolbar_text"               = "بطاقة بنكية";
+"debit_card_type_title_text"            = "اختر نوع البطاقة البنكية";
+"debit_card_type_selector_text"         = "نوع البطاقة البنكية";
+"debit_card_request_button_text"        = "التالى";
+"debit_card_request_toolbar_text"       = "طلب";
+"debit_card_account_text"               = "الحساب";
+"debit_card_type_text"                  = "نوع";
+"debit_card_tabbar_block_text"          = "منع";
+"debit_card_block_request_text"         = "إلغاء تفعيل بطاقتك";
+"debit_card_unblock_request_text"       = "تفعيل بطاقتك.";
+"debit_card_block_action_text"          = "منع";
+"debit_card_unblock_action_text"        = "تفعيل";
+"debit_card_block_success_text"         = "تم منع بطاقتك بنجاح.";
+"debit_card_unblock_success_text"       = "تم تفعيل بطاقتك بنجاح.";
+"debit_card_block_success_title_text"   = "منع ناجح";
+"debit_card_unblock_success_title_text" = " تفعيل  ناجح!";
+"debit_card_success_dialog_button"      = "تم";
+"error_dialog_title"                    = "خطأ";
+
+"pin_dialog_message_text "              = "رجاء إدخال الرقم السري ل ";
+"initiate request."                     = "";
+"Send Request"                          = "ارسل طلب";
+"Cancel"                                = "إلغاء";
+"select_valid_cardtype"                 = "اختر نوع البطاقة الصحيحة";
+"error_response_message"                = "هناك خطأ ما";
+"request_debitcard_type_text"           = "نوع بطاقة الخصم";
+"debitcard_blockpin_msg_text"           = "الرجاء إدخال رقم السري لـ ";
+"debitcard_popup_ok_label"              = "تم";
+"debitcard_popup_error_label"           = "خطأ";
+"debitcard_confirmation_title_text"     = "تأكيد الطلب";

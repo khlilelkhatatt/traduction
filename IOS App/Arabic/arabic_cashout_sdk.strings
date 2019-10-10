@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"cashout_tabbar_agent_text"          = "وكيل";
+"cashout_tabbar_card_atm_text"       = "ماكينة الصراف الآلي";
+"cashoutAgent_confirmation_Field_text"="المبلغ";
+"cashoutAgent_confirmation_Header_text"="";
+"cashoutAgent_confirmation_Sub_Header_text"="رمز الوكيل :";
+"cashout_agent_toolbar_text"="تأكيد الطلب";
+"agent_header_text"="أدخل تفاصيل الوكيل والمبلغ";
+"atm_main_heading_text"="أدخل المبلغ";
+"Nextbutton_text"="التالى";
+"empty_agent_code_error_text"="الرجاء إدخال رمز الوكيل";
+"empty_amount_error_text"="الرجاء إدخال المبلغ";
+"cashout_pop_up_button_ok"  = "تم";
+"cashout_pop_up_error_title"="خطأ";
+"invalid_amount_error_text"="الرجاء إدخال مبلغ صالح";
+"invalid_agent_error_text"="الرجاء إدخال رمز وكيل صالح";
+"cashout_root_title_text"="سحب المال";
+"cashout_amount_placeholder_text"="أدخل المبلغ";
+"cashout_agentcode_placeholder_text"="أدخل رمز الوكيل";

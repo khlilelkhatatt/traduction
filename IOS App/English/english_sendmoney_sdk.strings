@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Gaurav Arora on 21/06/19.
+  Copyright © 2019 Gaurav Arora. All rights reserved.
+*/
+
+//Send Money Common
+"sm_title_text"="Send Money";
+"sm_mobile_tab_text"="Mobile Number";
+"sm_username_tab_text"="Username";
+"sm_bank_tab_text"="Bank";
+"sm_facebook_tab_text"="Facebook";
+
+"sm_amount_label"="Amount";
+"sm_note_label"="Note (Optional)";
+"sm_button_text"="Send";
+"sm_next_button_text"="Next";
+"sm_amount_error"="Enter valid amount";
+"sm_confirmation_navigation_title"="Confirm Fund Transfer";
+"sm_confirmation_note_label"="Note";
+"sm_confirmation_amount_sent_label"="Amount Sent";
+"sm_confirmation_recipient_name_label"="Recipient's Name";
+"sm_confirmation_transfer_amount_label"="Transfer Amount";
+
+//Send Money By Mobile
+"sm_mobile_mobilenum_label"="Mobile Number";
+"sm_mobile_mobilenum_error"="Enter valid mobile number";
+"sm_mobile_invalid_contact_error"="Select valid contact";
+"sm_mobile_mobilenum_not_exist_text"="The entered mobile number is not registered. However, the beneficiary can still receive it by registering or visiting an ATM or an agent outlet nearby within 7 days. Do you want to continue?";
+
+//Send Money By Username
+"sm_username_label"="Username";
+"sm_username_error"="Enter valid Username";
+
+//Send Money By Facebook
+"sm_facebook_add_friend" = "Add Friend";
+"sm_select_friend_error" = "Please select a friend";
+
+//Send Money By Other Bank
+"sm_bank_other_title_text"="Send Money - Other Bank";
+"sm_bank_other_subtitle_label"="Enter the recipient's account details";
+"sm_other_bank_name_label"="Name";
+"sm_other_bank_bank_label"="Bank";
+"sm_other_bank_account_number_label"="Account number : ";
+"sm_bank_other_invalid_name_error"="Enter valid name";
+"sm_bank_other_invalid_bank_error"="Select bank";
+"sm_bank_other_invalid_acc_number_error"="Enter valid account number";
+
+//Popup dialog
+"sm_pop_up_button_ok" = "OK";
+"sm_pop_up_error_title" = "Error";
+"sm_pop_up_button_yes" = "Yes";
+"sm_pop_up_button_no" = "No";
+
+"sendmoney_bybank_choose_bank" = "Choose beneficiary's bank";
+"sendmoney_by_bpm" = "Peoples Bank of Mauritania";
+"sendmoney_byother_bank" = "Other Bank";
+
+"sendmoney_ownbank_cif" = "CIF Number";
+"sendmoney_ownbank_enter_cif" = "Enter CIF Number";
+"sendmoney_ownbank_enter_valid_cif" = "Enter Valid CIF Number";
+"sendmoney_ownbank_enter_rec_details" = "Enter the recepient's account details";
+"sendmoney_ownbank_next" = "Next";
+"sendmoney_ownbank_choose_bank_account" = "Choose a bank account & enter the amount";
+"sendmoney_ownbank_amount" = "Amount";
+"sendmoney_ownbank_enter_amount" = "Enter Amount";
+"sendmoney_ownbank_enter_valid_amount" = "Enter Valid Amount";
+"sendmoney_ownbank_note" = "Note (Optional)";
+"sendmoney_ownbank_enter_note" = "Enter Note";
+"sendmoney_ownbank_title" = "Peoples Bank of Mauritania";
+"sendmoney_otherbank_title" = "Other Bank";
+"sendmoney_ownbank_select_account_num" = "Select an Account Number";
+"sendmoney_homebank_name" = "Peoples Bank of Mauritania";
+"sendmoney_confirm_payment" = "Confirm Payment";
+"sendmoney_ownbank_note_text" = "Note";
+"sendmoney_bpm" = "Send Money - BPM";

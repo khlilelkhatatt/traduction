@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"facebook_account_not_linked" = "Il semble y avoir un problème lors de la connexion à Facebook. Veuillez réessayer plus tard.";
+"no_friends_found" = "Vous n'avez aucun ami qui a lié son compte Facebook à l'application Bankily.";
+"title_facebook_friend" = "Contacts Facebook";
+"login_unsuccessful" = "Connexion infructueuse";
+"login_cancelled" = "Il semble que vous ayez annulé le processus de connexion à Facebook. Veuillez réessayer.";
+"facebook_link_success" = "Votre compte Facebook a été lié avec succès.";
+
+/*Popup Error*/
+"pop_up_button_ok" = "OK";
+"pop_up_error_title" = "Erreur";
+"pop_up_button_yes" = "Oui";
+"pop_up_button_no" = "Non";

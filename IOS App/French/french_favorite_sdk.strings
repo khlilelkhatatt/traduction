@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+"pop_up_button_yes" = "Oui";
+"pop_up_button_no" = "Non";
+"pop_up_button_ok" = "OK";
+"success" = "Succès";
+"error" = "Erreur";
+
+"favourite_titletext" = "Favori";
+"favouritelist_servicetype_sendmoney" = "Transfert d'argents";
+"favouritelist_servicetype_requestmoney" = "Demande d'argents";
+"favouritelist_servicetype_recharge" = "Recharge téléphoniques";
+"faouritelist_serviceusing_mobilenumber" = "Numéro de téléphone: ";
+"faouritelist_serviceusing_username" = "Nom d'utilisateur: ";
+"faouritelist_serviceusing_facebook" = "Amie Facebook: ";
+"faouritelist_serviceusing_account" = "Compte: ";
+"faouritelist_serviceusingdetail_bank" = "Banque:";
+"faouritelist_serviceusingdetail_operator" = "Opérateur : ";
+"favourite_delete_text" = "Supprimer";
+"favourite_delete_message" = "Êtes-vous sûr de vouloir supprimer cet élément favori?";

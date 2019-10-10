@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+//Send Money Common
+"rm_title_text"="Demande d'argent";
+"rm_mobile_tab_text"="Numéro de téléphone";
+"rm_username_tab_text"="Nom d'utilisateur";
+"rm_facebook_tab_text"="Facebook";
+
+"rm_amount_label"="Montant";
+"rm_note_label"="Remarque (Optionnelle)";
+"rm_button_text"="Demande";
+"rm_next_button_text"="Demande";
+"rm_amount_error"="Entrez un montant valide";
+"rm_confirmation_navigation_title"="Confirmer la demande";
+"rm_confirmation_note_label"="Remarque";
+"rm_confirmation_amount_sent_label"="Montant";
+
+//Send Money By Mobile
+"rm_mobile_mobilenum_label"="Numéro de téléphone";
+"rm_mobile_mobilenum_error"="Veuillez saisir un numéro de téléphone valide";
+"rm_mobile_invalid_contact_error"="Sélectionnez un contact valide";
+
+//Send Money By Username
+"rm_username_label"="Nom d'utilisateur";
+"rm_username_error"="Entrez un nom d'utilisateur valide";
+
+//Send Money By Facebook
+"rm_facebook_add_friend" = "Ajouter un ami";
+"rm_select_friend_error" = "Veuillez sélectionner un ami";
+
+//Popup dialog
+"rm_pop_up_button_ok" = "OK";
+"rm_pop_up_error_title" = "Erreur";

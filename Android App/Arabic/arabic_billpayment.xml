@@ -1,0 +1,40 @@
+<resources>
+  <string name="app_name">بنكيلي</string>
+  <string name="registeredbillers_delete_text">حذف المفوتر</string>
+  <string name="registeredbiller_add_text">أضف مفوتر</string>
+  <string name="registeredbiller_toolbar_text">المفوترين</string>
+  <string name="availablebiller_toolbar_text">المفوترين المتوفرين</string>
+  <string name="registeredbiller_accountnumber_label">رقم الحساب : </string>
+  <!--Add Biller-->
+  <string name="addbiller_toolbar_text">أضف مفوتر</string>
+  <string name="addbiller_title_text">أربط حسابك مع المفوتر</string>
+  <string name="addbiller_accountnumber_label">رقم الحساب</string>
+  <string name="addbiller_button_text">التالى</string>
+  <string name="addbiller_success_message">يمكنك الآن بدأ تسديد الفواتير من خلال قائمة المفوترين</string>
+
+  <string name="billpayment_common_noresponse_text">هناك خطأ ما</string>
+  <string name="billpayment_common_no_internet_error_text">الانترنت غير متوفر</string>
+  <string name="billpayment_success_dialog_title">نجاح!</string>
+  <string name="billpayment_success_dialog_done_button">تم</string>
+
+  <string name="billpayment_pop_up_button_yes">نعم</string>
+  <string name="billpayment_pop_up_button_no">لا</string>
+  <string name="associatebiller_accountnumber_emptytext">الرجاء إدخال رقم الحساب.</string>
+
+  <string name="deletebiller_message_text">هل أنت متأكد من أنك تريد حذف الربط مع المفوتر؟</string>
+
+  <!--Biller Details-->
+  <string name="billerdetails_accountnumber_label">رقم الحساب:</string>
+  <string name="billerdetails_billamount_label">مبلغ الفاتورة:</string>
+  <string name="billerdetails_paymentduedate_label">التاريخ المحدد للدفع:</string>
+  <string name="billerdetils_paynow_button">ادفع الآن!</string>
+  <string name="billerdetails_tootlbar_title">تفاصيل الفاتورة</string>
+
+  <!--Bill Pay Confirm-->
+  <string name="billpay_confirmation_toolbar_title">تأكيد الدفع</string>
+  <string name="billpay_confirmation_amountlabel">مبلغ الفاتورة</string>
+
+  <string name="billpay_confirmation_billerlabel">المفوتر</string>
+  <string name="billpay_confirmation_accountnumber">رقم الحساب:</string>
+  <string name="billpay_confirmation_billamount">مبلغ الفاتورة:</string>
+</resources>

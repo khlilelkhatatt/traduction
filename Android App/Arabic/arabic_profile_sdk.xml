@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">بنكيلي</string>
+
+    <!--Popup dialog-->
+    <string name="profile_pop_up_button_ok">تم</string>
+    <string name="profile_pop_up_button_cancel">إلغاء</string>
+    <string name="profile_pop_up_button_yes">نعم</string>
+    <string name="profile_pop_up_button_no">لا</string>
+    <string name="profile_success_dialog_button">تم</string>
+
+    <!--Profile Details-->
+    <string name = "profile_details_toolbar_text"> </string>
+    <string name = "profile_details_title_text">تعديل معلومات ملفك الشخصي</string>
+    <string name="profile_details_firstname_text">الأسم</string>
+    <string name="profile_details_lastname_text">اسم العائلة</string>
+    <string name="profile_details_username_text">اسم المستخدم</string>
+    <string name="profile_details_mobile_text">رقم الهاتف </string>
+    <string name="profile_details_button_text">تحديث</string>
+    <string name="profile_details_mobilenumber_empty_error">رقم الهاتف إلزامي</string>
+    <string name="profile_details_mobilenumber_invalid_error">رقم الهاتف غير صالح</string>
+    <string name="profile_details_mobile_number_error_dialog_title">خطأ</string>
+    <string name="profile_details_bottomsheet_take_photo">التقاط صورة</string>
+    <string name="profile_details_bottomsheet_choose_photo">اختيار صورة</string>
+    <string name="profile_details_bottomsheet_delete_photo">حذف</string>
+
+    <!--OTP-->
+    <string name = "profile_otp_expiry_min">دقائق</string>
+    <string name = "profile_otp_expiry_sec">ثواني</string>
+    <string name="profile_otp_toolbar_text">رمز التحقق</string>
+    <string name = "profile_otp_old_mobile_title_text">أدخل رمز التأكيد المرسل إلى رقم هاتفك القديم</string>
+    <string name = "profile_otp_new_mobile_title_text">أدخل رمز التأكيد المرسل إلى رقم هاتفك الجديد</string>
+    <string name="profile_otp_error_dialog_title">خطأ</string>
+    <string name="profile_otp_expires_in">تنتهي صلاحية رمز التأكيد خلال</string>
+    <string name="profile_otp_resend_text">إعادة إرسال رمز التأكيد</string>
+    <string name="profile_otp_button_text">التحقق</string>
+    <string name="profile_otp_empty_error">يرجى إدخال رمز التأكيد صالح</string>
+    <string name="profile_otp_change_mobile_success_title">نجاح!</string>
+    <string name="profile_otp_change_mobile_success_message">تم تغيير رقم هاتفك بنجاح</string>
+    <string name="profile_otp_change_mobile_success_button">تم</string>
+
+    <!--Common-->
+    <string name="profile_common_network_error">حدث خطأ ما. أعد المحاولة من فضلك</string>
+
+    <!--Permissions-->
+    <string name="profile_camera_permission">يرجى تمكين إذن للكاميرا</string>
+
+</resources>

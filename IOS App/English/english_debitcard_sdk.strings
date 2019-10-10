@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"debit_card_toolbar_text"               = "Debit Card";
+"debit_card_type_title_text"            = "Choose the type of Debit card";
+"debit_card_type_selector_text"         = "Card type";
+"debit_card_request_button_text"        = "Next";
+"debit_card_request_toolbar_text"       = "Request";
+"debit_card_account_text"               = "Account";
+"debit_card_type_text"                  = "Type";
+"debit_card_tabbar_block_text"          = "Opposition";
+"debit_card_block_request_text"         = "Oppose your card";
+"debit_card_unblock_request_text"       = "activate the card.";
+"debit_card_block_action_text"          = "Oppose";
+"debit_card_unblock_action_text"        = "Activate";
+"debit_card_block_success_text"         = "Your card has been successfully opposed.";
+"debit_card_unblock_success_text"       = "Your card has been successfully activated.";
+"debit_card_block_success_title_text"   = "Successful opposition";
+"debit_card_unblock_success_title_text" = "Activation Successful!";
+"debit_card_success_dialog_button"      = "Done!";
+
+"debitcard_blockpin_msg_text"           = "Please enter your PIN to ";
+"initiate request."                     = "initiate request.";
+"Send Request"                          = "Send Request";
+"Cancel"                                = "Cancel";
+"select_valid_cardtype"                 = "Select valid cardtype";
+"error_response_message"                = "Something went wrong";
+"request_debitcard_type_text"           = "Debit card type";
+
+"debitcard_confirmation_title_text"     = "Confirm Request";
+"debitcard_popup_ok_label"              = "OK";
+"debitcard_popup_error_label"           = "Error";

@@ -1,0 +1,28 @@
+/*
+ Localizable.strings
+ Module_Framework
+ 
+ Created by Comviva on 21/06/19.
+ Copyright © 2019 Comviva. All rights reserved.
+ */
+
+
+"recharge_proceed_button_text" = "Suivant";
+"recharge_toolbar_text" = "Recharge téléphonique";
+"recharge_mobilenum_error"="Veuillez saisir un numéro de téléphone valide";
+"recharge_operator_error"="Choisissez votre opérateur pour continuer";
+"recharge_topup_error"="Choisissez votre plan de recharge pour continuer";
+"recharge_pop_up_button_no"="Non";
+"recharge_pop_up_button_yes"="Oui";
+"recharge_confirmation_navigation_title"="Confirmer la recharge";
+"recharge_forConfirmation_bymobile_mobiletext"="Numéro de téléphone : ";
+"recharge_bymobile_mobiletext"="Numéro de téléphone";
+"recharge_bymobile_operatortext"="Opérateur mobile";
+"recharge_bymobile_choose_topuptext"="Choisissez parmi les recharges disponibles";
+"recharge_bymobile_rechargeTitletext"="Sélectionnez votre opérateur et entrez les détails";
+"recharge_pop_up_button_ok"="OK";
+"recharge_pop_up_error_title" = "Erreur";
+"recharge_something_went_wrong_text"="Une erreur est survenue";
+"recharge_confirmation_header_text"="Recharge téléphonique";
+"recharge_noOffers_error_text"="Pas d'offres disponibles";
+"recharge_mobileNumber_PlaceholderText"="Entrez le numéro de téléphone";

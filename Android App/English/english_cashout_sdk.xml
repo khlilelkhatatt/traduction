@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bankily</string>
+
+    <!--Cashout Service -->
+    <string name="cashout_service_toolbar_text">Cashout</string>
+    <string name="cashout_tab_agent_text">Agent</string>
+    <string name="cashout_tab_atm_text">ATM</string>
+    <string name="cashout_enter_agent_details">Enter the agent details &amp; amount</string>
+    <string name="cashout_agent_code">Agent Code</string>
+    <string name="cashout_enter_agentcode">Enter Agent Code</string>
+    <string name="cashout_amount">Amount</string>
+    <string name="cashout_enter_next">Next</string>
+    <string name="cashout_enter_amount">Enter Amount</string>
+    <string name="cashout_enter_the_amount">Enter the Amount</string>
+    <string name="cashout_byagent_enter_valid_code">Enter valid Agent Code</string>
+    <string name="cashout_byagent_enter_validamount">Enter valid Amount</string>
+    <string name="cashout_coming_soon_text">Coming Soon</string>
+    <string name="confirmation_screen_string">Peoples Bank of Mauritania</string>
+
+
+    <!-- Common strings -->
+    <string name="cashout_pop_up_button_cancel">Cancel</string>
+    <string name="cashout_pop_up_button_yes">Yes</string>
+    <string name="cashout_pop_up_button_no">No</string>
+    <string name="cashout_confirm_screen_text">Confirm Request</string>
+    <string name="cashout_alert_dialog_title">Alert</string>
+    <string name="cashout_ok_btn">OK</string>
+
+
+</resources>

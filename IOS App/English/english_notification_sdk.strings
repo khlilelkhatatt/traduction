@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"notification_tab_title" = "Notifications";
+"notification_request_sent_tab_title" = "Requests Sent";
+"notification_request_received_tab_title" = "Requests Received";
+
+//Popup dialog
+"noti_pop_up_button_ok" = "OK";
+"noti_pop_up_error_title" = "Error";
+"noti_pop_up_button_yes" = "Yes";
+"noti_pop_up_button_no" = "No";
+"notification_requestreceived_amount" = "Request for ";
+"notification_requestreceived_from" = "From ";
+"notification_requestsent_to" = "To ";
+"notification_requestreceived_note" = "Note: ";
+"notification_requestreceived_remarks" = "Remarks: ";
+
+
+"notification_requested_amount" = "Requested Amount";
+"notification_remarks_text" = "Remarks (Optional)";
+"notification_send_btn" = "Send";
+"notification_cancel_btn" = "Cancel";
+"notification_decline_btn" = "Decline";
+"notification_are_u_sure" = "Are you sure you want to ";
+"notification_accept" = "accept ";
+"notification_reject" = "reject ";
+"common_yes" = "Yes";
+"common_no" = "No";
+"notification_request" = " request ?";
+"notification_status_expired" = "Expired";
+"notification_status_accepted" = "Approved";
+"notification_status_rejected" = "Rejected";
+"notification_success" = "Success!";
+"confirm_fund_transfer" = "Confirm Fund Transfer";
+"transfer_amount" = "Amount";
+"note_txt" = "Note";
+"enter_valid_amount" = "Enter Valid Amount";
+"enter_valid" = "Enter Valid ";
+"done_txt" = "Done!";
+
+"notification_splitbill_title" = "EL LEWHA";
+
+

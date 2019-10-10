@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"registeredbillers_delete_text"     = "حذف المفوتر";
+"registeredbiller_add_text"         = "أضف مفوتر";
+"registeredbiller_toolbar_text"     = "المفوترين";
+"available_biller_toolbar_text"     = "المفوترين المتوفرين";
+"addbiller_toolbar_text"            = "أضف مفوتر";
+"addbiller_title_text"              = "أربط حسابك مع المفوتر";
+"addbiller_accountnumber_label"     = "رقم الحساب";
+"addbiller_button_text"             = "التالى";
+"addbiller_success_message"         = "يمكنك الآن بدأ تسديد الفواتير من خلال قائمة المفوترين";
+"billpayment_common_noresponse_text"= "هناك خطأ ما";
+"billpayment_common_no_internet_error_text" = "الانترنت غير متوفر";
+"billpayment_success_dialog_title"  = "نجاح!";
+"billpayment_success_dialog_done_button" = "تم";
+"billpayment_pop_up_button_yes"     = "نعم";
+"billpayment_pop_up_button_no"      = "لا";
+"associatebiller_accountnumber_emptytext" = "الرجاء إدخال رقم الحساب.";
+"deletebiller_message_text"         = "هل أنت متأكد من أنك تريد حذف الربط مع المفوتر؟";
+"biller_popup_ok_label"             = "تم";
+"biller_popup_error_label"          = "خطأ";
+"billerdetails_tootlbar_title"      = "تفاصيل الفاتورة";
+"billerdetails_billamount_label"    = "مبلغ الفاتورة :";
+"billerdetails_paymentduedate_label"= "التاريخ المحدد للدفع:";
+"billerdetils_paynow_button"        = "ادفع الآن!";
+"billpay_confirmation_toolbar_title"= "تأكيد الدفع";
+"billpay_confirmation_amountlabel"  = "مبلغ الفاتورة";

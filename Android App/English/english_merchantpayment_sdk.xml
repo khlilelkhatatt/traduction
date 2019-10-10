@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bankily</string>
+    <string name="title_activity_merchant_payment">MerchantPaymentActivity</string>
+
+    <string name="merchant_payment_toolbar_text">Payments</string>
+    <string name="merchant_payment_scan_qr_code">Scan QR Code</string>
+    <string name="merchant_payment_merchant_id_text">Merchant ID</string>
+    <string name="merchant_payment_enter_valid_merchant_id">Enter valid Merchant ID</string>
+
+    <string name="merchant_payment_amount">Amount</string>
+    <string name="merchant_payment_enter_amount">Enter Amount</string>
+    <string name="merchant_payment_enter_valid_amount">Enter valid amount</string>
+    <string name="merchant_payment_next">Next</string>
+    <string name="merchant_payment_pay_now">Pay Now</string>
+    <string name="merchant_payment_note_optional">Note (Optional)</string>
+    <string name="merchant_payment_enter_note">Enter Note</string>
+
+    <string name="merchant_payment_error">Error</string>
+    <string name="merchant_payment_merchant_id">Merchant ID:</string>
+
+    <string name="merchant_payment_note">Note</string>
+    <string name="merchant_payment_pay">Pay</string>
+    <string name="merchant_payment_merchant_name">Merchant Name:</string>
+    <string name="merchant_payment_amount_paid">Amount Paid:</string>
+    <string name="merchant_payment_scan_qr_error">Error QR</string>
+
+    <string name="merchant_payment_enter_merchant_details">Enter Merchant Details</string>
+    <string name="merchant_payment_merchant_id_label">Merchant ID</string>
+    <string name="merchant_payment_enter_merchant_id">Enter Merchant ID</string>
+</resources>

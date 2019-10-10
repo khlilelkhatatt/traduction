@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"Confirm" = "أكد ";
+"Proceed" = "تم";
+"Review entered details" = "مراجعة التفاصيل المدخلة";
+"Charges breakdown:" = "توزيع الرسوم:";
+"Review entered details" = "مراجعة التفاصيل المدخلة";
+"Service Charge" = "تكلفة الخدمة";
+"Commission" = "العمولة";
+"Tax" = "ضريبة";
+
+"Done!" = "تم";
+"Set as favourite" = "تعيين كمفضل";
+"TXN ID:" = "معرف المعامله : ";
+"Date:" = "التاريخ والوقت: ";
+
+"Please enter your 4-digit PIN to " = "يرجى إدخال رقم السري لـ ";
+"initiate request." = "بدء الطلب.";
+"Send Request" = "ارسل طلب";
+"Cancel" = "إلغاء";
+
+"Something went wrong please try again" = "حدث خطأ ما. أعد المحاولة من فضلك";
+
+"OK" = "حسنا";
+"Error" = "خطأ";

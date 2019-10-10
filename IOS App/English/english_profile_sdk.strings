@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+//Profile information page
+"profile_information_subtitle_text"="Edit your profile information";
+"profile_information_first_name_text"="First name";
+"profile_information_second_name_text"="Last name
+"profile_information_username_text"="Username";
+"profile_information_mobile_number_text"="Mobile number";
+"profile_information_update_button_text"="Update";
+"profile_information_take_photo_text"="Take a photo";
+"profile_information_choose_photo_text"="Choose a photo";
+"profile_information_delete_text"="Delete";
+"profile_information_cancel_text"="Cancel";
+"profile_information_mobilenum_error"="Enter valid mobile number";
+"profile_information_camera_permission_text"="Please enable permission for Camera from settings";
+"profile_information_photo_permission_text"="Please enable permission for Photo";
+
+//OTP page
+"change_mobile_otp_title_text"="Verification Code";
+"change_mobile_otp_old_mobile_subtitle_text"="Enter the OTP sent to your old mobile number";
+"change_mobile_otp_new_mobile_subtitle_text"="Enter the OTP sent to your new mobile number";
+"change_mobile_resend_otp_button_text"="Resend OTP";
+"change_mobile_otp_proceed_button_text"="Continue";
+"change_mobile_otp_cancel_button_text"="Cancel";
+"change_mobile_otp_expires_in_text"="OTP expires in";
+"change_mobile_otp_min_text"="Minutes";
+"change_mobile_otp_sec_text"="Seconds";
+"change_mobile_otp_error_text"="Please enter valid OTP";
+
+//Popup dialog
+"profile_information_pop_up_button_ok" = "OK";
+"profile_information_pop_up_error_title" = "Error";
+"profile_information_pop_up_button_done"="Done!";
+"profile_information_pop_up_success_title"="Success!";

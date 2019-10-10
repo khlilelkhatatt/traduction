@@ -1,0 +1,621 @@
+<resources>
+  <string name="app_name" translatable="false">Bankily</string>
+  <string name="facebook_app_id" translatable="false">407533613448782</string>
+  <!--Splash Screen-->
+  <string name="splash_imeipermission_error">Please enable permission for Telephone to run the app</string>
+  <string name="splash_updateavailable_text">Update is available</string>
+  <string name="splash_forceupdate_text">Please update your app. Otherwise you will not be able to use the app</string>
+  <string name="splash_update_btn">Update</string>
+
+  <!--Select Language Screen-->
+  <string name="selectLanguage_languagecode">1</string>
+  <string name="selectLanguage_languagelocale">en</string>
+  <string name="selectLanaguage_text_englishText">English</string>
+  <string name="selectLanaguage_text_arabicText">العربية</string>
+  <string name="selectLanaguage_text_frenchText">Français</string>
+  <string name="selectLanguage_text_titleText">Choose your language</string>
+  <string name="selectLanguage_button_text">Continue</string>
+
+  <!--Walkthorugh Screen-->
+  <string name="walkthrough_text_skiptext">Skip</string>
+  <string name="walkthrough_text_gotittext">GOT IT</string>
+  <string name="walkthrough1_title">Transfer of Money</string>
+  <string name="walkthrough2_title">Merchant payment</string>
+  <string name="walkthrough3_title">Request Money</string>
+  <string name="walkthrough4_title">Bill Payment</string>
+  <string name="walkthrough5_title">Phone Recharge</string>
+  <string name="walkthrough6_title">EL LEWHA</string>
+  <string name="walkthrough1_desc">Transfer money to your loved ones securely with your Bankily application !</string>
+  <string name="walkthrough2_desc">Pay for your purchases with ease with your Bankily application !</string>
+  <string name="walkthrough3_desc">Need money ? Contact your loved ones with confidence with your Bankily application !</string>
+  <string name="walkthrough4_desc">Pay your water or electricity bill without moving with your Bankily application !</string>
+  <string name="walkthrough5_desc">Recharge your phone or family credit without moving with your Bankily application !</string>
+  <string name="walkthrough6_desc">Be the initiator of a social gathering to help a loved one or a collection for an event with your Bankily application !</string>
+
+  <!--Login Screen-->
+  <string name="before_login_login_signin">Login</string>
+  <string name="before_login_login_signup">Register</string>
+
+  <!--Terms n Condition-->
+  <string name="terms_condition_title">Terms and conditions</string>
+  <string name="terms_condition_button_accept">Accept</string>
+  <string name="terms_condition_button_decline">Refuse</string>
+  <string name="terms_condition_url">en</string>
+
+
+  <string name="title_registration_nationid_text">Enter your NNI</string>
+  <string name="registration_nationid_lable">National Identification Number (NNI)</string>
+  <string name="registration_nationid_button_text">Next</string>
+  <string name="registration_nationid_toolbar_text">Register with us</string>
+  <string name="nationid_empty_error">NNI is mandatory</string>
+  <string name="nationalid_invalid_error">NNI is invalid</string>
+  <string name="nationalid_error_dialog_title">Error</string>
+
+  <string name="mobile_number_verify_title_text">Verification</string>
+  <string name="title_mobile_number_verify">Verify your details</string>
+  <string name="mobile_number_verify_lable">Mobile number</string>
+  <string name="mobile_number_note_text">We will send an OTP to this number for verification</string>
+  <string name="mobile_number_button_text">Continue</string>
+  <string name="mobilenumber_empty_error">Mobile number is mandatory</string>
+  <string name="mobilenumber_invalid_error">Mobile number is invalid</string>
+  <string name="mobile_number_error_dialog_title">Error</string>
+
+  <string name="otp_toolbar_text">Verification Code</string>
+  <string name="otp_title_text">Enter the OTP sent to your mobile</string>
+  <string name="otp_empty_error">Please enter valid OTP</string>
+  <string name="otp_error_dialog_title">Error</string>
+  <string name="otp_resend_text">Resend OTP</string>
+  <string name="otp_button_text">Verify</string>
+  <string name="otp_success_dialog_button">Done</string>
+  <string name="otp_success_dialog_message">Your mobile number has been successfully verified</string>
+  <string name="otp_expires_in">OTP expires in</string>
+  <string name = "otp_expiry_min">Minutes</string>
+  <string name = "otp_expiry_sec">Seconds</string>
+
+
+  <string name="personalinfo_toolbar_text">Personal Information</string>
+  <string name="personalinfo_button_text">Confirm</string>
+
+  <string name="create_profile_toolbar_text">Create Profile</string>
+  <string name="create_profile_title_text">Create your profile</string>
+  <string name="creatte_profile_username_lable">Username</string>
+  <string name="create_profile_security_lable">Choose a security question</string>
+  <string name="create_profile_security_que_lable">Security question</string>
+  <string name="create_profile_security_answer_lable">Answer</string>
+  <string name="create_profile_button_text">Next</string>
+  <string name="create_profile_username_error_text">Username is mandatory</string>
+  <string name="create_profile_username_length_error_text">Username is invalid</string>
+  <string name="create_profile_question_error_text">Security question is mandatory</string>
+  <string name="create_profile_answer_error_text">Answer is mandatory</string>
+  <!--Popup dialog-->
+  <string name="pop_up_button_ok">OK</string>
+  <string name="pop_up_button_cancel">Cancel</string>
+  <string name="pop_up_button_yes">Yes</string>
+  <string name="pop_up_button_no">No</string>
+  <string name="theme_popup_message">You have received an update for theme. Do you want to Apply it?</string>
+  <string name="theme_popup_title">Information</string>
+  <string name="theme_popup_positive_button">Now</string>
+  <string name="theme_popup_negative_button">Later</string>
+
+  <string name="title_registration_text">Let's get you onboard!</string>
+  <string name="signup_first_screen_titletext">Onboarding</string>
+  <string name="signup_newcustomer_button_text">New Customer</string>
+  <string name="signup_existingcustomer_button_text">Existing Customer</string>
+  <string name="registration_or_text">Or</string>
+
+  <string name="mpin_toolbar_title">Set PIN</string>
+  <string name="mpin_title_text">You are almost there !</string>
+  <string name="mpin_setpin_lable">Set a 4-digit PIN</string>
+  <string name="mpin_confirm_lable">Confirm PIN</string>
+  <string name="mpin_button_text">Done</string>
+  <string name="mpin_pin_error_message">Please enter valid PIN</string>
+  <string name="mpin_confirm_pin_error_message">Please enter valid confirm PIN</string>
+  <string name="mpin_confirm_pin_mismatch_error_message">PIN and Confirm PIN does not match</string>
+  <string name="mpin_error_dialog_title">Error</string>
+
+  <string name="personalinfo_fname_lable">First name</string>
+  <string name="personalinfo_sname_lable">Last name</string>
+  <string name="personalinfo_nationalid_lable">National Identification Number (NNI)</string>
+
+  <string name="login_mobilenumber_empty_error_text">Mobile number/Username is mandatory</string>
+  <string name="login_setpin_empty_error_text">PIN is mandatory</string>
+  <string name="login_mobilenumber_length_error_text">Mobile number is invalid</string>
+  <string name="login_username_length_error_text">Username is invalid</string>
+  <string name="login_setpin_length_error_text">PIN is invalid</string>
+
+  <string name="login_title_text">Enter your Login details</string>
+  <string name="login_toolbar_text">Sign in</string>
+  <string name="login_setpin_text">PIN</string>
+  <string name="login_username_lable_text">Username or Mobile Number</string>
+  <string name="login_forgotpin_link_text">Forgot your PIN?</string>
+  <string name="login_newuser_link_text">New User? Register Now!</string>
+  <string name="login_button_text">Login</string>
+  <string name="login_error_dialog_title">Error</string>
+  <string name="login_noresponse_text">Something went wrong</string>
+
+  <string name="navigation_drawer_open">Open</string>
+  <string name="navigation_drawer_close">Close</string>
+  <string name="home_toolbar_text">Dashboard</string>
+  <string name="help_toolbar_text">Help</string>
+  <string name="favourite_toolbar_text">Favourites</string>
+  <string name="notification_toolbar_text">Notifications</string>
+  <string name="home_bottombar_home_text">Home</string>
+  <string name="home_bottombar_favorites_text">Favourites</string>
+  <string name="home_bottombar_notification_text">Notifications</string>
+  <string name="home_bottombar_help_text">Help</string>
+  <string name="dashboard_topbar_pay">Payments</string>
+  <string name="dashboard_topbar_transfer">Transfers</string>
+  <string name="dashboard_topbar_balance">Accounts</string>
+  <string name="dashboard_topbar_transaction">Transactions</string>
+
+  <string name="dashboard_service_recharge">Phone recharge</string>
+  <string name="dashboard_service_billpayment">Bill Payment</string>
+  <string name="dashboard_service_chequebook">Request Cheque Book</string>
+  <string name="dashboard_service_debitcard">Debit Card</string>
+  <string name="dashboard_service_cashout">Cash out</string>
+  <string name="dashboard_partial_kyc_alert_text">You have to complete your KYC with Bank to access these services</string>
+
+  <!--Hamberger Menu Items-->
+  <string name="home_nav_menu_changelanguage_text">Language</string>
+  <string name="home_nav_menu_linkfacebook_text">Link Facebook account</string>
+  <string name="home_nav_menu_changepin_text">Change PIN</string>
+  <string name="home_nav_menu_signout_text">Sign Out</string>
+  <string name="help_url">en</string>
+  <string name="signout_confirmation_text">Are you sure you want to sign out ?</string>
+
+  <!--Change PIN-->
+  <string name="changepin_toolbar_title">Change PIN</string>
+  <string name="changepin_title_text">Enter your existing PIN to set a new one</string>
+  <string name="changepin_oldpin_lable">Old PIN</string>
+  <string name="changepin_newpin_lable">New PIN</string>
+  <string name="changepin_confirm_lable">Confirm new PIN</string>
+  <string name="changepin_button_text">Continue</string>
+  <string name="changepin_old_pin_error_message">Please enter valid old pin</string>
+  <string name="changepin_new_pin_error_message">Please enter valid new pin</string>
+  <string name="changepin_confirm_pin_error_message">Please enter valid Confirm PIN</string>
+  <string name="changepin_confirm_pin_mismatch_error_message">New PIN and Confirm PIN does not match</string>
+  <string name="changepin_error_dialog_title">Error</string>
+  <string name="changepin_success_dialog_message">Your PIN has been successfully changed.</string>
+  <string name="changepin_success_dialog_title">Success!</string>
+  <string name="changepin_success_dialog_done_button">Done!</string>
+
+  <!--Change Language-->
+  <string name="changeLanguage_text_titleText">Change language</string>
+  <string name="changeLanguage_success_dialog_message">Are you sure you want to change your preferred language to</string>
+  <string name="changeLanguage_success_dialog_title">Confirm</string>
+
+  <!--Forgot PIN-->
+  <string name="forgotpin_toolbar_title">Forgot PIN</string>
+  <string name="forgotpin_title_text">Answer your secret question to set a new PIN</string>
+  <string name="forgotpin_security_question_lable">Security question</string>
+  <string name="forgotpin_answer_lable">Answer</string>
+  <string name="forgotpin_button_text">Next</string>
+  <string name="forgotpin_answer_error_message">Please enter valid answer</string>
+  <string name="forgotpin_success_dialog_message">Your PIN has been successfully changed.</string>
+  <string name="forgotpin_success_dialog_title">Success!</string>
+  <string name="forgotpin_success_dialog_done_button">Done!</string>
+  <string name="forgotpin_set_new_pin_label">Set a new PIN</string>
+
+  <!--Cheque Book-->
+  <string name="chequebook_type_text">Choose the type of cheque book</string>
+  <string name="chequebook_leaf_selector_text">Checkbook papers</string>
+  <string name="chequebook_request_toolbar_text">Request Cheque Book</string>
+  <string name="chequebook_initiate_request_text">initiate request.</string>
+  <string name="chequebook_action_request_text">Send Request</string>
+  <string name="chequebook_request_success_text">Request Accepted!</string>
+  <string name="chequebook_confirmation_title_text">Confirm Request</string>
+
+  <!--Debit Card-->
+  <string name="debit_card_type_title_text">Choose the type of Debit Card</string>
+  <string name="debit_card_type_selector_text">Card Type</string>
+  <string name="debit_card_request_toolbar_text">Request</string>
+  <string name="debit_card_account_text">Account</string>
+  <string name="debit_card_type_text">Type</string>
+  <string name="debit_card_toolbar_text">Debit Card</string>
+  <string name="debit_card_tabbar_block_text">Opposition</string>
+  <string name="debit_card_tabbar_request_text">Request</string>
+  <string name="debit_card_block_request_text">Oppose your card</string>
+  <string name="debit_card_unblock_request_text">activate your card.</string>
+  <string name="debit_card_block_action_text">Oppose</string>
+  <string name="debit_card_unblock_action_text">Activate</string>
+  <string name="debit_card_block_success_text">Your card has been successfully opposed.</string>
+  <string name="debit_card_unblock_success_text">Your card has been successfully activated.</string>
+  <string name="debit_card_block_success_title_text">Successful opposition</string>
+  <string name="debit_card_unblock_success_title_text">Activation Successful!</string>
+  <string name="debit_card_success_dialog_button">Done!</string>
+  <string name="debit_card_not_found_text">No cards found for your account.</string>
+  <string name="debit_card_type_not_found_text">No card type found for generating request.</string>
+
+  <!--PIN Dialog-->
+  <string name="pin_dialog_message_text">Please enter your PIN to </string>
+
+  <!--Transaction Dialog-->
+  <string name="dialog_favorite_text">Add to favorites</string>
+
+  <!--Confirmation Screen-->
+
+  <string name="confirmation_address_text">Mailing address : </string>
+  <string name="confirmation_bymobile_mobiletext">Mobile Number : </string>
+  <string name="confirmation_byusername_usernametext">Username : </string>
+  <string name="confirmation_bymobile_amountext">Amount : </string>
+  <string name="confirmation_referenceid_text">Reference ID : </string>
+  <string name="confirmation_transactionsuccess_text">Successful transaction</string>
+  <string name="confirmation_byownbank_senttext">Sent to : </string>
+  <string name="confirmation_byotherbank_transfer_amount_text">Transfer amount of </string>
+  <string name="confirmation_byotherbank_credited_account_text">credited to Account number</string>
+  <string name="confirmation_byotherbank_business_days_text">in 3 to 5 business days</string>
+
+  <string name="home_bank_name">Peoples Bank of Mauritania</string>
+
+  <!--Fund Transfer-->
+  <string name="fundtransfer_toolbar_text">Transfer</string>
+  <string name="fundtransfer_sendmoney_text">Send Money</string>
+  <string name="fundtransfer_requestmoney_text">Request Money</string>
+  <string name="fundtransfer_nfc_text">NFC</string>
+  <string name="fundtransfer_qr_text">QR</string>
+  <string name="fundtransfer_splitbill_text">EL LEWHA</string>
+  <string name="fundtransfer_quicktransfer_text">Quick transfer</string>
+  <string name="fundtransfer_creategroup_text">Create a new group or select an existing group to create your LEWHA</string>
+  <string name="fundtransfer_confirmation_title_text">Confirm Fund Transfer</string>
+  <string name="fundtransfer_nfc_not_enabled">NFC not enabled</string>
+  <string name="fundtransfer_splitbill_delete_group_text">Delete Group</string>
+
+  <!--Send Money-->
+  <string name="sendmoney_toolbar_text">Send Money</string>
+  <string name="sendmoney_send_button">Send</string>
+  <string name="sendmoney_tab_mobile_text">Mobile Number</string>
+  <string name="sendmoney_tab_username_text">Username</string>
+  <string name="sendmoney_tab_bank_text">Bank</string>
+  <string name="sendmoney_tab_facebook_text">Facebook</string>
+  <string name="sendmoney_confirm_amount_text">Amount</string>
+  <string name="sendmoney_confirm_note_label">Note (Optional)</string>
+  <string name="sendmoney_confirm_servicecharge_label">Service charge</string>
+  <string name="sendmoney_confirm_comcharge_label">Commission</string>
+  <string name="sendmoney_confirm_taxcharge_label">Tax</string>
+
+  <string name="sendmoneybyusername_username_label">Username</string>
+  <string name="sendmoneybyusername_username_hint">Enter Username</string>
+  <string name="sendmoneybyusername_amount_label">Amount</string>
+  <string name="sendmoneybyusername_amount_hint">Enter Amount</string>
+  <string name="sendmoneybyusername_purpose_label">Note (Optional)</string>
+  <string name="sendmoneybyusername_purpose_hint">Enter Note</string>
+  <string name="sendmoneybyusername_unerror_text">Enter valid Username</string>
+
+  <string name="sendmoneybybank_title_label">Choose beneficiary's bank</string>
+  <string name="sendmoneybybank_bpm_bank_label">Peoples Bank of Mauritania</string>
+  <string name="sendmoneybybank_other_bank_label">Other Bank</string>
+
+  <string name="sendmoney_confirm_account_no_label">Account number : </string>
+  <string name="sendmoney_confirm_transfer_amount_label">Amount : </string>
+  <string name="sendmoney_confirm_receipent_name_label">Recipient's Name</string>
+  <string name="sendmoney_confirm_receipent_account_no_label">Recipient's Account number</string>
+
+  <!--Send Money Other Bank-->
+  <string name="otherbankaccountdetails_toolbar_text">Send Money - Other Bank</string>
+  <string name="otherbankaccountdetails_title_text">Enter the recipient\'s account details</string>
+  <string name="otherbankaccountdetails_button_text">Next</string>
+  <string name="otherbankaccountdetails_name_lable">Name</string>
+  <string name="otherbankaccountdetails_bank_lable">Bank</string>
+  <string name="otherbankaccountdetails_account_no_lable">Account Number</string>
+  <string name="otherbankaccountdetails_amount_lable">Amount</string>
+  <string name="otherbankaccountdetails_note_lable">Note</string>
+  <string name="otherbankaccountdetails_name_unerror_text">Enter valid name</string>
+  <string name="otherbankaccountdetails_bank_unerror_text">Select bank</string>
+  <string name="otherbankaccountdetails_account_no_unerror_text">Enter valid account number</string>
+  <string name="otherbankaccountdetails_amount_unerror_text">Enter valid amount</string>
+
+  <!--Send Money BPM Bank-->
+  <string name="bpmbankcifnumber_toolbar_text">Send Money - BPM</string>
+  <string name="bpmbankcifnumber_title_text">Enter the recipient's account details</string>
+  <string name="bpmbankcifnumber_cif_number_lable">Account number (CIF)</string>
+  <string name="bpmbankcifnumber_button_text">Next</string>
+  <string name="bpmbankcifnumber_unerror_text">Enter valid Account number (CIF)</string>
+
+  <string name="bpmbankaccountnoamount_toolbar_text">Send Money - BPM</string>
+  <string name="bpmbankaccountnoamount_title_text">Choose a bank account &amp; enter the amount</string>
+  <string name="bpmbankaccountnoamount_amount_lable">Amount</string>
+  <string name="bpmbankaccountnoamount_note_lable">Note</string>
+  <string name="bpmbankaccountnoamount_button_text">Next</string>
+  <string name="bpmbankaccountnoamount_amount_unerror_text">Enter valid amount</string>
+  <string name="bpmbankaccountnoamount_account_unerror_text">Choose an account</string>
+
+  <!--Mini Statement-->
+  <string name="miniStatement_toolbar_text">Accounts</string>
+  <string name="miniStatement_account_number_label">Account number</string>
+  <string name="miniStatement_closing_balance_label">Balance</string>
+  <string name="miniStatement_last_10_trans_label">Last 10 Transactions</string>
+  <string name="miniStatement_filter_date_label">Filter by Date</string>
+  <string name="miniStatement_transaction_id_label">Transaction ID </string>
+  <string name="miniStatement_from_label">From</string>
+  <string name="miniStatement_to_label">To</string>
+
+  <string name="sendmoneybymobilenumber_mobileno_label">Mobile Number</string>
+  <string name="sendmoneybymobilenumber_mobileno_hint">Enter Mobile Number</string>
+  <string name="sendmoneybymobilenumber_contactpermission_error_title">Error</string>
+  <string name="sendmoneybymobilenumber_contactpermission_msg">Read contact permission is required to show your contact list</string>
+  <string name="sendmoneybymobilenumber_mobileno_error">Enter valid mobile number</string>
+  <string name="sendmoneybymobilenumber_amount_error">Enter valid amount.</string>
+  <string name="sendmoneybymobilenumber_mobile_number_not_exist">The entered mobile number is not registered. However, the beneficiary can still receive it by registering or visiting an ATM or an agent outlet nearby within 7 days. Do you want to continue?</string>
+
+  <string name="dialog_comingsoon_message">Coming Soon</string>
+  <string name="dialog_comingsoon_title">informations</string>
+  <string name="common_fragment_text">Coming Soon</string>
+
+  <!--Common-->
+  <string name="common_alert">Alert</string>
+  <string name="common_network_error">Something went wrong please try again</string>
+  <string name="common_network_error_text">Something went wrong please try again</string>
+  <string name="common_no_internet_error_text">Internet not available.</string>
+  <string name="press_again_exit">Please click again to exit</string>
+  <string name="common_confirmation_text">Are you sure you do not want to continue?</string>
+
+
+  <string name="rootdetected_dialog_message">Your device is not support for using the application exit code 1.</string>
+  <string name="tamperdetected_dialog_message">Your device is not support for using the application exit code 2.</string>
+  <string name="debugdetected_dialog_message">Your device is not support for using the application exit code 3.</string>
+  <string name="hookdetected_dialog_message">Your requested operation cannot be completed</string>
+  <!--Request Money-->
+  <string name="requestmoney_toolbar_text">Request Money</string>
+  <string name="requestmoney_tab_mobile_text">Mobile Number</string>
+  <string name="requestmoney_tab_username_text">Username</string>
+  <string name="requestmoney_tab_facebook_text">Facebook</string>
+
+  <string name="requestmoney_request_button">Request</string>
+  <string name="requestmoneybymobilenumber_title_text">Enter the payer\'s details</string>
+  <string name="requestmoneybymobilenumber_mobileno_label">Mobile Number</string>
+  <string name="requestmoneybymobilenumber_mobileno_hint">Enter Mobile Number</string>
+  <string name="requestmoneybymobilenumber_amount_label">Amount</string>
+  <string name="requestmoneybymobilenumber_amount_hint">Enter Amount</string>
+  <string name="requestmoneybymobilenumber_purpose_label">Note (Optional)</string>
+  <string name="requestmoneybymobilenumber_purpose_hint">Enter Note</string>
+  <string name="requestmoneybymobilenumber_contactpermission_error_title">Error</string>
+  <string name="requestmoneybymobilenumber_contactpermission_msg">Read contact permission is required to show your contact list</string>
+  <string name="requestmoneybymobilenumber_mobileno_error">Enter valid mobile number.</string>
+  <string name="requestmoneybymobilenumber_amount_error">Enter valid amount.</string>
+
+  <string name="requestmoney_confirm_amount_text">Amount</string>
+  <string name="requestmoney_confirm_note_label">Note</string>
+  <string name="requestmoney_confirm_servicecharge_label">Service Charge</string>
+  <string name="requestmoney_confirm_comcharge_label">Commission</string>
+  <string name="requestmoney_confirm_taxcharge_label">Tax</string>
+
+  <string name="requestmoneybyusername_username_label">Username</string>
+  <string name="requestmoneybyusername_username_hint">Enter Username</string>
+  <string name="requestmoneybyusername_amount_label">Amount</string>
+  <string name="requestmoneybyusername_amount_hint">Enter Amount</string>
+  <string name="requestmoneybyusername_purpose_label">Note (Optional)</string>
+  <string name="requestmoneybyusername_purpose_hint">Enter Note</string>
+  <string name="requestmoneybyusername_unerror_text">Enter valid Username</string>
+  <!--Notification-->
+  <string name="notification_requestreceived_tabtitle">Requests received</string>
+  <string name="notification_requestsent_tabtitle">Requests sent</string>
+  <string name="notification_requestreceived_amount">Request for </string>
+  <string name="notification_requestreceived_splitbill_amount">LEWHA request for </string>
+  <string name="notification_requestreceived_from">From </string>
+  <string name="notification_requestreceived_note">Note: </string>
+  <string name="notificationstatus_pendingtext">Pending</string>
+  <string name="notificationstatus_expiredtext">Expired</string>
+  <string name="notificationstatus_approvedtext">Approved!</string>
+  <string name="notificationstatus_rejectedtext">Rejected</string>
+  <string name="notificationstatus_canceledtext">Canceled</string>
+  <string name="notificationstatus_partiallypaidtext">Partially Paid</string>
+
+  <string name="notification_requestsent_amount">Request for </string>
+  <string name="notification_requestsent_to">To </string>
+  <string name="notification_requestsent_note">Note</string>
+  <string name="notification_requestsent_splitbill_amount">LEWHA request for </string>
+
+  <string name="notification_requestaccept_dialogtext1">Are you sure you want to accept </string>
+  <string name="notification_requestaccept_dialogtext2">request?</string>
+
+  <string name="notification_requestreject_dialogtext1">Are you sure you want to decline </string>
+  <string name="notification_requestreject_dialogtext2">request?</string>
+
+  <string name="notification_requestacceptinput_amountlabel">Amount</string>
+  <string name="notification_requestacceptinput_remarkslabel">Remarks (Optional)</string>
+  <string name="notification_requestacceptinput_cancelbutton">Cancel</string>
+  <string name="notification_requestacceptinput_sendbutton">Send</string>
+
+
+  <string name="notification_requestrejectinput_remarkslabel">Reason (Optional)</string>
+  <string name="notification_requestrejectinput_cancelbutton">Cancel</string>
+  <string name="notification_requestrejectinput_declinebutton">Decline</string>
+  <string name="notification_requestrejectdialog_success">Success!</string>
+
+  <string name="notification_requestaccepted_confirmation_title_text">Confirm Fund Transfer</string>
+  <string name="requestaccepted_confirm_amount_text">Amount</string>
+  <string name="requestaccepted_confirm_note_label">Remarks</string>
+  <string name="requestaccepted_confirm_servicecharge_label">Service Charge</string>
+  <string name="requestaccepted_confirm_comcharge_label">Commission</string>
+  <string name="requestaccepted_confirm_taxcharge_label">Tax</string>
+  <string name="requestaccepted_amount_error">Enter valid amount.</string>
+
+  <string name="notification_pendingstatus_notetext">Note:</string>
+  <string name="notification_approvedstatus_notetext">Note:</string>
+  <string name="notification_rejectedstatus_notetext">Reason:</string>
+  <string name="notification_expiredstatus_notetext">Note:</string>
+  <string name="notification_splitbill_notetext">Description:</string>
+
+  <string name="confirmation_requestaccepted_name">Name:</string>
+  <string name="confirmation_requestaccepted_amounttext">Amount:</string>
+
+  <string name="ministatement_notransaction_text">No Transactions Found</string>
+
+
+  <!--Recharge-->
+
+  <string name="recharge_service_toolbar_text">Recharge Mobile</string>
+  <string name="rechargeservice_btn_next">Next</string>
+  <string name="recharge_service_mobile_number">Mobile Number</string>
+  <string name="recharge_service_enter_mobile_number">Enter Mobile Number</string>
+  <string name="recharge_service_title_error">Error</string>
+  <string name="recharge_service_enter_valid_mobile_number">Please enter valid mobile number</string>
+  <string name="recharge_service_explaination_text">Select your carrier and enter details</string>
+  <string name="recharge_service_mobile_operator">Mobile Operator</string>
+  <string name="recharge_service_choose_topup">Choose from available Topups</string>
+  <string name="recharge_service_review_details">Review Entered Details</string>
+  <string name="recharge_topup">Recharge</string>
+  <string name="recharge_service_amount">Amount</string>
+  <string name="recharge_service_confirm_title">Confirm Recharge</string>
+  <string name="recharge_pop_up_button_cancel">Cancel</string>
+  <string name="recharge_pop_up_button_yes">Yes</string>
+  <string name="recharge_pop_up_button_no">No</string>
+  <string name="recharge_service_confirm_servicecharge_label">Service Charge</string>
+  <string name="recharge_service_confirm_commission_charge_label">Commission</string>
+  <string name="recharge_service_confirm_taxcharge_label">Tax</string>
+
+  <!--Merchant Payment-->
+  <string name="merchant_payment_toolbar_text">Payments</string>
+  <string name="merchant_payment_scan_qr_code">Scan QR Code</string>
+  <string name="merchant_payment_merchant_id_text">Merchant ID</string>
+  <string name="merchant_payment_enter_valid_merchant_id">Enter valid Merchant ID</string>
+  <string name="merchant_payment_amount">Amount</string>
+  <string name="merchant_payment_enter_amount">Enter Amount</string>
+  <string name="merchant_payment_enter_valid_amount">Enter valid amount</string>
+  <string name="merchant_payment_next">Next</string>
+  <string name="merchant_payment_pay_now">Pay Now</string>
+  <string name="merchant_payment_note_optional">Note (Optional)</string>
+  <string name="merchant_payment_enter_note">Enter Note</string>
+  <string name="merchant_payment_error">Error</string>
+  <string name="merchant_payment_merchant_id">Merchant ID: </string>
+  <string name="merchant_payment_note">Note</string>
+  <string name="merchant_payment_pay">Pay</string>
+  <string name="merchant_payment_merchant_name">Merchant Name:</string>
+  <string name="merchant_payment_amount_paid">Amount Paid:</string>
+  <string name="merchant_payment_scan_qr_error">Error QR</string>
+  <string name="merchant_payment_enter_merchant_details">Enter Merchant Details</string>
+  <string name="merchant_payment_merchant_id_label">Merchant ID</string>
+  <string name="merchant_payment_enter_merchant_id">Enter Merchant ID</string>
+
+  <!--Bill payment-->
+  <string name="registeredbillers_delete_text">Delete Biller</string>
+  <string name="registeredbiller_add_text">Add Biller</string>
+  <string name="registeredbiller_toolbar_text">Billers</string>
+  <string name="availablebiller_toolbar_text">Available Billers</string>
+  <string name="addbiller_toolbar_text">Add Biller</string>
+  <string name="addbiller_title_text">Associate your account with Biller</string>
+  <string name="addbiller_accountnumber_label">Account Number</string>
+  <string name="addbiller_button_text">Next</string>
+  <string name="addbiller_success_message">You can now start paying bills from My Billers.</string>
+  <string name="billpayment_common_noresponse_text">Something went wrong</string>
+  <string name="billpayment_common_no_internet_error_text">Internet not available.</string>
+  <string name="billpayment_success_dialog_title">Success!</string>
+  <string name="billpayment_success_dialog_done_button">Done!</string>
+  <string name="billpayment_pop_up_button_yes">Yes</string>
+  <string name="billpayment_pop_up_button_no">No</string>
+  <string name="associatebiller_accountnumber_emptytext">Please enter account number.</string>
+  <string name="deletebiller_message_text">Are you sure you want to delete this biller association?</string>
+  <string name="billerdetails_accountnumber_label">Account Number:</string>
+  <string name="billerdetails_billamount_label">Bill Amount:</string>
+  <string name="billerdetails_paymentduedate_label">Payment Due Date:</string>
+  <string name="billerdetils_paynow_button">Pay now!</string>
+  <string name="billerdetails_tootlbar_title">Bill Details</string>
+  <string name="billpay_confirmation_toolbar_title">Confirm Payment</string>
+  <string name="billpay_confirmation_amountlabel">Bill Amount</string>
+  <string name="billpay_confirmation_billerlabel">Biller:</string>
+  <string name="billpay_confirmation_accountnumber">Account Number:</string>
+  <string name="billpay_confirmation_billamount">Bill Amount:</string>
+  <!--Favourites-->
+  <string name="favouritelist_servicetype_sendmoney">Send money</string>
+  <string name="favouritelist_servicetype_requestmoney">Request money</string>
+  <string name="favouritelist_servicetype_recharge">Recharge Mobile</string>
+  <string name="faouritelist_serviceusing_mobilenumber">Mobile number:</string>
+  <string name="faouritelist_serviceusing_username">Username:</string>
+  <string name="faouritelist_serviceusing_facebook">Facebook friend:</string>
+  <string name="faouritelist_serviceusing_account">Account:</string>
+  <string name="faouritelist_serviceusingdetail_bank">Bank:</string>
+  <string name="faouritelist_serviceusingdetail_operator">Operator:</string>
+  <string name="favourite_delete_text">Delete</string>
+  <string name="favourite_delete_message">Are you sure you want to delete this favourite item?</string>
+
+  <!--PRofile-->
+  <string name="profile_pop_up_button_ok">OK</string>
+  <string name="profile_pop_up_button_cancel">Cancel</string>
+  <string name="profile_pop_up_button_yes">Yes</string>
+  <string name="profile_pop_up_button_no">No</string>
+  <string name="profile_success_dialog_button">Done!</string>
+  <string name="profile_details_title_text">Edit your profile information</string>
+  <string name="profile_details_firstname_text">First name</string>
+  <string name="profile_details_lastname_text">Second name</string>
+  <string name="profile_details_username_text">Username</string>
+  <string name="profile_details_mobile_text">Mobile number</string>
+  <string name="profile_details_button_text">Update</string>
+  <string name="profile_details_mobilenumber_empty_error">Mobile number is mandatory</string>
+  <string name="profile_details_mobilenumber_invalid_error">Mobile number is invalid</string>
+  <string name="profile_details_mobile_number_error_dialog_title">Error</string>
+  <string name="profile_details_bottomsheet_take_photo">Take a photo</string>
+  <string name="profile_details_bottomsheet_choose_photo">Choose a photo</string>
+  <string name="profile_details_bottomsheet_delete_photo">Delete</string>
+  <string name="profile_otp_expiry_min">Minutes</string>
+  <string name="profile_otp_expiry_sec">Seconds</string>
+  <string name="profile_otp_toolbar_text">Verification Code</string>
+  <string name="profile_otp_old_mobile_title_text">Enter the OTP sent to your old mobile number</string>
+  <string name="profile_otp_new_mobile_title_text">Enter the OTP sent to your new mobile number</string>
+  <string name="profile_otp_error_dialog_title">Error</string>
+  <string name="profile_otp_expires_in">OTP expires in</string>
+  <string name="profile_otp_resend_text">Resend OTP</string>
+  <string name="profile_otp_button_text">Verify</string>
+  <string name="profile_otp_empty_error">Please enter valid OTP</string>
+  <string name="profile_otp_change_mobile_success_title">Success!</string>
+  <string name="profile_otp_change_mobile_success_message">Your mobile number has been successfully changed</string>
+  <string name="profile_otp_change_mobile_success_button">Done!</string>
+  <string name="profile_common_network_error">Something went wrong please try again</string>
+  <string name="profile_camera_permission">Please enable permission for Camera</string>
+
+  <!--Cashout-->
+  <string name="cashout_service_toolbar_text">Cashout</string>
+  <string name="cashout_tab_agent_text">Agent</string>
+  <string name="cashout_tab_atm_text">ATM</string>
+  <string name="cashout_enter_agent_details">Enter the agent details &amp; amount</string>
+  <string name="cashout_agent_code">Agent Code</string>
+  <string name="cashout_enter_agentcode">Enter Agent Code</string>
+  <string name="cashout_amount">Amount</string>
+  <string name="cashout_enter_next">Next</string>
+  <string name="cashout_enter_amount">Enter Amount</string>
+  <string name="cashout_byagent_enter_valid_code">Enter valid Agent Code</string>
+  <string name="cashout_byagent_enter_validamount">Enter valid Amount</string>
+  <string name="cashout_coming_soon_text">Coming Soon</string>
+  <string name="cashout_pop_up_button_cancel">Cancel</string>
+  <string name="cashout_pop_up_button_yes">Yes</string>
+  <string name="cashout_pop_up_button_no">No</string>
+  <string name="cashout_confirm_screen_text">Confirm Request</string>
+
+  <!--Confirmation-->
+  <string name="confirmation_screen_title_text">Confirm</string>
+  <string name="confirmation_button_text">Continue</string>
+  <string name="confirmation_screen_subtitle_text">Review entered details</string>
+  <string name="confirmation_charges_title_text">Charges breakdown:</string>
+  <string name="confirmation_review_text">Review entered details</string>
+  <string name="confirmation_servicecharge_label">Service Charge</string>
+  <string name="confirmation_comissioncharge_label">Commission</string>
+  <string name="confirmation_taxcharge_label">Tax</string>
+  <string name="confirmation_success_dialog_button">Done!</string>
+  <string name="confirmation_dialog_favorite_text">Add to favorites</string>
+  <string name="confirmation_transactionid_text">Txn ID:</string>
+  <string name="confirmation_datetime_text">Date &amp; Time :</string>
+  <string name="confirmation_pin_dialog_message_text">Please enter your PIN to </string>
+  <string name="confirmation_initiate_request_text">initiate request.</string>
+  <string name="confirmation_action_request_text">Send Request</string>
+  <string name="confirmation_pop_up_button_cancel">Cancel</string>
+  <string name="confirmation_common_network_error">Something went wrong please try again</string>
+  <string name="confirmation_pop_up_button_ok">OK</string>
+  <string name="confirmation_common_error_dialog_title">Error</string>
+
+  <string name="sendmoneybyfacebook_add_friend">Add Friend</string>
+  <string name="sendmoneybyfacebook_amount_label">Amount</string>
+  <string name="sendmoneybyfacebook_amount_hint">Enter Amount</string>
+  <string name="sendmoneybyfacebook_purpose_label">Note (Optional)</string>
+  <string name="sendmoneybyfacebook_purpose_hint">Enter Note</string>
+  <string name="sendmoneybyfacebook_friendname_emptytext">Please add facebook Friend.</string>
+
+  <string name="facebook_delink_text">Are you sure you want to unlink your Facebook account?</string>
+
+  <string name="requestmoneybyfacebook_add_friend">Add Friend</string>
+  <string name="requestmoneybyfacebook_amount_label">Amount</string>
+  <string name="requestmoneybyfacebook_amount_hint">Enter Amount</string>
+  <string name="requestmoneybyfacebook_purpose_label">Note (Optional)</string>
+  <string name="requestmoneybyfacebook_purpose_hint">Enter Note</string>
+  <string name="requestmoneybyfacebook_friendname_emptytext">Please add facebook Friend.</string>
+
+  <string name="otp_expires_min">0 Minutes 0 Seconds</string>
+</resources>

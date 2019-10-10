@@ -1,0 +1,44 @@
+<resources>
+  <string name="app_name">Bankily</string>
+
+  <string name="registeredbillers_delete_text">Supprimer un facturier</string>
+  <string name="registeredbiller_add_text">Ajouter un facturier</string>
+  <string name="registeredbiller_toolbar_text">Facturiers</string>
+  <string name="availablebiller_toolbar_text">Les facturiers disponibles</string>
+  <string name="registeredbiller_accountnumber_label">Numéro de compte:</string>
+
+  <!--Add Biller-->
+  <string name="addbiller_toolbar_text">Ajouter un facturier</string>
+  <string name="addbiller_title_text">Associez votre compte à un facturier</string>
+  <string name="addbiller_accountnumber_label">Numéro de compte</string>
+  <string name="addbiller_button_text">Suivante</string>
+  <string name="addbiller_success_message">Vous pouvez maintenant commencer à payer les factures à partir du menu Facturiers</string>
+
+  <string name="billpayment_common_noresponse_text">Une erreur est survenue</string>
+  <string name="billpayment_common_no_internet_error_text">Internet non disponible.</string>
+  <string name="billpayment_success_dialog_title">Succès!</string>
+  <string name="billpayment_success_dialog_done_button">Effectué!</string>
+
+  <string name="billpayment_pop_up_button_yes">Oui</string>
+  <string name="billpayment_pop_up_button_no">Non</string>
+  <string name="associatebiller_accountnumber_emptytext">Veuillez entrer le numéro de compte</string>
+
+  <string name="deletebiller_message_text">Êtes-vous sûr de vouloir supprimer cette association de facturiers?</string>
+
+  <!--Biller Details-->
+  <string name="billerdetails_accountnumber_label">Numéro de compte:</string>
+  <string name="billerdetails_billamount_label">Montant de la facture:</string>
+  <string name="billerdetails_paymentduedate_label">Date d'échéance du paiement :</string>
+  <string name="billerdetils_paynow_button">Payez maintenant!</string>
+  <string name="billerdetails_tootlbar_title">Détails de la facture</string>
+
+  <!--Bill Pay Confirm-->
+  <string name="billpay_confirmation_toolbar_title">Confirmez le paiement</string>
+  <string name="billpay_confirmation_amountlabel">Montant de la facture</string>
+
+  <string name="billpay_confirmation_billerlabel">Facturier :</string>
+  <string name="billpay_confirmation_accountnumber">Numéro de compte:</string>
+  <string name="billpay_confirmation_billamount">Montant de la facture:</string>
+
+
+</resources>

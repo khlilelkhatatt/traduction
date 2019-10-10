@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Bankily</string>
+
+    <!--Popup dialog-->
+    <string name="profile_pop_up_button_ok">OK</string>
+    <string name="profile_pop_up_button_cancel">Annuler</string>
+    <string name="profile_pop_up_button_yes">Oui</string>
+    <string name="profile_pop_up_button_no">Non</string>
+    <string name = "profile_success_dialog_button">Effectué</string>
+
+    <!--Profile Details-->
+    <string name = "profile_details_toolbar_text"> </string>
+    <string name = "profile_details_title_text">Modifier les informations de votre profil</string>
+    <string name="profile_details_firstname_text">Prénom</string>
+    <string name="profile_details_lastname_text">Nom de famille</string>
+    <string name = "profile_details_username_text">"Nom d'utilisateur "</string>
+    <string name = "profile_details_mobile_text">Numéro de téléphone</string>
+    <string name = "profile_details_button_text">Mise à jour</string>
+    <string name="profile_details_mobilenumber_empty_error">Numéro de téléphone est obligatoire</string>
+    <string name="profile_details_mobilenumber_invalid_error">Numéro de téléphone est invalide</string>
+    <string name="profile_details_mobile_number_error_dialog_title">Erreur</string>
+    <string name="profile_details_bottomsheet_take_photo">Prendre une photo</string>
+    <string name="profile_details_bottomsheet_choose_photo">Choisissez une photo</string>
+    <string name="profile_details_bottomsheet_delete_photo">Supprimer</string>
+
+    <!--OTP-->
+    <string name = "profile_otp_expiry_min">Minutes</string>
+    <string name = "profile_otp_expiry_sec">Secondes</string>
+    <string name = "profile_otp_toolbar_text">Code de vérification</string>
+    <string name = "profile_otp_old_mobile_title_text">Entrez le code de vérification envoyé à votre ancien numéro de téléphone</string>
+    <string name = "profile_otp_new_mobile_title_text">Entrez le code de vérification envoyé à votre nouveau numéro de téléphone</string>
+    <string name = "profile_otp_error_dialog_title">Erreur</string>
+    <string name = "profile_otp_expires_in">Code de vérification expire dans </string>
+    <string name = "profile_otp_resend_text">Renvoyer code de vérification</string>
+    <string name = "profile_otp_button_text">Verifié</string>
+    <string name="profile_otp_empty_error">Veuillez saisir un code de vérification valide</string>
+    <string name="profile_otp_change_mobile_success_title">Succès</string>
+    <string name="profile_otp_change_mobile_success_message">Votre numéro de téléphone a été changé avec succès</string>
+    <string name="profile_otp_change_mobile_success_button">Effectué</string>
+
+    <!--Common-->
+    <string name="profile_common_network_error">Une erreur est survenue, Merci de réessayer</string>
+
+    <!--Permissions-->
+    <string name="profile_camera_permission">Veuillez activer la permission pour la caméra</string>
+
+</resources>

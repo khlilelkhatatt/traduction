@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">بنكيلي</string>
+  <string name="facebook_app_id">407533613448782</string>
+  <string name="facebook_friends_toolbar_text">اتصالات فيسبوك</string>
+  <string name="facebook_friends_nofriends">ليس لديك أصدقاء ربطوا حسابهم فيسبوك الخاص بهم بالتطبيق بنكيلي.</string>
+  <string name="facebooksdk_error_msg">يبدو أن هناك مشكلة أثناء تسجيل الدخول باستخدام فيسبوك. الرجاء معاودة المحاولة في وقت لاحق.</string>
+</resources>

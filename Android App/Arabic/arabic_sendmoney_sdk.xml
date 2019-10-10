@@ -1,0 +1,29 @@
+<resources>
+  <string name="app_name">بنكيلي</string>
+  <string name="sendmoneyqr_toolbar_text">QR</string>
+  <string name="sendmoneyqr_myqr_tabtext">رمزي QR</string>
+  <string name="sendmoneyqr_qrpay_tabtext">مسح QR</string>
+  <string name="sendmoneyqr_myqr_titletext">استخدم رمز QR  هذا لاستلام الأموال</string>
+  <string name="sendmoneyscanqr_fragment_text">قريبا</string>
+  <string name="sendmoneyscanqr_camerapermission_msg">مطلوب إذن الكاميرا لإظهار مسح QR</string>
+  <string name="sendmoneyqrpay_toolbar_text">رمسح QR</string>
+  <string name="sendmoneyqrpay_amount_label">المبلغ</string>
+  <string name="sendmoneyqrpay_note_label">ملاحظة (اختياري)</string>
+  <string name="sendmoneyqrpay_button_text">التالى</string>
+  <string name="sendmoneypayqr_confirm_toolbartext">تأكيد تحويل الأموال</string>
+  <string name="sendmoneypayqr_amount_confirm">المبلغ</string>
+  <string name="sendmoneypayqr_confirm_note">ملاحظة</string>
+  <string name="sendmoneypayqr_amount_error">الرجاء إدخال مبلغ صالح</string>
+  <string name="sendmoneynfc_toolbar_text">NFC</string>
+  <string name="sendmoneynfc_enter_amount">أدخل المبلغ</string>
+  <string name="sendmoneynfc_payment_label">تحويل الأموال قيد التقدم</string>
+  <string name="sendmoneynfc_amount_error">الرجاء إدخال مبلغ صالح</string>
+  <string name="sendmoneynfc_confirmation_title_text">تأكيد تحويل الأموال</string>
+  <string name="sendmoneynfc_confirm_note_label">ملاحظة</string>
+  <string name="sendmoneynfc_enter_note_label">أدخل ملاحظة</string>
+  <string name="sendmoneynfc_pop_up_button_ok">تم</string>
+  <string name="sendmoneynfc_alert_dialog_title">إشعار</string>
+  <string name="sendmoneynfc_invalid_amount_error">الرجاء إدخال مبلغ صالح</string>
+
+  <string name="sendmoneyqr_invalid_qr_error">رمز QR غير صالح.</string>
+</resources>

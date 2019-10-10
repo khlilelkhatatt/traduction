@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"merchant_payment_toolbar_text" = "Payments";
+"merchant_payment_scan_qr_code" = "Scan QR Code";
+"merchant_payment_merchant_id_text" = "Merchant ID";
+"merchant_payment_enter_valid_merchant_id" = "Enter valid Merchant ID";
+
+"merchant_payment_amount" = "Amount";
+"merchant_payment_enter_amount" = "Enter Amount";
+"merchant_payment_enter_valid_amount" = "Enter valid amount";
+"merchant_payment_next" = "Next";
+"merchant_payment_pay_now" = "Pay Now";
+"merchant_payment_note_optional" = "Note (Optional)";
+"merchant_payment_enter_note" = "Enter Note";
+
+"OK" = "OK";
+"merchant_payment_error" = "Error";
+"merchant_payment_merchant_id" = "Merchant ID:";
+
+"merchant_payment_note" = "Note";
+"merchant_payment_pay" = "Pay";
+"merchant_payment_merchant_name" = "Merchant Name:";
+"merchant_payment_amount_paid" = "Amount Paid:";
+"merchant_payment_scan_qr_error" = "Error QR";
+
+"merchant_payment_enter_merchant_details" = "Enter Merchant Details";
+"merchant_payment_merchant_id_label" = "Merchant ID";
+"merchant_payment_enter_merchant_id" = "Enter Merchant ID";
+
+"merchant_payment_confirm_title_text" = "Confirm Payment";
+
+"merchant_payment_invalid_qr" = "QR Code could not be processed, please try again";

@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+//Profile information page
+"profile_information_subtitle_text"="Modifier les informations de votre profil";
+"profile_information_first_name_text"="Prénom";
+"profile_information_second_name_text"="Nom de famille";
+"profile_information_username_text"="Nom d'utilisateur";
+"profile_information_mobile_number_text"="Numéro de téléphone";
+"profile_information_update_button_text"="Mise à jour";
+"profile_information_take_photo_text"="Prendre une photo";
+"profile_information_choose_photo_text"="Choisissez une photo";
+"profile_information_delete_text"="Effacer";
+"profile_information_cancel_text"="Annuler";
+"profile_information_mobilenum_error"="Le numéro de téléphone est invalide";
+"profile_information_camera_permission_text"="Veuillez activer l'autorisation pour les paramètres de l'appareil photo";
+"profile_information_photo_permission_text"="Veuillez activer l'autorisation Photo";
+
+//OTP page
+"change_mobile_otp_title_text"="Code de vérification";
+"change_mobile_otp_old_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre ancien numéro de mobile";
+"change_mobile_otp_new_mobile_subtitle_text"="Entrez le code de vérification envoyé à votre nouveau numéro de mobile";
+"change_mobile_resend_otp_button_text"="Renvoyer le code de vérification";
+"change_mobile_otp_proceed_button_text"="Continuer";
+"change_mobile_otp_cancel_button_text"="Annuler";
+"change_mobile_otp_expires_in_text"="Code de vérification expire dans ";
+"change_mobile_otp_min_text"="Minutes";
+"change_mobile_otp_sec_text"="Secondes";
+"change_mobile_otp_error_text"="Veuillez entrer code de vérification valide";
+
+//Popup dialog
+"profile_information_pop_up_button_ok" = "OK";
+"profile_information_pop_up_error_title" = "Erreur";
+"profile_information_pop_up_button_done"="Effectué";
+"profile_information_pop_up_success_title"="Succès";

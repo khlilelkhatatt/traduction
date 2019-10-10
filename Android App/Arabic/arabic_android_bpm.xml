@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--Splash Screen-->
+  <string name="selectLanguage_languagecode">3</string>
+  <string name="selectLanguage_languagelocale">ar</string>
+  <string name="selectLanaguage_text_englishText">English</string>
+  <string name="selectLanaguage_text_arabicText">العربية</string>
+  <string name="selectLanaguage_text_frenchText">Français</string>
+  <string name="splash_imeipermission_error">يرجى إعطاء إذن للهاتف لتشغيل التطبيق</string>
+  <string name="splash_updateavailable_text">التحديث متاح</string>
+  <string name="splash_forceupdate_text">يرجى تحديث التطبيق الخاص بك. وإلا فلن تكون قادرًا على استخدام التطبيق</string>
+  <string name="splash_update_btn">تحديث</string>
+  <string name="selectLanguage_button_text">استمر</string>
+
+  <string name="walkthrough6_title">اللوحة</string>
+  <string name="walkthrough6_desc">كن المبادِر في جمع المساعدة الأجتماعية لأحد أفراد أسرتك أو لحدث مع تطبيق بنكيلي الخاص بك !</string>
+  <string name="walkthrough5_title">شحن الهاتف</string>
+  <string name="walkthrough5_desc">قم بشحن رصيد هاتفك آو هاتف أي شخص آخر بدون مغادرة مكانك مع تطبيق بنكيلي الخاص بك !</string>
+  <string name="walkthrough4_title">تسديد الفواتير</string>
+  <string name="walkthrough4_desc">دفع فاتورة الماء أو الكهرباء دون التحرك مع تطبيق بنكيلي الخاص بك !</string>
+  <string name="walkthrough3_title">طلب المال</string>
+  <string name="walkthrough3_desc">هل تحتاج إلى المال ؟ اتصل بأحبائك بثقة مع تطبيق بنكيلي الخاص بك !</string>
+  <string name="walkthrough2_title">تسديد المشتريات</string>
+  <string name="walkthrough2_desc">سدد مشترياتك بسهولة من خلال تطبيق بنكيلي !</string>
+  <string name="walkthrough1_title">تحويل الأموال</string>
+  <string name="walkthrough1_desc">تحويل الأموال إلى أحبائك بشكل آمن مع تطبيق بنكيلي الخاص بك !</string>
+  <string name="walkthrough_text_skiptext">تخطى</string>
+  <string name="walkthrough_text_gotittext">مفهوم</string>
+  <string name="before_login_login_signin">تسجيل الدخول</string>
+  <string name="before_login_login_signup">التسجيل</string>
+  <string name="selectLanguage_text_titleText">اختر لغتك</string>
+  <string name="pop_up_button_ok">تم</string>
+  <string name="pop_up_button_cancel">إلغاء</string>
+  <string name="pop_up_button_yes">نعم</string>
+  <string name="pop_up_button_no">لا</string>
+  <string name="theme_popup_message">لقد تلقيت تحديثًا. هل تريد تطبيقه ؟</string>
+  <string name="theme_popup_title">معلومات</string>
+  <string name="theme_popup_positive_button">الآن</string>
+  <string name="theme_popup_negative_button">فيما بعد</string>
+  <string name="title_registration_nationid_text">أدخل NNI الخاص بك</string>
+  <string name="registration_nationid_lable">الرقم الوطني للتعريف (NNI)</string>
+  <string name="registration_nationid_button_text">التالى</string>
+  <string name="registration_nationid_toolbar_text">سجل معنا</string>
+  <string name="nationid_empty_error">NNI إلزامي</string>
+  <string name="nationalid_invalid_error">NNI غير صالح</string>
+  <string name="nationalid_error_dialog_title">خطأ</string>
+
+  <string name="mobile_number_verify_title_text">التحقق</string>
+  <string name="title_mobile_number_verify">التحقق من التفاصيل الخاصة بك</string>
+  <string name="mobile_number_verify_lable">رقم الهاتف</string>
+  <string name="mobile_number_note_text">سنرسل رمز التأكيد إلى هذا الرقم للتحقق</string>
+  <string name="mobile_number_button_text">استمر</string>
+  <string name="mobilenumber_empty_error">رقم الهاتف إلزامي</string>
+  <string name="mobilenumber_invalid_error">رقم الهاتف غير صالح</string>
+  <string name="mobile_number_error_dialog_title">خطأ</string>
+  <string name="terms_condition_button_accept">قبول</string>
+  <string name="terms_condition_button_decline">رفض</string>
+  <string name="terms_condition_title">الشروط والأحكام</string>
+  <string name="terms_condition_url">ar</string>
+
+  <string name="otp_toolbar_text">شيفرة التأكيد</string>
+  <string name="otp_title_text">أدخل رمز التأكيد المرسل إلى رقم هاتفك</string>
+  <string name="otp_empty_error">يرجى إدخال رمزتأكيد صالح</string>
+  <string name="otp_error_dialog_title">خطأ</string>
+  <string name="otp_resend_text">إعادة إرسال رمز التأكيد</string>
+  <string name="otp_button_text">التحقق</string>
+  <string name="otp_success_dialog_button">تم</string>
+  <string name="otp_success_dialog_message">تم التحقق من رقم هاتفك بنجاح</string>
+  <string name="otp_expires_in">تنتهي صلاحية رمز التأكيد خلال</string>
+  <string name = "otp_expiry_min">دقائق</string>
+  <string name = "otp_expiry_sec">ثواني</string>
+
+  <string name="personalinfo_toolbar_text">معلومات شخصية</string>
+  <string name="personalinfo_button_text">أكد</string>
+
+  <string name="create_profile_toolbar_text">إنشاء الملف الشخصي </string>
+  <string name="create_profile_title_text">إنشاء الملف الشخصي الخاص بك</string>
+  <string name="creatte_profile_username_lable">اسم المستخدم</string>
+  <string name="create_profile_security_lable">اختار سؤال الحماية</string>
+  <string name="create_profile_security_que_lable">سؤال الحماية</string>
+  <string name="create_profile_security_answer_lable">الجواب</string>
+  <string name="create_profile_button_text">التالى</string>
+  <string name="create_profile_username_error_text">اسم المستخدم إلزامي</string>
+  <string name="create_profile_username_length_error_text">أدخل اسم مستخدم صالح</string>
+  <string name="create_profile_question_error_text">سؤال الحماية إلزامي</string>
+  <string name="create_profile_answer_error_text">الجواب إلزامي</string>
+  <string name="title_registration_text">هيا بنا لتسجيلك</string>
+  <string name="signup_first_screen_titletext">تسجيل</string>
+  <string name="registration_or_text">أو</string>
+  <string name="signup_newcustomer_button_text">زبون جديد</string>
+  <string name="signup_existingcustomer_button_text">زبون حالي</string>
+
+  <string name="mpin_toolbar_title">تعيين الرقم السري</string>
+  <string name="mpin_title_text">كدت تنتهي !</string>
+  <string name="mpin_setpin_lable">تعيين الرقم السري</string>
+  <string name="mpin_confirm_lable">تأكيد  الرقم السري</string>
+  <string name="mpin_button_text">تم</string>
+  <string name="mpin_pin_error_message">الرجاء إدخال رقم السري صالح</string>
+  <string name="mpin_confirm_pin_error_message">الرجاء إدخال  تأكيد رقم السري صحيح</string>
+  <string name="mpin_confirm_pin_mismatch_error_message">الرقم السري و تأكيده لا يتطابقان</string>
+  <string name="mpin_error_dialog_title">خطأ</string>
+
+  <string name="personalinfo_fname_lable">الأسم</string>
+  <string name="personalinfo_sname_lable">اسم العائلة</string>
+  <string name="personalinfo_nationalid_lable">الرقم الوطني للتعريف (NNI)</string>
+
+  <string name="login_mobilenumber_empty_error_text">رقم الهاتف/اسم المستخدم إلزامي</string>
+  <string name="login_setpin_empty_error_text">الرقم السري إلزامي</string>
+  <string name="login_mobilenumber_length_error_text">رقم الهاتف غير صالح</string>
+  <string name="login_username_length_error_text">اسم المستخدم غير صالح</string>
+  <string name="login_setpin_length_error_text">الرقم السري غير صالح</string>
+
+  <string name="login_title_text">أدخل تفاصيل تسجيل الدخول الخاصة بك</string>
+  <string name="login_toolbar_text">تسجيل الدخول</string>
+  <string name="login_setpin_text">الرقم السري</string>
+  <string name="login_username_lable_text">اسم المستخدم أو رقم الهاتف</string>
+  <string name="login_forgotpin_link_text">نسيت الرقم السري ؟</string>
+  <string name="login_newuser_link_text">مستخدم جديد ؟  سجل الآن!</string>
+  <string name="login_button_text">تسجيل الدخول</string>
+  <string name="login_error_dialog_title">خطأ</string>
+  <string name="login_noresponse_text">هناك خطأ ما</string>
+
+  <string name="navigation_drawer_open">افتح</string>
+  <string name="navigation_drawer_close">أغلق</string>
+  <string name="home_toolbar_text">لوحة القيادة</string>
+  <string name="help_toolbar_text">مساعدة</string>
+  <string name="favourite_toolbar_text">المفضلة</string>
+  <string name="notification_toolbar_text">الإشعارات</string>
+  <string name="home_bottombar_home_text">الرئيسية</string>
+  <string name="home_bottombar_favorites_text">المفضلة</string>
+  <string name="home_bottombar_notification_text">الإشعارات</string>
+  <string name="home_bottombar_help_text">المساعدة</string>
+  <string name="dashboard_topbar_pay">تسديد مشتريات</string>
+  <string name="dashboard_topbar_transfer">تحويل الأموال</string>
+  <string name="dashboard_topbar_balance">حسابي</string>
+  <string name="dashboard_topbar_transaction">المعاملات</string>
+
+  <string name="dashboard_service_recharge">تعبئة رصيد الهاتف</string>
+  <string name="dashboard_service_billpayment">تسديد الفواتير</string>
+  <string name="dashboard_service_chequebook">طلب دفتر شيكات</string>
+  <string name="dashboard_service_debitcard">البطاقات البنكية</string>
+  <string name="dashboard_service_cashout">سحب النقود</string>
+  <string name="dashboard_partial_kyc_alert_text">يجب عليك إكمال ملفك لدى البنك للوصول إلى هذه الخدمات</string>
+
+  <!--Hamberger Menu Items-->
+  <string name="home_nav_menu_changelanguage_text">اللغة</string>
+  <string name="home_nav_menu_linkfacebook_text">ربط حساب الفيسبوك</string>
+  <string name="home_nav_menu_changepin_text">تغيير الرقم السري</string>
+  <string name="home_nav_menu_signout_text">تسجيل الخروج</string>
+  <string name="help_url">ar</string>
+  <string name="signout_confirmation_text"> هل أنت متأكد أنك تريد الخروج ؟</string>
+  <!--Change PIN-->
+  <string name="changepin_toolbar_title">تغيير الرقم السري</string>
+  <string name="changepin_title_text">أدخل الرقم السري الحالي لتعيين الرقم السري الجديد</string>
+  <string name="changepin_oldpin_lable">الرقم السري القديم</string>
+  <string name="changepin_newpin_lable">الرقم السري  الجديد</string>
+  <string name="changepin_confirm_lable">تأكيد الرقم السري الجديد</string>
+  <string name="changepin_button_text">أتمم</string>
+  <string name="changepin_old_pin_error_message">الرجاء إدخال رقم سري قديم صالح</string>
+  <string name="changepin_new_pin_error_message">الرجاء إدخال رقم سري جديد صالح</string>
+  <string name="changepin_confirm_pin_error_message">الرجاء إدخال تأكيد الرقم السري الجديد صالح</string>
+  <string name="changepin_confirm_pin_mismatch_error_message">الرقم السري الجديد و تأكيده لا يتطابقان</string>
+  <string name="changepin_error_dialog_title">خطأ</string>
+  <string name="changepin_success_dialog_message"> لقد تم تغيير الرقم السري الخاص بنجاح.</string>
+  <string name="changepin_success_dialog_title">نجاح!</string>
+  <string name="changepin_success_dialog_done_button">تم</string>
+
+  <!--Change Language-->
+  <string name="changeLanguage_text_titleText">غير اللغة</string>
+  <string name="changeLanguage_success_dialog_message">هل أنت متأكد أنك تريد تغيير لغتك المفضلة إلى</string>
+  <string name="changeLanguage_success_dialog_title">تؤكد</string>
+
+  <!--Forgot PIN-->
+  <string name="forgotpin_toolbar_title">نسيت الرقم السري</string>
+  <string name="forgotpin_title_text">أجب عن سؤالك الحماية لتعيين رقم سري جديد</string>
+  <string name="forgotpin_security_question_lable">سؤال الحماية</string>
+  <string name="forgotpin_answer_lable">الجواب</string>
+  <string name="forgotpin_button_text">التالى</string>
+  <string name="forgotpin_answer_error_message">الرجاء إدخال جواب صحيح</string>
+  <string name="forgotpin_success_dialog_message"> لقد تم تغيير الرقم السري الخاص بنجاح.</string>
+  <string name="forgotpin_success_dialog_title">نجاح!</string>
+  <string name="forgotpin_success_dialog_done_button">تم</string>
+  <string name="forgotpin_set_new_pin_label">تعيين رقم سري جديد</string>
+
+  <!--Cheque Book-->
+  <string name="chequebook_type_text">اختر نوع دفتر الشيكات</string>
+  <string name="chequebook_leaf_selector_text">أوراق دفتر الشيكات</string>
+  <string name="chequebook_request_toolbar_text">طلب دفتر شيكات</string>
+  <string name="chequebook_initiate_request_text">بدء الطلب.</string>
+  <string name="chequebook_action_request_text">ارسل طلب</string>
+  <string name="chequebook_request_success_text">طلب مقبول!</string>
+  <string name="chequebook_confirmation_title_text">تأكيد الطلب</string>
+  <!--Debit Card-->
+  <string name="debit_card_type_title_text">اختر نوع البطاقة البنكية</string>
+  <string name="debit_card_type_selector_text">نوع البطاقة البنكية</string>
+  <string name="debit_card_request_toolbar_text">طلب</string>
+  <string name="debit_card_account_text">الحساب</string>
+  <string name="debit_card_type_text">نوع</string>
+  <string name="debit_card_toolbar_text">بطاقة بنكية</string>
+  <string name="debit_card_tabbar_block_text">منع</string>
+  <string name="debit_card_tabbar_request_text">طلب</string>
+  <string name="debit_card_block_request_text">إلغاء تفعيل بطاقتك</string>
+  <string name="debit_card_unblock_request_text">تفعيل بطاقتك.</string>
+  <string name="debit_card_block_action_text">منع</string>
+  <string name="debit_card_unblock_action_text">تفعيل</string>
+  <string name="debit_card_block_success_text">تم منع بطاقتك بنجاح.</string>
+  <string name="debit_card_unblock_success_text">تم تفعيل بطاقتك بنجاح.</string>
+  <string name="debit_card_block_success_title_text">منع ناجح</string>
+  <string name="debit_card_unblock_success_title_text">تفعيل  ناجح!</string>
+  <string name="debit_card_success_dialog_button">تم</string>
+  <string name="debit_card_not_found_text">لا توجد بطاقات لحسابك.</string>
+  <string name="debit_card_type_not_found_text">لم يتم العثور على نوع البطاقة لإنشاء الطلب.</string>
+
+  <string name="pin_dialog_message_text">الرجاء إدخال الرقم السري ل </string>
+
+  <!--Transaction Dialog-->
+  <string name="dialog_favorite_text">إضافة إلى المفضلة</string>
+
+  <!--Confirmation Screen-->
+  <string name="confirmation_address_text">عنوان البريد الإلكتروني : </string>
+  <string name="confirmation_bymobile_mobiletext">رقم الهاتف : </string>
+  <string name="confirmation_byusername_usernametext">إسم المستخدم : </string>
+  <string name="confirmation_bymobile_amountext">مبلغ : </string>
+  <string name="confirmation_referenceid_text">الرقم المرجعي : </string>
+  <string name="confirmation_transactionsuccess_text">عملية ناجحة</string>
+  <string name="confirmation_byownbank_senttext">تم الإرسال إلى : </string>
+  <string name="confirmation_byotherbank_transfer_amount_text">نقل مبلغ من </string>
+  <string name="confirmation_byotherbank_credited_account_text">معتمدة إلى رقم الحساب</string>
+  <string name="confirmation_byotherbank_business_days_text">في 3 إلى 5 أيام عمل</string>
+
+  <string name="home_bank_name">البنك الشعبي الموريتاني</string>
+
+  <!--Fund Transfer-->
+  <string name="fundtransfer_toolbar_text">تحويل أموال</string>
+  <string name="fundtransfer_sendmoney_text">إرسال الأموال</string>
+  <string name="fundtransfer_requestmoney_text">طلب المال</string>
+  <string name="fundtransfer_nfc_text">تقنية NFC</string>
+  <string name="fundtransfer_qr_text">رمز QR</string>
+  <string name="fundtransfer_splitbill_text">اللوحة</string>
+  <string name="fundtransfer_quicktransfer_text">التحويل السريع</string>
+  <string name="fundtransfer_creategroup_text">أنشئ مجموعة جديدة أو حدد مجموعة حالية لتقسيم المبلغ</string>
+  <string name="fundtransfer_splitbill_delete_group_text">حذف المجموعة</string>
+
+
+  <!--Mini Statement-->
+  <string name="miniStatement_toolbar_text">حسابي</string>
+  <string name="miniStatement_account_number_label">رقم الحساب : </string>
+  <string name="miniStatement_closing_balance_label">الرصيد</string>
+  <string name="miniStatement_last_10_trans_label">آخر 10 معاملات</string>
+  <string name="miniStatement_filter_date_label">تصفية حسب التاريخ</string>
+  <string name="miniStatement_transaction_id_label">معرف المعاملة</string>
+  <string name="miniStatement_from_label">من عند</string>
+  <string name="miniStatement_to_label">إلى</string>
+
+  <string name="fundtransfer_confirmation_title_text">تأكيد تحويل الأموال</string>
+  <string name="fundtransfer_nfc_not_enabled">تقنية NFC غير مفعلة</string>
+
+  <!--Send Money-->
+  <string name="sendmoney_toolbar_text">إرسال الأموال</string>
+  <string name="sendmoney_send_button">إرسال</string>
+  <string name="sendmoney_tab_mobile_text">رقم الهاتف</string>
+  <string name="sendmoney_tab_username_text">اسم المستخدم</string>
+  <string name="sendmoney_tab_bank_text">بنك</string>
+  <string name="sendmoney_tab_facebook_text">فيسبوك</string>
+  <string name="sendmoney_confirm_amount_text">المبلغ</string>
+  <string name="sendmoney_confirm_note_label">ملاحظة (اختياري)</string>
+  <string name="sendmoney_confirm_servicecharge_label">رسوم الخدمة</string>
+  <string name="sendmoney_confirm_comcharge_label">العمولة</string>
+  <string name="Username">الضريبة</string>
+
+  <string name="Username">اسم المستخدم</string>
+  <string name="sendmoneybyusername_username_hint">ادخل اسم المستخدم</string>
+  <string name="sendmoneybyusername_amount_label">المبلغ</string>
+  <string name="sendmoneybyusername_amount_hint">أدخل المبلغ</string>
+  <string name="sendmoneybyusername_purpose_label">ملاحظة (اختياري)</string>
+  <string name="sendmoneybyusername_purpose_hint">أدخل ملاحظة</string>
+  <string name="sendmoneybyusername_unerror_text">أدخل اسم مستخدم صالح</string>
+
+  <string name="sendmoneybymobilenumber_mobileno_label">رقم الهاتف</string>
+  <string name="sendmoneybymobilenumber_mobileno_hint">أدخل رقم الهاتف</string>
+
+
+  <string name="sendmoneybymobilenumber_contactpermission_error_title">خطأ</string>
+  <string name="sendmoneybymobilenumber_contactpermission_msg">إذن قراءة مطلوب لعرض قائمة جهات الاتصال الخاصة بك.</string>
+  <string name="sendmoneybymobilenumber_mobileno_error">أدخل رقم الهاتف صالح</string>
+  <string name="sendmoneybymobilenumber_amount_error">أدخل مبلغ صالح</string>
+  <string name="sendmoneybymobilenumber_mobile_number_not_exist">رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 7 أيام. هل تريد الاستمرار؟</string>
+
+  <string name="sendmoneybybank_title_label">اختر بنك المستفيد</string>
+  <string name="sendmoneybybank_bpm_bank_label">البنك الشعبي الموريتاني</string>
+  <string name="sendmoneybybank_other_bank_label">بنك آخر</string>
+
+  <string name="sendmoney_confirm_account_no_label">رقم الحساب : </string>
+  <string name="sendmoney_confirm_transfer_amount_label">المبلغ : </string>
+  <string name="sendmoney_confirm_receipent_name_label">اسم المستقبل</string>
+  <string name="sendmoney_confirm_receipent_account_no_label">رقم حساب المستلم</string>
+
+  <!--Send Money Other Bank-->
+  <string name="otherbankaccountdetails_toolbar_text">إرسال الأموال - بنك آخر</string>
+  <string name="otherbankaccountdetails_title_text">أدخل تفاصيل حساب المستلم</string>
+  <string name="otherbankaccountdetails_button_text">التالى</string>
+  <string name="otherbankaccountdetails_name_lable">اسم</string>
+  <string name="otherbankaccountdetails_bank_lable">بنك</string>
+  <string name="otherbankaccountdetails_account_no_lable">رقم الحساب : </string>
+  <string name="otherbankaccountdetails_amount_lable">المبلغ</string>
+  <string name="otherbankaccountdetails_note_lable">ملاحظة</string>
+  <string name="otherbankaccountdetails_name_unerror_text">أدخل اسمًا صالحًا</string>
+  <string name="otherbankaccountdetails_bank_unerror_text">اختر البنك</string>
+  <string name="otherbankaccountdetails_account_no_unerror_text">أدخل رقم حساب صالح</string>
+  <string name="otherbankaccountdetails_amount_unerror_text">أدخل مبلغ صالح</string>
+
+  <!--Send Money BPM Bank-->
+  <string name="bpmbankcifnumber_toolbar_text">إرسال الأموال - BPM</string>
+  <string name="bpmbankcifnumber_title_text">أدخل تفاصيل حساب المستلم</string>
+  <string name="bpmbankcifnumber_cif_number_lable">رقم الحساب  (CIF)</string>
+  <string name="bpmbankcifnumber_button_text">التالى</string>
+  <string name="bpmbankcifnumber_unerror_text">أدخل رقم الحساب (CIF) صالحًا</string>
+
+  <string name="bpmbankaccountnoamount_toolbar_text">إرسال الأموال - BPM</string>
+  <string name="bpmbankaccountnoamount_title_text">اختيار حساب مصرفي وأدخل المبلغ</string>
+  <string name="bpmbankaccountnoamount_amount_lable">المبلغ</string>
+  <string name="bpmbankaccountnoamount_note_lable">ملاحظة</string>
+  <string name="bpmbankaccountnoamount_button_text">التالى</string>
+  <string name="bpmbankaccountnoamount_amount_unerror_text">أدخل مبلغ صالح</string>
+  <string name="bpmbankaccountnoamount_account_unerror_text">اختر حساب</string>
+
+  <string name="dialog_comingsoon_message">قريبا</string>
+  <string name="dialog_comingsoon_title">معلومات</string>
+  <string name="common_fragment_text">قريبا</string>
+
+  <!--Common-->
+  <string name="common_alert">إشعار</string>
+  <string name="common_network_error">حدث خطأ ما. أعد المحاولة من فضلك</string>
+  <string name="common_network_error_text">حدث خطأ ما. أعد المحاولة من فضلك</string>
+  <string name="press_again_exit">يرجى النقر مرة أخرى للخروج</string>
+  <string name="common_no_internet_error_text">الإنترنت غير متوفر.</string>
+  <string name="common_confirmation_text">هل أنت متأكد أنك لا تريد المتابعة؟</string>
+
+
+  <string name="rootdetected_dialog_message">لا يدعم جهازك استخدام رمز خروج التطبيق 1.</string>
+  <string name="tamperdetected_dialog_message">لا يدعم جهازك استخدام رمز خروج التطبيق 2.</string>
+  <string name="debugdetected_dialog_message">لا يدعم جهازك استخدام رمز خروج التطبيق 3.</string>
+  <string name="hookdetected_dialog_message">لا يمكن إكمال العملية المطلوبة</string>
+  <!--Request Money-->
+  <string name="requestmoney_toolbar_text">طلب المال</string>
+  <string name="requestmoney_tab_mobile_text">رقم الهاتف</string>
+  <string name="requestmoney_tab_username_text">اسم المستخدم</string>
+  <string name="requestmoney_tab_facebook_text">فيسبوك</string>
+
+  <string name="requestmoney_request_button">طلب</string>
+  <string name="requestmoneybymobilenumber_title_text">أدخل تفاصيل الدافع</string>
+  <string name="requestmoneybymobilenumber_mobileno_label">رقم الهاتف </string>
+  <string name="requestmoneybymobilenumber_mobileno_hint">أدخل رقم الهاتف</string>
+  <string name="requestmoneybymobilenumber_amount_label">المبلغ</string>
+  <string name="requestmoneybymobilenumber_amount_hint">أدخل المبلغ</string>
+  <string name="requestmoneybymobilenumber_purpose_label">ملاحظة (اختياري)</string>
+  <string name="requestmoneybymobilenumber_purpose_hint">أدخل ملاحظة</string>
+
+  <string name="requestmoneybymobilenumber_contactpermission_error_title">خطأ</string>
+  <string name="requestmoneybymobilenumber_contactpermission_msg">إذن قراءة مطلوب لعرض قائمة جهات الاتصال الخاصة بك.</string>
+  <string name="requestmoneybymobilenumber_mobileno_error">أدخل رقم هاتف صالحًا</string>
+  <string name="requestmoneybymobilenumber_amount_error">أدخل مبلغ صالح</string>
+
+  <string name="requestmoney_confirm_amount_text">المبلغ</string>
+  <string name="requestmoney_confirm_note_label">ملاحظة</string>
+  <string name="requestmoney_confirm_servicecharge_label">تكلفة الخدمة</string>
+  <string name="requestmoney_confirm_comcharge_label">عمولة</string>
+  <string name="requestmoney_confirm_taxcharge_label">ضريبة</string>
+
+  <string name="requestmoneybyusername_username_label">اسم المستخدم</string>
+  <string name="requestmoneybyusername_username_hint">ادخل اسم المستخدم</string>
+  <string name="requestmoneybyusername_amount_label">المبلغ</string>
+  <string name="requestmoneybyusername_amount_hint">أدخل المبلغ</string>
+  <string name="requestmoneybyusername_purpose_label">ملاحظة (اختياري)</string>
+  <string name="requestmoneybyusername_purpose_hint">أدخل ملاحظة</string>
+  <string name="requestmoneybyusername_unerror_text">أدخل اسم مستخدم صالح</string>
+  <!--Notification-->
+  <string name="notification_requestreceived_tabtitle">الطلبات الواردة</string>
+  <string name="notification_requestsent_tabtitle">الطلبات المرسلة</string>
+  <string name="notification_requestreceived_amount">طلب ل</string>
+  <string name="notification_requestreceived_splitbill_amount">طلب اللوحة ل</string>
+  <string name="notification_requestreceived_from">من </string>
+  <string name="notification_requestreceived_note">ملاحظة</string>
+  <string name="notificationstatus_pendingtext">قيد الانتظار</string>
+  <string name="notificationstatus_expiredtext">منتهية الصلاحية</string>
+  <string name="notificationstatus_approvedtext">معتمدة!</string>
+  <string name="notificationstatus_rejectedtext">مرفوضة</string>
+  <string name="notificationstatus_canceledtext">ألغيت</string>
+  <string name="notificationstatus_partiallypaidtext">المدفوعة جزئيا</string>
+
+  <string name="notification_requestsent_amount">طلب ل</string>
+  <string name="notification_requestsent_to">إلى</string>
+  <string name="notification_requestsent_note">ملاحظة</string>
+  <string name="notification_requestsent_splitbill_amount">طلب اللوحة ل</string>
+
+  <string name="notification_requestaccept_dialogtext1">هل أنت متأكد أنك تريد القبول؟</string>
+  <string name="notification_requestaccept_dialogtext2">طلب؟</string>
+
+  <string name="notification_requestreject_dialogtext1">هل أنت متأكد أنك تريد الرفض ؟</string>
+  <string name="notification_requestreject_dialogtext2">طلب؟</string>
+
+  <string name="notification_requestacceptinput_amountlabel">المبلغ</string>
+  <string name="notification_requestacceptinput_remarkslabel">ملاحظة (اختياري)</string>
+  <string name="notification_requestacceptinput_cancelbutton">إلغاء</string>
+  <string name="notification_requestacceptinput_sendbutton">إرسال</string>
+
+
+  <string name="notification_requestrejectinput_remarkslabel">السبب (اختياري)</string>
+  <string name="notification_requestrejectinput_cancelbutton">إلغاء</string>
+  <string name="notification_requestrejectinput_declinebutton">رفض</string>
+  <string name="notification_requestrejectdialog_success">نجاح!</string>
+
+  <string name="notification_requestaccepted_confirmation_title_text">تأكيد تحويل الأموال</string>
+  <string name="requestaccepted_confirm_amount_text">المبلغ</string>
+  <string name="requestaccepted_confirm_note_label">ملاحظة </string>
+  <string name="requestaccepted_confirm_servicecharge_label">تكلفة الخدمة</string>
+  <string name="requestaccepted_confirm_comcharge_label">العمولة</string>
+  <string name="requestaccepted_confirm_taxcharge_label">الضريبة</string>
+  <string name="requestaccepted_amount_error">أدخل مبلغ صالح</string>
+
+  <string name="notification_pendingstatus_notetext">ملاحظة</string>
+  <string name="notification_approvedstatus_notetext">ملاحظة:</string>
+  <string name="notification_rejectedstatus_notetext">السبب:</string>
+  <string name="notification_expiredstatus_notetext">ملاحظة:</string>
+  <string name="notification_splitbill_notetext">وصف:</string>
+
+  <string name="confirmation_requestaccepted_name">الإسم:</string>
+  <string name="confirmation_requestaccepted_amounttext">المبلغ:</string>
+
+
+  <string name="ministatement_notransaction_text">لم يتم العثور على معاملات</string>
+
+  <!--Favourites-->
+
+  <string name="recharge_service_toolbar_text">تعبئة رصيد الهاتف</string>
+  <string name="rechargeservice_btn_next">التالى</string>
+  <string name="recharge_service_mobile_number">رقم الهاتف </string>
+  <string name="recharge_service_enter_mobile_number">أدخل رقم الهاتف </string>
+  <string name="recharge_service_title_error">خطأ</string>
+  <string name="recharge_service_enter_valid_mobile_number">الرجاء إدخال  رقم هاتف صالحً</string>
+  <string name="recharge_service_explaination_text">حدد شركة الاتصالات الخاصة بك وأدخل التفاصيل</string>
+  <string name="recharge_service_mobile_operator">شركة الاتصالات</string>
+  <string name="recharge_service_choose_topup">إختر من بين مبالغ التعبئة المتاحة</string>
+  <string name="recharge_service_review_details">مراجعة التفاصيل المدخلة</string>
+  <string name="recharge_topup">تعبئة</string>
+  <string name="recharge_service_amount">المبلغ</string>
+  <string name="recharge_service_confirm_title">تأكيد تعبئة رصيد الهاتف</string>
+  <string name="recharge_pop_up_button_cancel">إلغاء</string>
+  <string name="recharge_pop_up_button_yes">نعم</string>
+  <string name="recharge_pop_up_button_no">لا</string>
+  <string name="recharge_service_confirm_servicecharge_label">تكلفة الخدمة</string>
+  <string name="recharge_service_confirm_commission_charge_label">العمولة</string>
+  <string name="recharge_service_confirm_taxcharge_label">الضريبة</string>
+  <string name="merchant_payment_toolbar_text">تسديد المشتريات</string>
+  <string name="merchant_payment_scan_qr_code">مسح رمز QR</string>
+  <string name="merchant_payment_merchant_id_text">معرف التاجر</string>
+  <string name="merchant_payment_enter_valid_merchant_id">أدخل معرف التاجر صالح</string>
+  <string name="merchant_payment_amount">المبلغ</string>
+  <string name="merchant_payment_enter_amount">أدخل المبلغ</string>
+  <string name="merchant_payment_enter_valid_amount">أدخل مبلغ صالح</string>
+  <string name="merchant_payment_next">التالى</string>
+  <string name="merchant_payment_pay_now">ادفع الآن</string>
+  <string name="merchant_payment_note_optional">ملاحظة (اختياري)</string>
+  <string name="merchant_payment_enter_note">أدخل ملاحظة </string>
+  <string name="merchant_payment_error">خطأ</string>
+  <string name="merchant_payment_merchant_id">معرف التاجر :</string>
+  <string name="merchant_payment_note">ملاحظة</string>
+  <string name="merchant_payment_pay">ادفع </string>
+  <string name="merchant_payment_merchant_name">اسم التاجر  :</string>
+  <string name="merchant_payment_amount_paid">المبلغ المدفوع:</string>
+  <string name="merchant_payment_scan_qr_error">خطأ QR</string>
+  <string name="merchant_payment_enter_merchant_details">أدخل تفاصيل التاجر</string>
+  <string name="merchant_payment_merchant_id_label">معرف التاجر</string>
+  <string name="merchant_payment_enter_merchant_id">أدخل معرف التاجر</string>
+  <string name="registeredbillers_delete_text">حذف المفوتر</string>
+  <string name="registeredbiller_add_text">أضف مفوتر</string>
+  <string name="registeredbiller_toolbar_text">المفوترين</string>
+  <string name="availablebiller_toolbar_text">المفوترين المتوفرين</string>
+  <string name="addbiller_toolbar_text">أضف مفوتر</string>
+  <string name="addbiller_title_text">أربط حسابك مع المفوتر</string>
+  <string name="addbiller_accountnumber_label">رقم الحساب</string>
+  <string name="addbiller_button_text">التالى</string>
+  <string name="addbiller_success_message">يمكنك الآن بدأ تسديد الفواتير من خلال قائمة المفوترين</string>
+  <string name="billpayment_common_noresponse_text">هناك خطأ ما</string>
+  <string name="billpayment_common_no_internet_error_text">الانترنت غير متوفر</string>
+  <string name="billpayment_success_dialog_title">نجاح!</string>
+  <string name="billpayment_success_dialog_done_button">تم</string>
+  <string name="billpayment_pop_up_button_yes">نعم</string>
+  <string name="billpayment_pop_up_button_no">لا</string>
+  <string name="associatebiller_accountnumber_emptytext">الرجاء إدخال رقم الحساب.</string>
+  <string name="deletebiller_message_text">هل أنت متأكد من أنك تريد حذف الربط مع المفوتر؟</string>
+  <string name="billerdetails_accountnumber_label">رقم الحساب:</string>
+  <string name="billerdetails_billamount_label">مبلغ الفاتورة :</string>
+  <string name="billerdetails_paymentduedate_label">التاريخ المحدد للدفع:</string>
+  <string name="billerdetils_paynow_button">ادفع الآن!</string>
+  <string name="billerdetails_tootlbar_title">تفاصيل الفاتورة</string>
+  <string name="billpay_confirmation_toolbar_title">تأكيد الدفع</string>
+  <string name="billpay_confirmation_amountlabel">مبلغ الفاتورة</string>
+  <string name="billpay_confirmation_billerlabel">المفوتر</string>
+  <string name="billpay_confirmation_accountnumber">رقم الحساب:</string>
+  <string name="billpay_confirmation_billamount">مبلغ الفاتورة :</string>
+  <string name="favouritelist_servicetype_sendmoney">إرسال الأموال</string>
+  <string name="favouritelist_servicetype_requestmoney">طلب المال</string>
+  <string name="favouritelist_servicetype_recharge">تعبئة رصيد الهاتف</string>
+  <string name="faouritelist_serviceusing_mobilenumber">رقم الهاتف :</string>
+  <string name="faouritelist_serviceusing_username">اسم المستخدم :</string>
+  <string name="faouritelist_serviceusing_facebook">صديق فيسبوك :</string>
+  <string name="faouritelist_serviceusing_account">الحساب:</string>
+  <string name="faouritelist_serviceusingdetail_bank">البنك :</string>
+  <string name="faouritelist_serviceusingdetail_operator">المشغل:</string>
+  <string name="favourite_delete_text">حذف</string>
+  <string name="favourite_delete_message">هل أنت متأكد من أنك تريد حذف هذا العنصر المفضل؟</string>
+
+  <string name="profile_pop_up_button_ok">تم</string>
+  <string name="profile_pop_up_button_cancel">إلغاء</string>
+  <string name="profile_pop_up_button_yes">نعم</string>
+  <string name="profile_pop_up_button_no">لا</string>
+  <string name="profile_success_dialog_button">تم</string>
+  <string name="profile_details_title_text">تعديل معلومات ملفك الشخصي</string>
+  <string name="profile_details_firstname_text">الأسم</string>
+  <string name="profile_details_lastname_text">اسم العائلة</string>
+  <string name="profile_details_username_text">اسم المستخدم :</string>
+  <string name="profile_details_mobile_text">رقم الهاتف </string>
+  <string name="profile_details_button_text">تحديث</string>
+  <string name="profile_details_mobilenumber_empty_error">رقم الهاتف إلزامي</string>
+  <string name="profile_details_mobilenumber_invalid_error">رقم الهاتف غير صالح</string>
+  <string name="profile_details_mobile_number_error_dialog_title">خطأ</string>
+  <string name="profile_details_bottomsheet_take_photo">التقاط صورة</string>
+  <string name="profile_details_bottomsheet_choose_photo">اختيار صورة</string>
+  <string name="profile_details_bottomsheet_delete_photo">حذف</string>
+  <string name="profile_otp_expiry_min">دقائق</string>
+  <string name="profile_otp_expiry_sec">ثواني</string>
+  <string name="profile_otp_toolbar_text">رمز التحقق</string>
+  <string name="profile_otp_old_mobile_title_text">أدخل رمز التأكيد المرسل إلى رقم هاتفك القديم</string>
+  <string name="profile_otp_new_mobile_title_text">أدخل رمز التأكيد المرسل إلى رقم هاتفك الجديد</string>
+  <string name="profile_otp_error_dialog_title">خطأ</string>
+  <string name="profile_otp_expires_in">تنتهي صلاحية رمز التأكيد خلال</string>
+  <string name="profile_otp_resend_text">إعادة إرسال رمز التأكيد</string>
+  <string name="profile_otp_button_text">التحقق</string>
+  <string name="profile_otp_empty_error">يرجى إدخال رمز التأكيد صالح</string>
+  <string name="profile_otp_change_mobile_success_title">نجاح!</string>
+  <string name="profile_otp_change_mobile_success_message">تم تغيير رقم هاتفك بنجاح</string>
+  <string name="profile_otp_change_mobile_success_button">تم</string>
+  <string name="profile_common_network_error">حدث خطأ ما. أعد المحاولة من فضلك</string>
+  <string name="profile_camera_permission">يرجى تمكين إذن للكاميرا</string>
+  <string name="cashout_service_toolbar_text">سحب المال</string>
+  <string name="cashout_tab_agent_text">الوكيل</string>
+  <string name="cashout_tab_atm_text">الصراف الآلي</string>
+  <string name="cashout_enter_agent_details">أدخل تفاصيل الوكيل و المبلغ</string>
+  <string name="cashout_agent_code">رمز الوكيل</string>
+  <string name="cashout_enter_agentcode">أدخل رمز الوكيل</string>
+  <string name="cashout_amount">المبلغ</string>
+  <string name="cashout_enter_next">التالى</string>
+  <string name="cashout_enter_amount">أدخل المبلغ</string>
+  <string name="cashout_byagent_enter_valid_code">أدخل رمز وكيل صالح</string>
+  <string name="cashout_byagent_enter_validamount">أدخل مبلغ صالح</string>
+  <string name="cashout_coming_soon_text">قريبا</string>
+  <string name="cashout_pop_up_button_cancel">إلغاء</string>
+  <string name="cashout_pop_up_button_yes">نعم</string>
+  <string name="cashout_pop_up_button_no">لا</string>
+  <string name="cashout_confirm_screen_text">تأكيد الطلب</string>
+  <string name="confirmation_screen_title_text">أكد</string>
+  <string name="confirmation_button_text">أتمم</string>
+  <string name="confirmation_screen_subtitle_text">مراجعة التفاصيل المدخلة</string>
+  <string name="confirmation_charges_title_text">تفاصيل تكلفة الخدمة</string>
+  <string name="confirmation_review_text">مراجعة التفاصيل المدخلة</string>
+  <string name="confirmation_servicecharge_label">تكلفة الخدمة</string>
+  <string name="confirmation_comissioncharge_label">العمولة</string>
+  <string name="confirmation_taxcharge_label">الضريبة</string>
+  <string name="confirmation_success_dialog_button">تم</string>
+  <string name="confirmation_dialog_favorite_text">إضافة إلى المفضلة</string>
+  <string name="confirmation_transactionid_text"> معرف المعاملة : </string>
+  <string name="confirmation_datetime_text">التاريخ والوقت :</string>
+  <string name="confirmation_pin_dialog_message_text">الرجاء إدخال الرقم السري </string>
+  <string name="confirmation_initiate_request_text"></string>
+  <string name="confirmation_action_request_text">ارسل الطلب</string>
+  <string name="confirmation_pop_up_button_cancel">إلغاء</string>
+  <string name="confirmation_common_network_error">حدث خطأ ما. أعد المحاولة من فضلك</string>
+  <string name="confirmation_pop_up_button_ok">تم</string>
+  <string name="confirmation_common_error_dialog_title">خطأ</string>
+
+  <string name="otp_expires_min">0 دقيقة 0 ثانية</string>
+
+  <string name="sendmoneybyfacebook_add_friend">أضف صديق</string>
+  <string name="sendmoneybyfacebook_amount_label">المبلغ</string>
+  <string name="sendmoneybyfacebook_amount_hint">أدخل المبلغ</string>
+  <string name="sendmoneybyfacebook_purpose_label">ملاحظة (اختياري)</string>
+  <string name="sendmoneybyfacebook_purpose_hint">أدخل ملاحظة</string>
+  <string name="sendmoneybyfacebook_friendname_emptytext">يرجى إضافة صديق فيسبوك.</string>
+
+  <string name="facebook_delink_text">هل أنت متأكد من أنك تريد إلغاء ربط حسابك على  فيسبوك؟</string>
+
+  <string name="requestmoneybyfacebook_add_friend">أضف صديق</string>
+  <string name="requestmoneybyfacebook_amount_label">المبلغ</string>
+  <string name="requestmoneybyfacebook_amount_hint">أدخل المبلغ</string>
+  <string name="requestmoneybyfacebook_purpose_label">ملاحظة (اختياري)</string>
+  <string name="requestmoneybyfacebook_purpose_hint">أدخل ملاحظة</string>
+  <string name="requestmoneybyfacebook_friendname_emptytext">يرجى إضافة صديق فيسبوك.</string>
+
+</resources>

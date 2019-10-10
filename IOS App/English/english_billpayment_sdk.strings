@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"registeredbillers_delete_text"     = "Delete Biller";
+"registeredbiller_add_text"         = "Add Biller";
+"registeredbiller_toolbar_text"     = "Billers";
+"available_biller_toolbar_text"     = "Available Billers";
+"addbiller_toolbar_text"            = "Add Biller";
+"addbiller_title_text"              = "Associate your account with Biller";
+"addbiller_accountnumber_label"     = "Account Number";
+"addbiller_button_text"             = "Next";
+"addbiller_success_message"         = "You can now start paying bills from My Billers.";
+"billpayment_common_noresponse_text"= "Something went wrong";
+"billpayment_common_no_internet_error_text" = "Internet not available.";
+"billpayment_success_dialog_title"  = "Success!";
+"billpayment_success_dialog_done_button" = "Done!";
+"billpayment_pop_up_button_yes"     = "Yes";
+"billpayment_pop_up_button_no"      = "No";
+"associatebiller_accountnumber_emptytext" = "Please enter account number.";
+"deletebiller_message_text"         = "Are you sure you want to delete this biller association?";
+"biller_popup_ok_label"             = "OK";
+"biller_popup_error_label"          = "Error";
+"billerdetails_tootlbar_title"      = "Bill Details";
+"billerdetails_billamount_label"    = "Bill Amount:";
+"billerdetails_paymentduedate_label"= "Payment Due Date:";
+"billerdetils_paynow_button"        = "Pay now!";
+"billpay_confirmation_toolbar_title"= "Confirm Payment";
+"billpay_confirmation_amountlabel"  = "Bill Amount";
+

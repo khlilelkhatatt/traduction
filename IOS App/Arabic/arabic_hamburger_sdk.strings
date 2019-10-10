@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"Change_Language" = "اللغة";
+"Link_Facebook_account" = "ربط حساب الفيسبوك";
+"Change_PIN" = "تغيير الرقم السري";
+"Sign_out" = "تسجيل الخروج";

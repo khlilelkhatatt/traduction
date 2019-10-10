@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bankily</string>
+    <string name="emv_mandatory_param_missing">Les paramètres obligatoires sont manquants</string>
+    <string name="invalid_qr_code">Code QR invalide</string>
+
+</resources>

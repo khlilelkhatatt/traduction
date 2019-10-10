@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">بنكيلي</string>
+
+  <!--Cashout Service -->
+  <string name="cashout_service_toolbar_text">سحب المال</string>
+  <string name="cashout_tab_agent_text">الوكيل</string>
+  <string name="cashout_tab_atm_text">الصراف الآلي</string>
+  <string name="cashout_enter_agent_details">أدخل تفاصيل الوكيل والمبلغ</string>
+  <string name="cashout_agent_code">رمز الوكيل</string>
+  <string name="cashout_enter_agentcode">أدخل رمز الوكيل</string>
+  <string name="cashout_amount">المبلغ</string>
+  <string name="cashout_enter_next">التالى</string>
+  <string name="cashout_enter_amount">أدخل المبلغ</string>
+  <string name="cashout_enter_the_amount">أدخل المبلغ</string>
+  <string name="cashout_byagent_enter_valid_code">أدخل رمز وكيل صالح</string>
+  <string name="cashout_byagent_enter_validamount">أدخل مبلغ صالح</string>
+  <string name="cashout_coming_soon_text">قريبا</string>
+  <string name="confirmation_screen_string">بنك الشعب الموريتاني</string>
+
+
+  <!-- Common strings -->
+  <string name="cashout_pop_up_button_cancel">إلغاء</string>
+  <string name="cashout_pop_up_button_yes">نعم</string>
+  <string name="cashout_pop_up_button_no">لا</string>
+  <string name="cashout_confirm_screen_text">تأكيد الطلب</string>
+  <string name="cashout_alert_dialog_title">إشعار</string>
+  <string name="cashout_ok_btn">حسنا</string>
+
+
+</resources>

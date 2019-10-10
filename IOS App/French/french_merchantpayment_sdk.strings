@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"merchant_payment_toolbar_text" = "Paiements";
+"merchant_payment_scan_qr_code" = "Scannez le code QR";
+"merchant_payment_merchant_id_text" = "Code commerçant";
+"merchant_payment_enter_valid_merchant_id" = "Entrer un Code commerçant valide";
+
+"merchant_payment_amount" = "montant";
+"merchant_payment_enter_amount" = "Entrez le montant";
+"merchant_payment_enter_valid_amount" = "Entrez un montant valide";
+"merchant_payment_next" = "Suivant";
+"merchant_payment_pay_now" = "Payez maintenant";
+"merchant_payment_note_optional" = "Remarque (Optionnelle)";
+"merchant_payment_enter_note" = "Entrez la remarque";
+
+"OK" = "OK";
+"merchant_payment_error" = "Erreur";
+"merchant_payment_merchant_id" = "Code commerçant:";
+
+"merchant_payment_note" = "Remarque";
+"merchant_payment_pay" = "Payez";
+"merchant_payment_merchant_name" = "Nom du commerçant:";
+"merchant_payment_amount_paid" = "Montant payé :";
+"merchant_payment_scan_qr_error" = "Erreur QR";
+
+"merchant_payment_enter_merchant_details" = "Entrez les détails du commerçant";
+"merchant_payment_merchant_id_label" = "Code commerçant";
+"merchant_payment_enter_merchant_id" = "Entrez Code commerçant";
+
+"merchant_payment_confirm_title_text" = "Confirmer le paiement";
+
+"merchant_payment_invalid_qr" = "Le code QR n'a pas pu être traité. Veuillez réessayer.";

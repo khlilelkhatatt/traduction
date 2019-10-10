@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"Confirm" = "Confirmer";
+"Proceed" = "Continuer";
+"Review entered details" = "Vérifier les détails entrés";
+"Charges breakdown:" = "Répartition des frais";
+"Review entered details" = "Vérifier les détails entrés";
+"Service Charge" = "Frais de service";
+"Commission" = "Commission";
+"Tax" = "Taxe";
+
+"Done!" = "Effectué";
+"Set as favourite" = "Définir comme favorite";
+"TXN ID:" = "Trs ID : ";
+"Date:" = "Date et heure: ";
+
+"Please enter your 4-digit PIN to " = "Veuillez saisir votre PIN à ";
+"initiate request." = "initialisation de la demande";
+"Send Request" = "Envoyer la demande";
+"Cancel" = "Annuler";
+
+"Something went wrong please try again" = "Une erreur est survenue, Merci de réessayer";
+
+"OK" = "Ok";
+"Error" = "Erreur";

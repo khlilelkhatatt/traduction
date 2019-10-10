@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">بنكيلي</string>
+    <!--SplitBillGroup-->
+    <string name="splitbillgroup_screen_title_text">اللوحة</string>
+    <string name="splitbillgroup_amount_label">المبلغ</string>
+    <string name="splitbillgroup_amount_hint">أدخل المبلغ</string>
+    <string name="splitbillgroup_description_label">إسم اللوحة</string>
+    <string name="splitbillgroup_description_hint">أدخل إسم اللوحة</string>
+    <string name="splitbillgroup_members_label">أفراد</string>
+    <string name="splitbillgroup_add_members_label">إضافة أفراد</string>
+    <string name="splitbillgroup_next">التالى</string>
+
+    <!--Add Member-->
+    <string name="addmember_screen_title_text">إضافة أفراد</string>
+    <string name="addmember_mobilenumber_label">رقم الهاتف / اسم المستخدم</string>
+    <string name="addmember_mobilenumber_hint">أدخل رقم الهاتف</string>
+    <string name="addmember_name_label">اسم</string>
+    <string name="addmember_name_hint">أدخل الاسم</string>
+    <string name="addmember_add">إضافة</string>
+
+    <!--Add Member Mobile number Dialog-->
+    <string name="addmember_bymobilenumber_contactpermission_msg">إذن القراءة مطلوب لإظهار قائمة الاتصال الخاصة بك</string>
+    <string name="addmember_bymobilenumber_contactpermission_error_title">خطأ</string>
+    <string name="addmember_pop_up_button_ok">تم</string>
+
+    <!--Delete Group-->
+    <string name="delete_group_screen_title_text">حذف المجموعة</string>
+    <string name="delete_group_member_text">أفراد</string>
+    <string name="delete_group_message">هل أنت متأكد أنك تريد حذف هذه المجموعة</string>
+    <string name="delete_group_success_message">نجاح!</string>
+
+    <!--Custom Dialog-->
+    <string name="success_dialog_button">تم</string>
+    <string name="suceess_dialog_favorite_text">إضافة إلى المفضلة</string>
+
+    <!--EL LEWHA group Save Group Dialog-->
+    <string name="splitbillgroup_savegroup_label">هل تريد حفظ هذه المجموعة؟</string>
+    <string name="splitbillgroup_savegroup_groupname_label">أسم المجموعة</string>
+    <string name="splitbillgroup_savegroup_dontsave_button">لا</string>
+    <string name="splitbillgroup_savegroup_save_button">نعم</string>
+    <string name="splitbillgroup_modify_group_cancel_button">إلغاء</string>
+
+    <string name="addmember_mobileerror_text">رقم الهاتف  مضاف بالفعل.</string>
+    <string name="addmember_username_text">اسم المستخدم مضاف بالفعل.</string>
+    <string name="addmember_name_text">الاسم إلزامي</string>
+
+
+    <string name="addmember_mobilenumber_empty_error_text">رقم الهاتف/اسم المستخدم إلزامي</string>
+    <string name="addmember_username_length_error_text">رقم الهاتف / اسم المستخدم غير صالح</string>
+
+    <string name="addmember_validation_errormsg">لا يمكن إضافة أعضاء لأنهم غير نشطين أو غير مسجلين. هل ما زلت تريد المتابعة؟</string>
+    <string name="addmember_validation_of_errormsg">من</string>
+
+    <string name="addmember_validation_cancelbutton">لا ، أضف المزيد</string>
+    <string name="addmember_validation_okbutton">نعم فعلا</string>
+    <string name="addmember_you_text">أنت</string>
+
+    <string name="addmember_validation_error">يرجى إضافة أفراد</string>
+
+    <!--Popup Dialogue-->
+    <string name="pop_up_button_yes">نعم</string>
+    <string name="pop_up_button_no">لا</string>
+    <string name="common_pop_up_button_ok">تم</string>
+    <string name="common_error_dialog_title">خطأ</string>
+
+    <!--Initiate Split Group Request-->
+    <string name="splitbill_initiate_your_share">مشاركتك</string>
+    <string name="splitbill_initiate_split_amount">مبلغ</string>
+    <string name="splitbill_initiate_request">حصص المشتركين</string>
+    <string name="splitbill_initiate_enter_group_name">الرجاء إدخال اسم المجموعة</string>
+    <string name="splitbill_initiate_confirm_request">تأكيد الطلب</string>
+    <string name="splitbill_initiate_description">ملاحظة</string>
+    <string name="splitbill_initiate_save_group">هل تريد حفظ هذه المجموعة؟</string>
+    <string name="splitbill_initiate_additional_charges">* قد يتم فرض رسوم إضافية</string>
+
+    <!--Cancel Splitbill Strings-->
+    <string name="split_bill_cancel_request">إلغاء الطلب</string>
+    <string name="split_bill_cancel_members">أفراد</string>
+
+    <string name="split_bill_cancel_unpaid">غير مدفوع</string>
+    <string name="split_bill_cancel_pending">قيد الانتظار</string>
+    <string name="split_bill_cancel_accepted">وافقت</string>
+    <string name="split_bill_cancel_rejected">مرفوض</string>
+    <string name="split_bill_cancel_expired">منتهية الصلاحية</string>
+    <string name="split_bill_cancel_canceled">ألغيت</string>
+    <string name="split_bill_cancel_partially_paid">المدفوعة جزئيا</string>
+    <string name="split_bill_cancel_reject_dialog_text">هل أنت متأكد أنك تريد إلغاء هذا الطلب؟</string>
+    <string name="split_bill_yes">نعم</string>
+    <string name="split_bill_no">لا</string>
+    <string name="split_bill_success">نجاح!</string>
+    <string name="split_bill_done">تم</string>
+
+    <string name="split_bill_cancel_status">الحالة</string>
+    <string name="split_bill_cancel_description">إسم اللوحة</string>
+    <string name="split_bill_cancel_collected_amount">المبلغ المحصل</string>
+    <string name="split_bill_cancel_requested_Amount">المبلغ المطلوب</string>
+    <string name="split_bill_cancel_total_amount">المبلغ الإجمالي</string>
+    <string name="split_bill_cancel_cancel_request">إلغاء الطلب</string>
+
+    <string name="amount_not_distributed_well">لم يتم توزيع المبلغ بالكامل. هل تريد المتابعة ؟</string>
+    <string name="amount_is_more_than_total">المبلغ الموزع أكبر من إجمالي الفاتورة. يرجى المراجعة</string>
+    <string name="enter_valid_amount">أدخل مبلغ صالح</string>
+    <string name="enter_valid_description">أدخل ملاحظة صالحة</string>
+    <string name="no_members">لا يوجد أعضاء في هذه المجموعة</string>
+    <string name="do_you_want_to_update">هل تريد تحديث هذه المجموعة؟</string>
+
+
+</resources>

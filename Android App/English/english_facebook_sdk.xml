@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Bankily</string>
+  <string name="facebook_app_id">407533613448782</string>
+  <string name="facebook_friends_toolbar_text">Facebook Contacts</string>
+  <string name="facebook_friends_nofriends">You don't have any friends who have linked their facebook account to the Bankily app.</string>
+  <string name="facebooksdk_error_msg">There seems to be an issue while signing in with Facebook. Please try again later.</string>
+</resources>

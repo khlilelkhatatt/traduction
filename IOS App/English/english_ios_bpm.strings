@@ -1,0 +1,201 @@
+/* 
+  Localizable.strings
+  DigitalBanking
+
+  Created by Gaurav Arora on 18/02/19.
+  Copyright © 2019 Gaurav Arora. All rights reserved.
+*/
+"choosen_language_code"="1";
+"choosen_locale"="en";
+"choosen_language_title"="English";
+"keyboard_done_button_text" = "Done";
+
+//Splash Screen
+"splash_imeipermission_error"="Please enable permission for Telephone to run the app";
+"splash_updateavailable_text"="Update is available";
+"splash_forceupdate_text"="Please update your app. Otherwise you will not be able to use the app";
+"splash_update_btn"="Update";
+
+"selectLanaguage_text_englishText"="English";
+"selectLanaguage_text_arabicText"="العربية";
+"selectLanaguage_text_frenchText"="Français";
+"selectLanguage_text_titleText"="Choose your language";
+"home_nav_menu_changelanguage_text"="Language";
+
+"walkthrough_text_gotittext"="GOT IT";
+"walkthrough_text_skiptext"="Skip";
+"walkthrough1_title"="Transfer of Money";
+"walkthrough2_title"="Merchant Payment";
+"walkthrough3_title"="Request Money";
+"walkthrough4_title"="Bill Payment";
+"walkthrough5_title"="Phone Recharge";
+"walkthrough6_title"="EL LEWHA";
+"walkthrough1_desc"="Transfer money to your loved ones securely with your Bankily application !";
+"walkthrough2_desc"="Pay for your purchases with ease with your Bankily application !";
+"walkthrough3_desc"="Need money ? Contact your loved ones with confidence with your Bankily application !";
+"walkthrough4_desc"="Pay your water or electricity bill without moving with your Bankily application !";
+"walkthrough5_desc"="Recharge your phone or family credit without moving with your Bankily application !
+"walkthrough6_desc"="Be the initiator of a social gathering to help a loved one or a collection for an event with your Bankily application !";
+
+"before_login_button_signup"="Register";
+"before_login_button_login"="Login";
+
+"signup_first_screen_titletext"="Onboarding";
+"title_registration_text"="Let's get you onboard!";
+"signup_newcustomer_button_text"="New Customer";
+"signup_existingcustomer_button_text"="Existing Customer";
+"registration_or_text"="Or";
+
+"terms_condition_titletext"="Terms and conditions";
+"terms_condition_button_accept"="Accept";
+"terms_condition_button_decline"="Refuse";
+
+"registration_nationalid_titletext"="Register with us";
+"registration_nationid_subtitletext"="Enter your NNI";
+"registration_nationid_lable"="National Identification Number (NNI)";
+"registration_nationid_button_text"="Next";
+"registration_nationid_note_text"="";
+"national_id_blank_popup_message"="NNI is mandatory";
+"national_id_invalid_popup_message"="NNI is invalid";
+
+"registration_mobilenumber_titletext"="Verification";
+"registration_mobilenumber_subtitletext"="Verify your details";
+"registration_mobilenumber_lable"="Mobile number";
+"registration_mobilenumber_button_text"="Continue";
+"registration_mobilenumber_note_text"="We will send an OTP to this number for verification";
+"mobile_number_blank_popup_message"="Mobile Number is mandatory";
+"mobile_number_invalid_popup_message"="Enter valid Mobile Number";
+
+"registration_otp_titletext"="Verification Code";
+"registration_otp_subtitletext"="Enter the OTP sent to your mobile number";
+"registration_otp_resend_button_text"="Resend OTP";
+"registration_otp_button_text"="Verify";
+"otp_blank_popup_message"="OTP is mandatory";
+"otp_invalid_popup_message"="Enter valid OTP";
+"otp_success_popup_message"="Your mobile number has been successfully verified";
+"otp_success_popup_button"="Done";
+"otp_expires_in"="OTP expires in";
+"otp_expiry_min"="Minutes";
+"otp_expiry_sec"="Seconds";
+
+"reg_personalinformation_titletext"="Personal Information";
+"reg_personalinformation_firstname_label"="First name";
+"reg_personalinformation_secondname_label"="Last name";
+"reg_personalinformation_nationalid_label"="National Identification Number (NNI)";
+"reg_personalinformation_button_text"="Confirm";
+
+"reg_createprofile_titletext"="Create Profile";
+"reg_createprofile_subtitletext"="Create your profile";
+"reg_createprofile_username_label"="Username";
+"reg_createprofile_securityquestion_titletext"="Choose a security question";
+"reg_createprofile_securityquestion_label"="Security question";
+"reg_createprofile_answer_label"="Answer";
+"reg_createprofile_button_text"="Next";
+"username_blank_popup_message"="Username is mandatory";
+"username_invalid_popup_message"="Enter valid Username";
+"securityquestion_blank_popup_message"="Security question is mandatory";
+"answer_blank_popup_message"="Answer is mandatory";
+"answer_invalid_popup_message"="Enter valid Answer";
+
+"reg_setmpin_titletext"="Set PIN";
+"reg_setmpin_subtitletext"="You are almost there !";
+"reg_setmpin_setmpin_label"="Set PIN";
+"reg_setmpin_confirmmpin_label"="Confirm PIN";
+"reg_setmpin_button_text"="Done";
+"setpin_blank_popup_message"="PIN is mandatory";
+"setpin_invalid_popup_message"="Please enter valid PIN";
+"confirmpin_blank_popup_message"="Confirm PIN is mandatory";
+"confirmpin_invalid_popup_message"="Please enter valid confirm PIN";
+"pin_didnt_match"="PIN and Confirm PIN does not match";
+
+"login_titletext"="Login";
+"login_subtitletext"="Enter your Login details";
+"login_username_mobile_label"="Username or Mobile number";
+"login_mpin_label"="PIN";
+"login_forgotmpin_button_text"="Forgot your PIN?";
+"login_registernow_button_text"="New user? Register now!";
+"login_login_button_text"="Login";
+"username_mobile_blank_popup_message"="Mobile number/Username is mandatory";
+"username_mobile_invalid_popup_message"="Enter valid Username/Mobile Number";
+"mpin_blank_popup_message"="PIN is mandatory";
+"mpin_invalid_popup_message"="Enter valid PIN";
+
+"dashboard_titletext"="Dashboard";
+"favourite_titletext"="Favorites";
+"notification_titletext"="Notifications";
+"help_titletext"="Help";
+
+"tab_bar_dashboard_titletext"="Home";
+"tab_bar_favourite_titletext"="Favorites";
+"tab_bar_notification_titletext"="Notifications";
+"tab_bar_help_titletext"="Help";
+
+"dashboard_topbar_pay"="Payments";
+"dashboard_topbar_transfer"="Transfers";
+"dashboard_topbar_balance"="Accounts";
+"dashboard_topbar_transaction"="Transactions";
+
+"dashboard_service_recharge"="Phone recharge";
+"dashboard_service_billpayment"="Bill Payment";
+"dashboard_service_chequebook"="Request Cheque Book";
+"dashboard_service_debitcard"="Debit Card";
+"dashboard_service_cashout"="Cash out";
+
+//Forgot PIN
+"forgotpin_toolbar_title"="Forgot PIN";
+"forgotpin_title_text"="Answer your secret question to set a new PIN";
+"forgotpin_security_question_lable"="Security question";
+"forgotpin_answer_lable"="Answer";
+"forgotpin_button_text"="Next";
+"forgotpin_answer_error_message"="Please enter valid answer";
+"forgotpin_success_dialog_message"="Your PIN has been successfully changed.";
+"forgotpin_success_dialog_title"="Success!";
+"forgotpin_success_dialog_done_button"="Done!";
+"forgotpin_set_new_pin_label"="Set a new PIN";
+
+//Fund Transfer
+"fundtransfer_toolbar_text"="Transfer";
+"fundtransfer_sendmoney_text"="Send Money";
+"fundtransfer_requestmoney_text"="Request Money";
+"fundtransfer_nfc_text"="NFC";
+"fundtransfer_qr_text"="QR";
+"fundtransfer_splitbill_text"="EL LEWHA";
+"fundtransfer_quicktransfer_text"="Quick transfer";
+"fundtransfer_creategroup_text"="Create a new group or select an existing group to create your LEWHA";
+"fundtransfer_confirmation_title_text"="Confirm Fund Transfer";
+
+
+
+"pop_up_button_ok"="OK";
+"pop_up_button_cancel"="Cancel";
+"theme_popup_message"="You have received an update for theme. Do you want to Apply it?";
+"theme_popup_title"="Information";
+"theme_popup_positive_button"="Now";
+"theme_popup_negative_button"="Later";
+"popup_error_title"="Error";
+
+"somethingWentWrong"="Something went wrong";
+"dialog_comingsoon_message"="Coming Soon";
+"dialog_comingsoon_title"="informations";
+
+//Common
+"common_alert"="Alert";
+"common_network_error"="Something went wrong please try again";
+
+
+"pop_up_button_ok"  = "OK";
+"pop_up_button_error" = "Error";
+"selectChequebookCountIdentifier" = "Choose the chequebook count";
+
+"login_noresponse_text" = "Something went wrong";
+"common_yes" = "Yes";
+"common_no" = "No";
+"backbutton_are_you_sure_msg" = "Are you sure you do not want to continue ?";
+"signout_Confirm_Msg" = "Are you sure you want to sign out ?";
+
+"session_invalidated_text"="Session Terminated, Re-login Please";
+"changePinSuccessful" = "Your PIN has been successfully changed.";
+
+"no_kyc_popup_contents" = "You have to complete your KYC with Bank to access these services.";
+"facebook_link_success" = "Your Facebook account has been linked successfully.";
+"facebook_delink_success" = "Your Facebook account has been delinked successfully.";

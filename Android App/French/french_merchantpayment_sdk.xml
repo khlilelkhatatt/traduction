@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bankily</string>
+    <string name="title_activity_merchant_payment">MerchantPaymentActivity</string>
+
+    <string name="merchant_payment_toolbar_text">Paiements</string>
+    <string name="merchant_payment_scan_qr_code">Scannez le code QR</string>
+    <string name="merchant_payment_merchant_id_text">Code commerçant</string>
+    <string name="merchant_payment_enter_valid_merchant_id">Entrer un Code commerçant valide</string>
+
+    <string name="merchant_payment_amount">Montant</string>
+    <string name="merchant_payment_enter_amount">Entrez le montant</string>
+    <string name="merchant_payment_enter_valid_amount">Entrez un montant valide</string>
+    <string name="merchant_payment_next">Suivant</string>
+    <string name="merchant_payment_pay_now">Payez maintenant</string>
+    <string name="merchant_payment_note_optional">Remarque (Optionnelle)</string>
+    <string name="merchant_payment_enter_note">Entrez la remarque</string>
+    <string name="merchant_payment_error">Erreur</string>
+    <string name="merchant_payment_merchant_id">Code commerçant:</string>
+
+    <string name="merchant_payment_note">Remarque</string>
+    <string name="merchant_payment_pay">Payez</string>
+    <string name="merchant_payment_merchant_name">Nom du commerçant:</string>
+    <string name="merchant_payment_amount_paid">Montant payé :</string>
+    <string name="merchant_payment_scan_qr_error">Erreur QR</string>
+
+    <string name="merchant_payment_enter_merchant_details">Entrez les détails du commerçant</string>
+    <string name="merchant_payment_merchant_id_label">Code commerçant</string>
+    <string name="merchant_payment_enter_merchant_id">Entrez Code commerçant</string>
+</resources>

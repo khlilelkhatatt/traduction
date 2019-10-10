@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Bankily</string>
+
+  <!--Recharge Service -->
+  <string name="recharge_service_toolbar_text">Recharge téléphoniques</string>
+  <string name="rechargeservice_btn_next">Suivant</string>
+
+  <string name="recharge_service_mobile_number">Numéro de téléphone</string>
+  <string name="recharge_service_enter_mobile_number">Entrez le numéro de téléphone</string>
+  <string name="recharge_service_title_error">Erreur</string>
+  <string name="recharge_service_enter_valid_mobile_number">Veuillez entrer un numéro de téléphone valide.</string>
+  <string name="recharge_service_explaination_text">Sélectionnez votre opérateur et entrez les détails</string>
+  <string name="recharge_service_mobile_operator">Opérateur mobile</string>
+  <string name="recharge_service_review_details">Revoir les détails entrés</string>
+  <string name="recharge_topup">Recharger</string>
+  <string name="recharge_service_choose_topup">Choisissez parmi les recharges disponibles</string>
+  <string name="recharge_service_amount">Montant</string>
+
+  <!-- Common strings -->
+  <string name="recharge_pop_up_button_cancel">Annuler</string>
+  <string name="recharge_pop_up_button_yes">Oui</string>
+  <string name="recharge_pop_up_button_no">Non</string>
+  <string name="recharge_service_confirm_title">Confimez la recharge téléphonique</string>
+
+  <string name="recharge_service_confirm_servicecharge_label">Frais de service</string>
+  <string name="recharge_service_confirm_commission_charge_label">Commission</string>
+  <string name="recharge_service_confirm_taxcharge_label">Taxe</string>
+
+</resources>

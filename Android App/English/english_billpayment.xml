@@ -1,0 +1,40 @@
+<resources>
+  <string name="app_name">Bankily</string>
+  <string name="registeredbillers_delete_text">Delete Biller</string>
+  <string name="registeredbiller_add_text">Add Biller</string>
+  <string name="registeredbiller_toolbar_text">Billers</string>
+  <string name="availablebiller_toolbar_text">Available Billers</string>
+  <string name="registeredbiller_accountnumber_label">Account Number:</string>
+  <!--Add Biller-->
+  <string name="addbiller_toolbar_text">Add Biller</string>
+  <string name="addbiller_title_text">Associate your account with Biller</string>
+  <string name="addbiller_accountnumber_label">Account Number</string>
+  <string name="addbiller_button_text">Next</string>
+  <string name="addbiller_success_message">You can now start paying bills from My Billers.</string>
+
+  <string name="billpayment_common_noresponse_text">Something went wrong</string>
+  <string name="billpayment_common_no_internet_error_text">Internet not available.</string>
+  <string name="billpayment_success_dialog_title">Success!</string>
+  <string name="billpayment_success_dialog_done_button">Done!</string>
+  <string name="billpayment_pop_up_button_yes">Yes</string>
+  <string name="billpayment_pop_up_button_no">No</string>
+  <string name="associatebiller_accountnumber_emptytext">Please enter account number.</string>
+
+  <!--Delete Biller-->
+  <string name="deletebiller_message_text">Are you sure you want to delete this biller association?</string>
+
+  <!--Biller Details-->
+  <string name="billerdetails_accountnumber_label">Account Number:</string>
+  <string name="billerdetails_billamount_label">Bill Amount:</string>
+  <string name="billerdetails_paymentduedate_label">Payment Due Date:</string>
+  <string name="billerdetils_paynow_button">Pay now!</string>
+  <string name="billerdetails_tootlbar_title">Bill Details</string>
+
+  <!--Bill Pay Confirm-->
+  <string name="billpay_confirmation_toolbar_title">Confirm Payment</string>
+  <string name="billpay_confirmation_amountlabel">Bill Amount</string>
+
+  <string name="billpay_confirmation_billerlabel">Biller:</string>
+  <string name="billpay_confirmation_accountnumber">Account Number:</string>
+  <string name="billpay_confirmation_billamount">Bill Amount:</string>
+</resources>

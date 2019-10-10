@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"debit_card_toolbar_text"               = "Cartes de crédits";
+"debit_card_type_title_text"            = "Choisissez le type de carte bancaire";
+"debit_card_type_selector_text"         = "Type de Carte";
+"debit_card_request_button_text"        = "Suivant";
+"debit_card_request_toolbar_text"       = "Demande";
+"debit_card_account_text"               = "Compte";
+"debit_card_type_text"                  = "Type";
+"debit_card_tabbar_block_text"          = "Opposition";
+"debit_card_block_request_text"         = "Opposer votre carte";
+"debit_card_unblock_request_text"       = "Réactiver votre carte";
+"debit_card_block_action_text"          = "Opposer";
+"debit_card_unblock_action_text"        = "Réactiver";
+"debit_card_block_success_text"         = "Votre carte a été opposé avec succès";
+"debit_card_unblock_success_text"       = "Votre carte a été réactivé avec succès";
+"debit_card_block_success_title_text"   = "Opposition réussie";
+"debit_card_unblock_success_title_text" = "Réactivation réussie";
+"debit_card_success_dialog_button"      = "Effectué!";
+"debitcard_blockpin_msg_text"           = "Veuillez saisir votre PIN à ";
+"initiate request."                     = "initialisation de la demande";
+"Send Request"                          = "Envoyer la demande";
+"Cancel"                                = "Annuler";
+"select_valid_cardtype"                 = "Sélectionnez le type de carte valide";
+"error_response_message"                = "Une erreur est survenue";
+"request_debitcard_type_text"           = "Type de carte de débit";
+"debitcard_popup_ok_label"              = "Ok";
+"debitcard_popup_error_label"           = "Erreur";
+"debitcard_confirmation_title_text"     = "Confirmer la demande";

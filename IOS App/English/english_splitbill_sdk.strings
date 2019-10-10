@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"sb_title_label" = "EL LEWHA";
+"sb_amount_label" = "Amount";
+"sb_note_label" = "Name of LEWHA";
+"sb_memberslist_label" = "Members";
+"sb_you_label" = "You";
+"sb_next_label" = "Next";
+"sb_add_title_label" = "Add Members";
+"sb_add_number_label" = "Mobile Number/Username";
+"sb_add_name_label" = "Name";
+"sb_add_next_label" = "Add";
+"sb_add_member_exists_label" = "This user is already added to your member list.";
+"sb_add_number_validation_label" = "Please enter valid mobile number.";
+"sb_select_number_validation_label" = "Please select valid mobile number.";
+"sb_add_name_validation_label" = "Please enter valid name.";
+"sb_save_group_message_label" = "Do you want to save this group?";
+"sb_update_group_message_label" = "Do you want to update this group?";
+"sb_save_group_name_label" = "Group Name";
+"sb_save_group_positive_label" = "Yes";
+"sb_save_group_negative_label" = "No";
+"sb_Some_Invalid_Users_Confirmation" = "%d of %d members could not be added as they are inactive or unregistered. Do you still want to continue?";
+
+"sb_emptyMobileUserNameError" = "Mobile Number/Username cannot be empty.";
+"sb_invalidMobileUserNameError" = "Mobile Number/Username is invalid.";
+"sb_emptyMemberNameError" = "Name cannot be empty.";
+"sb_emptyAmountError" = "Please enter valid amount.";
+"sb_emptyNoteError" = "Decription cannot be empty.";
+"sb_noGroupMembers" = "No members found in this group.";
+"sb_amountNotDist" = "Amount not distributed completely. Do you want to proceed?";
+"sb_amountNotDist_More" = "Amount exceeds total amount.";
+"sb_noMembersAdded" = "No members added.";
+
+"sb_Main_title_label" = "EL LEWHA";
+"sb_subtitle_label" = "Create a new group or select an existing one to split your EL LEWHA.";
+"sb_delete_text" = "Delete group";
+"sb_group_members_label" = "members";
+"splibill_navigationbar_title_text" = "Delete Group";
+"sb_delete_success_description" = "You have successfully deleted the group";
+
+"sb_error" = "Error";
+"sb_ok" = "OK";
+"sb_cancel" = "Cancel";
+"sb_success" = "Success";
+"sb_yes" = "Yes";
+"sb_no" = "No";
+"sb_noAddMore" = "No, add more";
+"pop_up_button_yes" = "Yes";
+"pop_up_button_no" = "No";
+"splibill_delete_message" = "Are you sure you want to delete the group %@?";
+"splitbill_noGroup_text" = "No groups";
+
+//Confirmation SDK
+"sb_confirm_splitAmount" = "Total amount";
+"sb_confirm_yourShare" = "Your share";
+"sb_confirm_descriptionLabel" = "Description";
+"sb_confirm_groupName" = "Group Name";
+"sb_confirm_request" = "Requests";
+"sb_confirm_title" = "Confirm Request";
+"sb_information_text" = "*Additional charges may apply.";
+
+"pop_up_button_yes" = "Yes";
+"pop_up_button_no" = "No";
+
+// SplitBillDetail
+"sb_totalamount_Text"           = "Total Amount";
+"sb_reqamount_Text"             = "Requested Amount";
+"sb_colamount_Text"             = "Collected Amount";
+"sb_description_Text"           = "Name of LEWHA";
+"sb_status_Text"                = "Status";
+"sb_cancelBtn_Text"             = "Cancel Request";
+"sb_cancel_request_Text"        = "Are you sure you want to cancel this request?";
+"sb_req_success" = "Success!";
+"sb_done" = "Done!";
+"sb_paid" = "Paid";
+"sb_note" = "Note:";
+

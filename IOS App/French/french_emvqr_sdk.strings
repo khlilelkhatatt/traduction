@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"mandatory_param_missing" = "Les paramètres obligatoires sont manquants";
+"invalid_qr_code" = "Code QR invalide";

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Bankily</string>
+
+  <!--Cashout Service -->
+  <string name="cashout_service_toolbar_text">Retrait d'argent</string>
+  <string name="cashout_tab_agent_text">Agent</string>
+  <string name="cashout_tab_atm_text">GAB</string>
+  <string name="cashout_enter_agent_details">Entrez les détails de l'agent et le montant</string>
+  <string name="cashout_agent_code">Code de l'agent</string>
+  <string name="cashout_enter_agentcode">Entrez le code de l'agent</string>
+  <string name="cashout_amount">Montant</string>
+  <string name="cashout_enter_next">Suivant</string>
+  <string name="cashout_enter_amount">Entrez le montant</string>
+  <string name="cashout_enter_the_amount">Entrez le montant</string>
+  <string name="cashout_byagent_enter_valid_code">Entrez un code d'agent valide</string>
+  <string name="cashout_byagent_enter_validamount">Entrez un montant valide</string>
+  <string name="cashout_coming_soon_text">Arrive bientôt</string>
+  <string name="confirmation_screen_string">Banque Populaire de Mauritanie</string>
+
+
+  <!-- Common strings -->
+  <string name="cashout_pop_up_button_cancel">Annuler</string>
+  <string name="cashout_pop_up_button_yes">Oui</string>
+  <string name="cashout_pop_up_button_no">Non</string>
+  <string name="cashout_confirm_screen_text">Confirmer la demande</string>
+  <string name="cashout_alert_dialog_title">Alerte</string>
+  <string name="cashout_ok_btn">OK</string>
+
+
+</resources>

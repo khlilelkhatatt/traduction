@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"enterExistingPIN" = "أدخل الرقم السري الحالي لتعيين الرقم السري الجديد";
+"pleaseEnterOldPIN" = "الرقم السري القديم";
+"pleaseEnterValidOldPIN" = "الرجاء إدخال رقم سري قديم صالح";
+"pleaseEnterNewPIN" = "الرقم السري  الجديد";
+"pleaseEnterValidNewPIN"= "الرجاء إدخال رقم سري جديد صالح";
+"pleaseEnterConfirmPIN" = "تأكيد الرقم السري الجديد";
+"pleaseEnterValidConfirmPIN" = "الرجاء إدخال تأكيد الرقم السري الجديد الصالح";
+"newPinConfirmPinShouldMatch" = "الرقم السري الجديد و تأكيده لا يتطابقان";
+"oldPin" = "الرقم السري القديم";
+"newPIN" = "الرقم السري  الجديد";
+"confirmPIN" = "تأكيد الرقم السري الجديد";
+"proceed" = "تم";
+"changePIN" = "تغيير الرقم السري";
+"okText" = "تم";
+"errorLabel" = "خطأ";

@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"facebook_account_not_linked" = "يبدو أن هناك مشكلة أثناء تسجيل الدخول باستخدام فيسبوك. الرجاء معاودة المحاولة في وقت لاحق.";
+"no_friends_found" = "ليس لديك أي أصدقاء ربطوا حساب فيسبوك الخاص بهم بتطبيق بنكيلي";
+"title_facebook_friend" = "اتصالات الفيسبوك";
+"login_unsuccessful" = "تسجيل الدخول غير ناجح";
+"login_cancelled" = "يبدو أنك ألغيت عملية تسجيل الدخول على فيسبوك. حاول مرة اخرى";
+"facebook_link_success" = " تم ربط حسابك على فيسبوك بنجاح.";
+
+//Popup dialog
+"pop_up_button_ok" = "تم";
+"pop_up_error_title" = "خطأ";
+"pop_up_button_yes" = "نعم";
+"pop_up_button_no" = "لا";

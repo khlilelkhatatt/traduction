@@ -1,0 +1,27 @@
+/*
+ Localizable.strings
+ Module_Framework
+ 
+ Created by Comviva on 21/06/19.
+ Copyright © 2019 Comviva. All rights reserved.
+ */
+
+"recharge_proceed_button_text" = "بدء الطلب.";
+"recharge_toolbar_text" = "شحن الهاتف";
+"recharge_mobilenum_error"="أدخل رقم هاتف صالحًا";
+"recharge_operator_error"="اختر شركة الاتصالات الخاصة بك للمتابعة";
+"recharge_topup_error"="اختر خطة إعادة الشحن للمتابعة";
+"recharge_pop_up_button_no"="لا";
+"recharge_pop_up_button_yes"="نعم";
+"recharge_confirmation_navigation_title"="تأكيد إعادة الشحن";
+"recharge_forConfirmation_bymobile_mobiletext"="رقم الهاتف : ";
+"recharge_bymobile_mobiletext"="رقم الهاتف";
+"recharge_bymobile_operatortext"="مشغل للهاتف";
+"recharge_bymobile_choose_topuptext"="اختر من بين خيارات الشحن المتاحة";
+"recharge_bymobile_rechargeTitletext"="حدد شركة الاتصالات الخاصة بك وأدخل التفاصيل";
+"recharge_pop_up_button_ok"="تم";
+"recharge_pop_up_error_title" = "خطأ";
+"recharge_something_went_wrong_text"="هناك خطأ ما";
+"recharge_confirmation_header_text"="شحن الهاتف";
+"recharge_noOffers_error_text"="لا توجد عروض متاحة";
+"recharge_mobileNumber_PlaceholderText"="أدخل رقم الهاتف";

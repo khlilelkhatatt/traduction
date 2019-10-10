@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+
+"cashout_tabbar_agent_text"          = "Agent";
+"cashout_tabbar_card_atm_text"       = "AU M";
+
+"cashoutAgent_confirmation_Field_text"="Montant";
+"cashoutAgent_confirmation_Header_text"="";
+"cashoutAgent_confirmation_Sub_Header_text"="Code de l'agent:";
+"cashout_agent_toolbar_text"="Confirmer la demande";
+"agent_header_text"="Entrez les détails de l'agent et le montant";
+
+"atm_main_heading_text"="Entrez le montant";
+"Nextbutton_text"="Suivant";
+"empty_agent_code_error_text"="Veuillez entrer le code de l'agent";
+"empty_amount_error_text"="Veuillez entrer le montant";
+"cashout_pop_up_button_ok"="OK";
+"cashout_pop_up_error_title"="Erreur";
+"invalid_amount_error_text"="Veuillez entrer un montant valide";
+"invalid_agent_error_text"="Veuillez entrer un code d'agent valide";
+"cashout_root_title_text"="Retrait d'argent";
+"cashout_amount_placeholder_text"="Entrez le montant";
+"cashout_agentcode_placeholder_text"="Entrez le code de l'agent";

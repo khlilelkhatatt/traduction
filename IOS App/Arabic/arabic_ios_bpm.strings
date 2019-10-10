@@ -1,0 +1,194 @@
+/*
+ Localizable.strings
+ DigitalBanking
+ 
+ Created by Gaurav Arora on 18/02/19.
+ Copyright © 2019 Comviva. All rights reserved.
+ */
+"choosen_language_code"="3";
+"choosen_locale"="ar";
+"choosen_language_title"="العربية";
+
+"keyboard_done_button_text" = "تم";
+
+//Splash Screen
+"splash_imeipermission_error"="يرجى إعطاء إذن للهاتف لتشغيل التطبيق";
+"splash_updateavailable_text"="التحديث متاح";
+"splash_forceupdate_text"="يرجى تحديث التطبيق الخاص بك. وإلا فلن تكون قادرًا على استخدام التطبيق";
+"splash_update_btn"="تحديث";
+
+"selectLanaguage_text_englishText"="English";
+"selectLanaguage_text_arabicText"="العربية";
+"selectLanaguage_text_frenchText"="Français";
+"selectLanguage_text_titleText"="اختر لغتك";
+"home_nav_menu_changelanguage_text"="اللغة";
+
+"walkthrough_text_gotittext"="مفهوم";
+"walkthrough_text_skiptext"="تخطى";
+"walkthrough1_title"="تحويل الأموال";
+"walkthrough2_title"="تسديد المشتريات";
+"walkthrough3_title"="طلب المال";
+"walkthrough4_title"="تسديد الفواتير";
+"walkthrough5_title"="شحن الهاتف";
+"walkthrough6_title"="اللوحة";
+"walkthrough1_desc"="تحويل الأموال إلى أحبائك بشكل آمن مع تطبيق بنكيلي الخاص بك !";
+"walkthrough2_desc"="سدد مشترياتك بسهولة من خلال تطبيق بنكيلي !";
+"walkthrough3_desc"="هل تحتاج إلى المال ؟ اتصل بأحبائك بثقة مع تطبيق بنكيلي الخاص بك !";
+"walkthrough4_desc"="دفع فاتورة الماء أو الكهرباء دون التحرك مع تطبيق بنكيلي الخاص بك !";
+"walkthrough5_desc"="قم بشحن رصيد هاتفك آو هاتف أي شخص آخر بدون مغادرة مكانك مع تطبيق بنكيلي الخاص بك !";
+"walkthrough6_desc"="كن المبادِر في جمع المساعدة الأجتماعية لأحد أفراد أسرتك أو لحدث مع تطبيق بنكيلي الخاص بك !";
+
+"before_login_button_signup"="التسجيل";
+"before_login_button_login"="تسجيل الدخول";
+
+"signup_first_screen_titletext"="تسجيل";
+"title_registration_text"="هيا بنا لتسجيلك";
+"signup_newcustomer_button_text"="زبون جديد";
+"signup_existingcustomer_button_text"="زبون حالي";
+"registration_or_text"="أو";
+
+"terms_condition_titletext"="الشروط والأحكام";
+"terms_condition_button_accept"="قبول";
+"terms_condition_button_decline"="رفض";
+
+"registration_nationalid_titletext"="سجل معنا";
+"registration_nationid_subtitletext"="أدخل NNI الخاص بك";
+"registration_nationid_lable"="الرقم الوطني للتعريف (NNI)";
+"registration_nationid_button_text"="التالى";
+"registration_nationid_note_text"="";
+"national_id_blank_popup_message"="NNI إلزامي";
+"national_id_invalid_popup_message"="NNI غير صالح";
+
+"registration_mobilenumber_titletext"="التحقق";
+"registration_mobilenumber_subtitletext"="التحقق من التفاصيل الخاصة بك";
+"registration_mobilenumber_lable"="رقم الهاتف";
+"registration_mobilenumber_button_text"="استمر";
+"registration_mobilenumber_note_text"="سنرسل رمز التأكيد إلى هذا الرقم للتحقق";
+"mobile_number_blank_popup_message"="رقم الهاتف  إلزامي";
+"mobile_number_invalid_popup_message"="أدخل رقم هاتف صالحًا";
+
+"registration_otp_titletext"="رمز التحقق";
+"registration_otp_subtitletext"="أدخل رمز التأكيد المرسل إلى هاتفك المحمول";
+"registration_otp_resend_button_text"="إعادة إرسال رمز التأكيد";
+"registration_otp_button_text"="التحقق";
+"otp_blank_popup_message"="رمز التحقق إلزامي";
+"otp_invalid_popup_message"="يرجى إدخال رمزتأكيد صالح";
+"otp_success_popup_message"="تم التحقق من رقم هاتفك بنجاح";
+"otp_success_popup_button"="تم";
+"otp_expires_in"="تنتهي صلاحية رمز التأكيد خلال";
+"otp_expiry_min"="دقائق";
+"otp_expiry_sec"="ثواني";
+
+"reg_personalinformation_titletext"="معلومات شخصية";
+"reg_personalinformation_firstname_label"= "الأسم";
+"reg_personalinformation_secondname_label"= "اسم العائلة";
+"reg_personalinformation_nationalid_label"= "الرقم الوطني للتعريف (NNI)";
+"reg_personalinformation_button_text"= "أكد";
+
+"reg_createprofile_titletext"="إنشاء الملف الشخصي ";
+"reg_createprofile_subtitletext"="إنشاء الملف الشخصي الخاص بك";
+"reg_createprofile_username_label"="اسم المستخدم";
+"reg_createprofile_securityquestion_titletext"="اختار سؤال الحماية";
+"reg_createprofile_securityquestion_label"="سؤال الحماية";
+"reg_createprofile_answer_label"="الجواب";
+"reg_createprofile_button_text"="التالى";
+"username_blank_popup_message"="اسم المستخدم إلزامي";
+"username_invalid_popup_message"="أدخل اسم مستخدم صالح";
+"securityquestion_blank_popup_message"="سؤال الحماية إلزامي";
+"answer_blank_popup_message"="الجواب إلزامي";
+"answer_invalid_popup_message"="الرجاء إدخال إجابة صالحة";
+
+"reg_setmpin_titletext"="تعيين الرقم السري";
+"reg_setmpin_subtitletext"="كدت تنتهي !";
+"reg_setmpin_setmpin_label"="تعيين االرقم السري";
+"reg_setmpin_confirmmpin_label"="تأكيد  الرقم السري";
+"reg_setmpin_button_text"="تم";
+"setpin_blank_popup_message"="الرقم السري إلزامي";
+"setpin_invalid_popup_message"="الرجاء إدخال رقم السري صالح";
+"confirmpin_blank_popup_message"="تأكيد الرقم السري إلزامي";
+"confirmpin_invalid_popup_message"="الرجاء إدخال  تأكيد رقم السري صحيح";
+"pin_didnt_match"="الرقم السري و تأكيده لا يتطابقان";
+
+"login_titletext"="تسجيل الدخول";
+"login_subtitletext"="أدخل تفاصيل تسجيل الدخول الخاصة بك";
+"login_username_mobile_label"="اسم المستخدم أو رقم الهاتف";
+"login_mpin_label"="الرقم السري";
+"login_forgotmpin_button_text"="نسيت الرقم السري ؟";
+"login_registernow_button_text"="مستخدم جديد ؟  سجل الآن!";
+"login_login_button_text"="تسجيل الدخول";
+"username_mobile_blank_popup_message"="رقم الهاتف / اسم المستخدم إلزامي";
+"username_mobile_invalid_popup_message"="رقم الهاتف / اسم المستخدم غير صالح";
+"mpin_blank_popup_message"="الرقم السري إلزامي";
+"mpin_invalid_popup_message"="الرقم السري غير صالح";
+
+"dashboard_titletext"="لوحة القيادة";
+"favourite_titletext"="المفضلة";
+"notification_titletext"="الإشعارات";
+"help_titletext"="المساعدة";
+
+"tab_bar_dashboard_titletext"="الرئيسية";
+"tab_bar_favourite_titletext"="المفضلة";
+"tab_bar_notification_titletext"="الإشعارات";
+"tab_bar_help_titletext"="المساعدة";
+
+"dashboard_topbar_pay"="تسديد مشتريات";
+"dashboard_topbar_transfer"="تحويل الأموال";
+"dashboard_topbar_balance"="حسابي";
+"dashboard_topbar_transaction"="المعاملات";
+
+"dashboard_service_recharge"="تعبئة رصيد الهاتف";
+"dashboard_service_billpayment"="تسديد الفواتير";
+"dashboard_service_chequebook"="طلب دفتر شيكات";
+"dashboard_service_debitcard"="البطاقات البنكية";
+"dashboard_service_cashout"="سحب النقود";
+
+//Forgot PIN
+"forgotpin_toolbar_title"="نسيت الرقم السري";
+"forgotpin_title_text"="أجب عن سؤالك الحماية لتعيين رقم سري جديد";
+"forgotpin_security_question_lable"="سؤال الحماية";
+"forgotpin_answer_lable"="الجواب";
+"forgotpin_button_text"="التالى";
+"forgotpin_answer_error_message"="الرجاء إدخال جواب صحيح";
+"forgotpin_success_dialog_message"=" لقد تم تغيير الرقم السري الخاص بنجاح.";
+"forgotpin_success_dialog_title"="نجاح!";
+"forgotpin_success_dialog_done_button"="تم";
+"forgotpin_set_new_pin_label"="تعيين رقم سري جديد";
+
+//Fund Transfer
+"fundtransfer_toolbar_text"="تحويل أموال";
+"fundtransfer_sendmoney_text"="إرسال الأموال";
+"fundtransfer_requestmoney_text"="طلب المال";
+"fundtransfer_nfc_text"="تقنية NFC";
+"fundtransfer_qr_text"="رمز QR";
+"fundtransfer_splitbill_text"="اللوحة";
+"fundtransfer_quicktransfer_text"="التحويل السريع";
+"fundtransfer_creategroup_text"="أنشئ مجموعة جديدة أو حدد مجموعة حالية لتقسيم المبلغ";
+"fundtransfer_confirmation_title_text"="تأكيد تحويل الأموال";
+
+"pop_up_button_ok"="تم";
+"pop_up_button_cancel"="إلغاء";
+"theme_popup_message"="لقد تلقيت تحديثًا. هل تريد تطبيقه ؟";
+"theme_popup_title"="معلومات";
+"theme_popup_positive_button"="الآن";
+"theme_popup_negative_button"="فيما بعد";
+"popup_error_title"="خطأ";
+
+"login_noresponse_text" = "هناك خطأ ما";
+"somethingWentWrong"="هناك خطأ ما";
+"dialog_comingsoon_message"="قريبا";
+"dialog_comingsoon_title"="معلومات";
+
+//Common
+"common_alert"="إنذار";
+"common_network_error"="حدث خطأ ما. أعد المحاولة من فضلك";
+"common_yes" = "نعم";
+"common_no" = "لا";
+"backbutton_are_you_sure_msg" = "هل أنت متأكد أنك لا تريد المتابعة؟";
+"signout_Confirm_Msg" = " هل أنت متأكد أنك تريد الخروج ؟";
+
+"session_invalidated_text"="تم إنهاء الجلسة ، إعادة تسجيل الدخول من فضلك";
+"changePinSuccessful" = " لقد تم تغيير الرقم السري الخاص بنجاح.";
+
+"no_kyc_popup_contents" = "يجب عليك إكمال ملفك لدى البنك للوصول إلى هذه الخدمات";
+"facebook_link_success" = " تم ربط حسابك على فيسبوك بنجاح.";
+"facebook_delink_success" = "تم إلغاء ربط حسابك على فيسبوك بنجاح.";

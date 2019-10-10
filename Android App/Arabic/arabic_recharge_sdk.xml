@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">بنكيلي</string>
+
+  <!--Recharge Service -->
+  <string name="recharge_service_toolbar_text">تعبئة رصيد الهاتف</string>
+  <string name="rechargeservice_btn_next">التالى</string>
+
+  <string name="recharge_service_mobile_number">رقم الهاتف</string>
+  <string name="recharge_service_enter_mobile_number">أدخل رقم الهاتف</string>
+  <string name="recharge_service_title_error">خطأ</string>
+  <string name="recharge_service_enter_valid_mobile_number">الرجاء إدخال  رقم هاتف صالحً</string>
+  <string name="recharge_service_explaination_text">حدد شركة الاتصالات الخاصة بك وأدخل التفاصيل</string>
+  <string name="recharge_service_mobile_operator">شركة الاتصالات</string>
+  <string name="recharge_service_choose_topup">إختر من بين مبالغ التعبئة المتاحة</string>
+  <string name="recharge_service_review_details">مراجعة التفاصيل المدخلة</string>
+  <string name="recharge_topup">تعبئة</string>
+  <string name="recharge_service_amount">المبلغ</string>
+
+  <!-- Common strings -->
+  <string name="recharge_pop_up_button_cancel">إلغاء</string>
+  <string name="recharge_pop_up_button_yes">نعم</string>
+  <string name="recharge_pop_up_button_no">لا</string>
+  <string name="recharge_service_confirm_title">تأكيد تعبئة رصيد الهاتف</string>
+
+
+  <string name="recharge_service_confirm_servicecharge_label">تكلفة الخدمة</string>
+  <string name="recharge_service_confirm_commission_charge_label">العمولة</string>
+  <string name="recharge_service_confirm_taxcharge_label">الضريبة</string>
+
+</resources>

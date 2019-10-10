@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Module_Framework
+
+  Created by Comviva on 21/06/19.
+  Copyright © 2019 Comviva. All rights reserved.
+*/
+
+"sb_title_label" = "EL LEWHA";
+"sb_amount_label" = "Montant";
+"sb_note_label" = "Nom de LEWHA";
+"sb_memberslist_label" = "Membres";
+"sb_you_label" = "Vous";
+"sb_next_label" = "Suivant";
+"sb_add_title_label" = "Ajouter des membres";
+"sb_add_number_label" = "Numéro de téléphone / Nom d'utilisateur";
+"sb_add_name_label" = "Prénom";
+"sb_add_next_label" = "Ajouter";
+"sb_add_member_exists_label" = "Cet utilisateur est déjà ajouté à votre liste de membres.";
+"sb_add_number_validation_label" = "Veuillez entrer un numéro de téléphone valide.";
+"sb_select_number_validation_label" = "Veuillez sélectionner un numéro de téléphone valide.";
+"sb_add_name_validation_label" = "Veuillez entrer un nom valide.";
+"sb_save_group_message_label" = "Voulez-vous enregistrer ce groupe?";
+"sb_update_group_message_label" = "Voulez-vous mettre à jour ce groupe?";
+"sb_save_group_name_label" = "Nom de groupe";
+"sb_save_group_positive_label" = "Oui";
+"sb_save_group_negative_label" = "Non";
+"sb_Some_Invalid_Users_Confirmation" = "%d de %d membres n'ont pas pu être ajoutés car ils sont inactifs ou non enregistrés. Voulez-vous toujours continuer?";
+
+"sb_emptyMobileUserNameError" = "Le numéro de téléphone mobile / nom d'utilisateur ne peut pas être vide.";
+"sb_invalidMobileUserNameError" = "Numéro de téléphone / Nom d'utilisateur est invalide.";
+"sb_emptyMemberNameError" = "Nom ne peut être vide.";
+"sb_emptyAmountError" = "Veuillez entrer un montant valide.";
+"sb_emptyNoteError" = "Description ne peut pas être vide.";
+"sb_noGroupMembers" = "Aucun membre trouvé dans ce groupe.";
+"sb_amountNotDist" = "Montant non distribué complètement. Voulez-vous poursuivre?";
+"sb_amountNotDist_More" = "Montant divisé dépasse le montant total.";
+"sb_noMembersAdded" = "Aucun membre ajouté.";
+
+"sb_Main_title_label" = "EL LEWHA";
+"sb_subtitle_label" = "Créez un nouveau groupe ou sélectionnez-en un existant pour diviser votre LEWHA.";
+"sb_delete_text" = "Supprimer le groupe";
+"sb_group_members_label" = "membres";
+"splibill_navigationbar_title_text" = "Supprimer le groupe";
+
+"sb_error" = "Erreur";
+"sb_ok" = "Ok";
+"sb_cancel" = "Annuler";
+"sb_success" = "Succès";
+"sb_yes" = "Oui";
+"sb_no" = "Non";
+"sb_noAddMore" = "Non, Ajouter plus";
+"pop_up_button_yes" = "Oui";
+"pop_up_button_no" = "Non";
+"splibill_delete_message" = "Êtes-vous sûr de vouloir supprimer les amis du groupe?";
+"splitbill_noGroup_text" = "Aucun groupe";
+"sb_delete_success_description" = "Vous avez supprimé avec succès le groupe";
+
+//Confirmation SDK
+"sb_confirm_splitAmount" = "Montant total";
+"sb_confirm_yourShare" = "Votre part";
+"sb_confirm_descriptionLabel" = "Description";
+"sb_confirm_groupName" = "Nom de groupe";
+"sb_confirm_request" = "Parts des panticipants";
+"sb_confirm_title" = "Confirmer la demande";
+"sb_information_text" = "* Des frais supplémentaires peuvent s\'appliquer";
+
+
+// SplitBillDetail
+"sb_totalamount_Text"           = "Montant total";
+"sb_reqamount_Text"             = "Montant demandé";
+"sb_colamount_Text"             = "Montant collecté";
+"sb_description_Text"           = "Nom de LEWHA";
+"sb_status_Text"                = "Statut";
+"sb_cancelBtn_Text"             = "Annuler la demande";
+"sb_cancel_request_Text" = "Êtes-vous sûr de vouloir annuler cette demande?";
+"sb_req_success" = "Succès!";
+"sb_done" = "Terminé!";
+"sb_paid" = "Payé";
+"sb_note" = "Remarque:";

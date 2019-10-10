@@ -1,0 +1,78 @@
+/*
+ Localizable.strings
+ Module_Framework
+ 
+ Created by Gaurav Arora on 21/06/19.
+ Copyright © 2019 Gaurav Arora. All rights reserved.
+ */
+
+//Send Money Common
+"sm_title_text"="إرسال الأموال";
+"sm_mobile_tab_text"="رقم الهاتف";
+"sm_username_tab_text"="اسم المستخدم";
+"sm_bank_tab_text"="بنك";
+"sm_facebook_tab_text"="فيسبوك";
+
+"sm_amount_label"="المبلغ";
+"sm_note_label"="ملاحظة (اختياري)";
+"sm_button_text"="إرسال";
+"sm_next_button_text"="التالى";
+"sm_amount_error"="أدخل مبلغ صالح";
+"sm_confirmation_navigation_title"="تأكيد تحويل الأموال";
+"sm_confirmation_note_label"="ملاحظة";
+"sm_confirmation_amount_sent_label"="المبلغ";
+"sm_confirmation_recipient_name_label"="اسم المستقبل";
+"sm_confirmation_transfer_amount_label"="نقل المبلغ";
+
+//Send Money By Mobile
+"sm_mobile_mobilenum_label"="رقم الهاتف ";
+"sm_mobile_mobilenum_error"="أدخل رقم هاتف صالحًا";
+"sm_mobile_invalid_contact_error"="اختر جهة اتصال صالحة";
+"sm_mobile_mobilenum_not_exist_text"="رقم الهاتف الذي تم إدخاله غير مسجل. ومع ذلك؛ لا يزال بإمكان المستفيد استلام المبلغ عن طريق التسجيل أو زيارة ماكينة الصراف الآلي أو أقرب وكيل بنكيلي في غضون 7 أيام. هل تريد الاستمرار؟";
+
+//Send Money By Username
+"sm_username_label"="اسم المستخدم";
+"sm_username_error"="أدخل اسم مستخدم صالح";
+
+//Send Money By Facebook
+"sm_facebook_add_friend" = "أضف صديق";
+"sm_select_friend_error" = "يرجى اختيار صديق";
+
+//Send Money By Other Bank
+"sm_bank_other_title_text"="إرسال الأموال - بنك آخر";
+"sm_bank_other_subtitle_label"="أدخل تفاصيل حساب المستلم";
+"sm_other_bank_name_label"="اسم";
+"sm_other_bank_bank_label"="بنك";
+"sm_other_bank_account_number_label"="رقم الحساب : ";
+"sm_bank_other_invalid_name_error"="أدخل اسمًا صالحًا";
+"sm_bank_other_invalid_bank_error"="اختر البنك";
+"sm_bank_other_invalid_acc_number_error"="أدخل رقم حساب صالح";
+
+//Popup dialog
+"sm_pop_up_button_ok" = "تم";
+"sm_pop_up_error_title" = "خطأ";
+"sm_pop_up_button_yes" = "نعم";
+"sm_pop_up_button_no" = "لا";
+
+"sendmoney_bybank_choose_bank" = "اختر بنك المستفيد";
+"sendmoney_by_bpm" = "البنك الشعبي الموريتاني";
+"sendmoney_byother_bank" = "بنك آخر";
+
+"sendmoney_ownbank_cif" = "رقم الحساب  (CIF)";
+"sendmoney_ownbank_enter_cif" = "أدخل رقم CIF";
+"sendmoney_ownbank_enter_valid_cif" = "أدخل رقم حساب صالح";
+"sendmoney_ownbank_enter_rec_details" = "أدخل تفاصيل حساب  المستفيد";
+"sendmoney_ownbank_next" = "التالى";
+"sendmoney_ownbank_choose_bank_account" = "اختر حساب مصرفي وأدخل المبلغ";
+"sendmoney_ownbank_amount" = "المبلغ";
+"sendmoney_ownbank_enter_amount" = "أدخل المبلغ";
+"sendmoney_ownbank_enter_valid_amount" = "أدخل مبلغ صالح";
+"sendmoney_ownbank_note" = "ملاحظة (اختياري)";
+"sendmoney_ownbank_enter_note" = "أدخل ملاحظة";
+"sendmoney_ownbank_title" = "البنك الشعبي الموريتاني";
+"sendmoney_otherbank_title" = "بنك آخر";
+"sendmoney_ownbank_select_account_num" = "اختر حساب";
+"sendmoney_homebank_name" = "البنك الشعبي الموريتاني";
+"sendmoney_confirm_payment" = "تأكيد الدفع";
+"sendmoney_ownbank_note_text" = "ملاحظة";
+"sendmoney_bpm" = "تحويل الأموال-BPM";

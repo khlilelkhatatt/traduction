@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بنكيلي</string>
+    <string name="title_activity_merchant_payment">MerchantPaymentActivity</string>
+
+    <string name="merchant_payment_toolbar_text">تسديد المشتريات</string>
+    <string name="merchant_payment_scan_qr_code">مسح رمز QR</string>
+    <string name="merchant_payment_merchant_id_text">معرف التاجر</string>
+    <string name="merchant_payment_enter_valid_merchant_id">أدخل معرف التاجر صالح</string>
+
+    <string name="merchant_payment_enter_amount">أدخل المبلغ</string>
+    <string name="merchant_payment_enter_valid_amount">أدخل مبلغ صالح</string>
+    <string name="merchant_payment_next">التالى</string>
+    <string name="merchant_payment_pay_now">ادفع الآن</string>
+    <string name="merchant_payment_amount">المبلغ</string>
+    <string name="merchant_payment_note_optional">ملاحظة (اختياري)</string>
+    <string name="merchant_payment_enter_note">أدخل ملاحظة</string>
+    <string name="merchant_payment_error">خطأ</string>
+    <string name="merchant_payment_merchant_id">معرف التاجر:</string>
+
+    <string name="merchant_payment_note">ملاحظة</string>
+    <string name="merchant_payment_pay">دفع</string>
+    <string name="merchant_payment_merchant_name">اسم التاجر:</string>
+    <string name="merchant_payment_amount_paid">المبلغ المدفوع:</string>
+    <string name="merchant_payment_scan_qr_error">خطأ QR</string>
+
+    <string name="merchant_payment_enter_merchant_details">أدخل تفاصيل التاجر</string>
+    <string name="merchant_payment_merchant_id_label">معرف التاجر</string>
+    <string name="merchant_payment_enter_merchant_id">أدخل معرف التاجر</string>
+</resources>
