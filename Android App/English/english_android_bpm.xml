@@ -398,7 +398,7 @@
   <string name="notificationstatus_approvedtext">Approved!</string>
   <string name="notificationstatus_rejectedtext">Rejected</string>
   <string name="notificationstatus_canceledtext">Canceled</string>
-  <string name="notificationstatus_partiallypaidtext">Partially Paid</string>
+  <string name="notificationstatus_partiallypaidtext">In progress</string>
 
   <string name="notification_requestsent_amount">Request for </string>
   <string name="notification_requestsent_to">To </string>

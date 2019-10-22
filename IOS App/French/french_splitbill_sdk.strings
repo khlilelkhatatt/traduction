@@ -63,7 +63,7 @@
 "sb_confirm_groupName" = "Nom de groupe";
 "sb_confirm_request" = "Parts des panticipants";
 "sb_confirm_title" = "Confirmer la demande";
-"sb_information_text" = "* Des frais supplémentaires peuvent s\'appliquer";
+"sb_information_text" = " ";
 
 
 // SplitBillDetail

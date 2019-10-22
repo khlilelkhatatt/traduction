@@ -52,12 +52,12 @@
 "terms_condition_button_decline"="رفض";
 
 "registration_nationalid_titletext"="سجل معنا";
-"registration_nationid_subtitletext"="أدخل NNI الخاص بك";
+"registration_nationid_subtitletext"="أدخل الرقم الوطني للتعريف الخاص بك";
 "registration_nationid_lable"="الرقم الوطني للتعريف (NNI)";
 "registration_nationid_button_text"="التالى";
 "registration_nationid_note_text"="";
-"national_id_blank_popup_message"="NNI إلزامي";
-"national_id_invalid_popup_message"="NNI غير صالح";
+"national_id_blank_popup_message"="الرقم الوطني للتعريف إلزامي";
+"national_id_invalid_popup_message"="الرقم الوطني للتعريف غير صالح";
 
 "registration_mobilenumber_titletext"="التحقق";
 "registration_mobilenumber_subtitletext"="التحقق من التفاصيل الخاصة بك";
@@ -65,7 +65,7 @@
 "registration_mobilenumber_button_text"="استمر";
 "registration_mobilenumber_note_text"="سنرسل رمز التأكيد إلى هذا الرقم للتحقق";
 "mobile_number_blank_popup_message"="رقم الهاتف  إلزامي";
-"mobile_number_invalid_popup_message"="أدخل رقم هاتف صالحًا";
+"mobile_number_invalid_popup_message"="أدخل رقم هاتف صالح";
 
 "registration_otp_titletext"="رمز التحقق";
 "registration_otp_subtitletext"="أدخل رمز التأكيد المرسل إلى هاتفك المحمول";

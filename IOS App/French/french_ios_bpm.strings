@@ -65,7 +65,7 @@
 "registration_mobilenumber_button_text"="Continuer";
 "registration_mobilenumber_note_text"="Nous enverrons un code de confirmation à ce numéro pour vérification";
 "mobile_number_blank_popup_message"="Le numéro de téléphone est obligatoire";
-"mobile_number_invalid_popup_message"="Le numéro de téléphone est invalide";
+"mobile_number_invalid_popup_message"="Veuillez saisir un numéro de téléphone valide";
 
 "registration_otp_titletext"="Code de vérification";
 "registration_otp_subtitletext"="Entrez le code de vérification transmis sur votre numéro de téléphone";

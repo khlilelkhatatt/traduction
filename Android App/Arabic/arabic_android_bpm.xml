@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <!--Splash Screen -->
+  <!--Splash Screen-->
   <string name="selectLanguage_languagecode">3</string>
   <string name="selectLanguage_languagelocale">ar</string>
   <string name="selectLanaguage_text_englishText">English</string>
@@ -38,12 +38,12 @@
   <string name="theme_popup_title">معلومات</string>
   <string name="theme_popup_positive_button">الآن</string>
   <string name="theme_popup_negative_button">فيما بعد</string>
-  <string name="title_registration_nationid_text">أدخل NNI الخاص بك</string>
+  <string name="title_registration_nationid_text">أدخل الرقم الوطني للتعريف الخاص بك</string>
   <string name="registration_nationid_lable">الرقم الوطني للتعريف (NNI)</string>
   <string name="registration_nationid_button_text">التالى</string>
   <string name="registration_nationid_toolbar_text">سجل معنا</string>
-  <string name="nationid_empty_error">NNI إلزامي</string>
-  <string name="nationalid_invalid_error">NNI غير صالح</string>
+  <string name="nationid_empty_error">الرقم الوطني للتعريف  إلزامي</string>
+  <string name="nationalid_invalid_error">الرقم الوطني للتعريف  غير صالح</string>
   <string name="nationalid_error_dialog_title">خطأ</string>
 
   <string name="mobile_number_verify_title_text">التحقق</string>
@@ -96,7 +96,7 @@
   <string name="mpin_setpin_lable">تعيين الرقم السري</string>
   <string name="mpin_confirm_lable">تأكيد  الرقم السري</string>
   <string name="mpin_button_text">تم</string>
-  <string name="mpin_pin_error_message">الرجاء إدخال رقم السري صالح</string>
+  <string name="mpin_pin_error_message">الرجاء إدخال رقم سري صالح</string>
   <string name="mpin_confirm_pin_error_message">الرجاء إدخال  تأكيد رقم السري صحيح</string>
   <string name="mpin_confirm_pin_mismatch_error_message">الرقم السري و تأكيده لا يتطابقان</string>
   <string name="mpin_error_dialog_title">خطأ</string>
@@ -159,7 +159,7 @@
   <string name="changepin_button_text">أتمم</string>
   <string name="changepin_old_pin_error_message">الرجاء إدخال رقم سري قديم صالح</string>
   <string name="changepin_new_pin_error_message">الرجاء إدخال رقم سري جديد صالح</string>
-  <string name="changepin_confirm_pin_error_message">الرجاء إدخال تأكيد الرقم السري الجديد صالح</string>
+  <string name="changepin_confirm_pin_error_message">الرجاء إدخال تأكيد رقم سري جديد صالح</string>
   <string name="changepin_confirm_pin_mismatch_error_message">الرقم السري الجديد و تأكيده لا يتطابقان</string>
   <string name="changepin_error_dialog_title">خطأ</string>
   <string name="changepin_success_dialog_message"> لقد تم تغيير الرقم السري الخاص بنجاح.</string>
@@ -305,7 +305,7 @@
   <string name="otherbankaccountdetails_account_no_lable">رقم الحساب</string>
   <string name="otherbankaccountdetails_amount_lable">المبلغ</string>
   <string name="otherbankaccountdetails_note_lable">ملاحظة</string>
-  <string name="otherbankaccountdetails_name_unerror_text">أدخل اسمًا صالحًا</string>
+  <string name="otherbankaccountdetails_name_unerror_text">أدخل اسم مستفيد صالح</string>
   <string name="otherbankaccountdetails_bank_unerror_text">اختر البنك</string>
   <string name="otherbankaccountdetails_account_no_unerror_text">أدخل رقم حساب صالح</string>
   <string name="otherbankaccountdetails_amount_unerror_text">أدخل مبلغ صالح</string>
@@ -315,7 +315,7 @@
   <string name="bpmbankcifnumber_title_text">أدخل تفاصيل حساب المستلم</string>
   <string name="bpmbankcifnumber_cif_number_lable">رقم الحساب  (CIF)</string>
   <string name="bpmbankcifnumber_button_text">التالى</string>
-  <string name="bpmbankcifnumber_unerror_text">أدخل رقم الحساب (CIF) صالحًا</string>
+  <string name="bpmbankcifnumber_unerror_text">أدخل رقم حساب صالح</string>
 
   <string name="bpmbankaccountnoamount_toolbar_text">إرسال الأموال - BPM</string>
   <string name="bpmbankaccountnoamount_title_text">اختر حساب مصرفي وأدخل المبلغ</string>
@@ -359,7 +359,7 @@
 
   <string name="requestmoneybymobilenumber_contactpermission_error_title">خطأ</string>
   <string name="requestmoneybymobilenumber_contactpermission_msg">إذن قراءة مطلوب لعرض قائمة جهات الاتصال الخاصة بك.</string>
-  <string name="requestmoneybymobilenumber_mobileno_error">أدخل رقم هاتف صالحًا</string>
+  <string name="requestmoneybymobilenumber_mobileno_error">أدخل رقم هاتف صالح</string>
   <string name="requestmoneybymobilenumber_amount_error">أدخل مبلغ صالح</string>
 
   <string name="requestmoney_confirm_amount_text">المبلغ</string>
@@ -387,7 +387,7 @@
   <string name="notificationstatus_approvedtext">معتمدة!</string>
   <string name="notificationstatus_rejectedtext">مرفوضة</string>
   <string name="notificationstatus_canceledtext">ألغيت</string>
-  <string name="notificationstatus_partiallypaidtext">المدفوعة جزئيا</string>
+  <string name="notificationstatus_partiallypaidtext">قيد التحصيل</string>
 
   <string name="notification_requestsent_amount">طلب ل</string>
   <string name="notification_requestsent_to">إلى</string>

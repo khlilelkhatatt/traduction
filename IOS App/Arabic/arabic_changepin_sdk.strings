@@ -12,7 +12,7 @@
 "pleaseEnterNewPIN" = "الرقم السري  الجديد";
 "pleaseEnterValidNewPIN"= "الرجاء إدخال رقم سري جديد صالح";
 "pleaseEnterConfirmPIN" = "تأكيد الرقم السري الجديد";
-"pleaseEnterValidConfirmPIN" = "الرجاء إدخال تأكيد الرقم السري الجديد الصالح";
+"pleaseEnterValidConfirmPIN" = "الرجاء إدخال تأكيد رقم سري جديد صالح";
 "newPinConfirmPinShouldMatch" = "الرقم السري الجديد و تأكيده لا يتطابقان";
 "oldPin" = "الرقم السري القديم";
 "newPIN" = "الرقم السري  الجديد";

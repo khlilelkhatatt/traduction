@@ -71,7 +71,7 @@
     <string name="splitbill_initiate_confirm_request">تأكيد الطلب</string>
     <string name="splitbill_initiate_description">ملاحظة</string>
     <string name="splitbill_initiate_save_group">هل تريد حفظ هذه المجموعة؟</string>
-    <string name="splitbill_initiate_additional_charges">* قد يتم فرض رسوم إضافية</string>
+    <string name="splitbill_initiate_additional_charges"> </string>
 
     <!--Cancel Splitbill Strings-->
     <string name="split_bill_cancel_request">إلغاء الطلب</string>
@@ -83,7 +83,7 @@
     <string name="split_bill_cancel_rejected">مرفوض</string>
     <string name="split_bill_cancel_expired">منتهية الصلاحية</string>
     <string name="split_bill_cancel_canceled">ألغيت</string>
-    <string name="split_bill_cancel_partially_paid">مدفوعة جزئيا</string>
+    <string name="split_bill_cancel_partially_paid">قيد التحصيل</string>
     <string name="split_bill_cancel_reject_dialog_text">هل أنت متأكد أنك تريد إلغاء هذا الطلب؟</string>
     <string name="split_bill_yes">نعم</string>
     <string name="split_bill_no">لا</string>

@@ -8,7 +8,7 @@
 
 "enterExistingPIN" = "Entrez votre code PIN existant pour en créer un nouveau";
 "pleaseEnterOldPIN" = "Ancien PIN";
-"pleaseEnterValidOldPIN" = "Veuillez saisir un ancien PIN vlaide";
+"pleaseEnterValidOldPIN" = "Veuillez saisir l'ancien PIN";
 "pleaseEnterNewPIN" = "Nouveau PIN";
 "pleaseEnterValidNewPIN"= "Veuillez saisir un nouveau PIN valide";
 "pleaseEnterConfirmPIN" = "Confirmez le nouveau PIN";

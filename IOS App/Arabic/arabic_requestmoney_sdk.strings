@@ -23,7 +23,7 @@
 
 //Send Money By Mobile
 "rm_mobile_mobilenum_label"="رقم الهاتف ";
-"rm_mobile_mobilenum_error"="أدخل رقم هاتف صالحًا";
+"rm_mobile_mobilenum_error"="أدخل رقم هاتف صالح";
 "rm_mobile_invalid_contact_error"="اختر جهة اتصال صالحة";
 
 //Send Money By Username

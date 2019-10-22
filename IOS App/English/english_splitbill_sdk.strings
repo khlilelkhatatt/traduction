@@ -63,7 +63,7 @@
 "sb_confirm_groupName" = "Group Name";
 "sb_confirm_request" = "Requests";
 "sb_confirm_title" = "Confirm Request";
-"sb_information_text" = "*Additional charges may apply.";
+"sb_information_text" = " ";
 
 "pop_up_button_yes" = "Yes";
 "pop_up_button_no" = "No";

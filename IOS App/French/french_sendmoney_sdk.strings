@@ -44,7 +44,7 @@
 "sm_other_bank_name_label"="Nom bénéficiaire";
 "sm_other_bank_bank_label"="Banque";
 "sm_other_bank_account_number_label"="Numéro de compte : ";
-"sm_bank_other_invalid_name_error"="Entrez un nom valide";
+"sm_bank_other_invalid_name_error"="Entrez un nom de bénéficiaire valide";
 "sm_bank_other_invalid_bank_error"="Sélectionnez la banque";
 "sm_bank_other_invalid_acc_number_error"="Entrez un numéro de compte valide";
 
@@ -60,7 +60,7 @@
 
 "sendmoney_ownbank_cif" = "Numéro CIF";
 "sendmoney_ownbank_enter_cif" = "Entrer le numéro CIF";
-"sendmoney_ownbank_enter_valid_cif" = "Entrez un numéro CIF valide";
+"sendmoney_ownbank_enter_valid_cif" = "Saisissez un numéro de compte (CIF) valide";
 "sendmoney_ownbank_enter_rec_details" = "Entrez les détails du compte du destinataire";
 "sendmoney_ownbank_next" = "Suivant";
 "sendmoney_ownbank_choose_bank_account" = "Choisissez un compte bancaire et entrez le montant";

@@ -63,7 +63,7 @@
 "sb_confirm_groupName" = "أسم المجموعة";
 "sb_confirm_request" = "حصص المشتركين";
 "sb_confirm_title" = "تأكيد الطلب";
-"sb_information_text" = "* قد يتم فرض رسوم إضافية.";
+"sb_information_text" = " ";
 
 // SplitBillDetail
 "sb_totalamount_Text"           = "المبلغ الإجمالي";

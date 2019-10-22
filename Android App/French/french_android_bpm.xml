@@ -159,7 +159,7 @@
   <string name="changepin_newpin_lable">Nouveau PIN</string>
   <string name="changepin_confirm_lable">Confirmez le nouveau PIN</string>
   <string name="changepin_button_text">Continuer</string>
-  <string name="changepin_old_pin_error_message">Veuillez saisir un ancien PIN vlaide</string>
+  <string name="changepin_old_pin_error_message">Veuillez saisir l'ancien PIN </string>
   <string name="changepin_new_pin_error_message">Veuillez saisir un nouveau PIN valide</string>
   <string name="changepin_confirm_pin_error_message">Veuillez saisir une confirmation de code PIN valide</string>
   <string name="changepin_confirm_pin_mismatch_error_message">le nouveau PIN et sa confirmation ne sont pas conformes</string>
@@ -305,7 +305,7 @@
   <string name="otherbankaccountdetails_account_no_lable">Numéro de compte</string>
   <string name="otherbankaccountdetails_amount_lable">Montant</string>
   <string name="otherbankaccountdetails_note_lable">Remarque</string>
-  <string name="otherbankaccountdetails_name_unerror_text">Entrez un nom valide</string>
+  <string name="otherbankaccountdetails_name_unerror_text">Entrez un nom de bénéficiaire valide</string>
   <string name="otherbankaccountdetails_bank_unerror_text">Séléctionnez la banque</string>
   <string name="otherbankaccountdetails_account_no_unerror_text">Entrez un numéro de compte valide</string>
   <string name="otherbankaccountdetails_amount_unerror_text">Entrez un montant valide</string>
@@ -315,7 +315,7 @@
   <string name="bpmbankcifnumber_title_text">Entrez les détails du compte du bénéficiaire</string>
   <string name="bpmbankcifnumber_cif_number_lable">Numéro de Compte (CIF)</string>
   <string name="bpmbankcifnumber_button_text">Suivant</string>
-  <string name="bpmbankcifnumber_unerror_text">Saisissez un numéro de compte valide (CIF)</string>
+  <string name="bpmbankcifnumber_unerror_text">Saisissez un numéro de compte (CIF) valide</string>
 
   <string name="bpmbankaccountnoamount_toolbar_text">Transfert d'argent -BPM</string>
   <string name="bpmbankaccountnoamount_title_text">Chosir un compte bancaire &amp; Entrez le montant</string>
@@ -389,7 +389,7 @@
   <string name="notificationstatus_approvedtext">Approuvée!</string>
   <string name="notificationstatus_rejectedtext">Rejetée</string>
   <string name="notificationstatus_canceledtext">Annulée</string>
-  <string name="notificationstatus_partiallypaidtext">Partiellement payée</string>
+  <string name="notificationstatus_partiallypaidtext">Encours</string>
 
   <string name="notification_requestsent_amount">Demande de</string>
   <string name="notification_requestsent_splitbill_amount">Demande de LEWHA pour </string>

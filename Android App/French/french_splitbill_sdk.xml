@@ -72,7 +72,7 @@
     <string name="splitbill_initiate_confirm_request">Confirmer la demande</string>
     <string name="splitbill_initiate_description">Description</string>
     <string name="splitbill_initiate_save_group">Voulez-vous enregistrer ce groupe ?</string>
-    <string name="splitbill_initiate_additional_charges">* Des frais supplémentaires peuvent s\'appliquer</string>
+    <string name="splitbill_initiate_additional_charges"> </string>
 
     <!--Cancel Splitbill Strings-->
     <string name="split_bill_cancel_request">Annuler la demande</string>
@@ -83,7 +83,7 @@
     <string name="split_bill_cancel_rejected">Rejetée</string>
     <string name="split_bill_cancel_expired">Expirée</string>
     <string name="split_bill_cancel_canceled">Annulée</string>
-    <string name="split_bill_cancel_partially_paid">Partiellement payée</string>
+    <string name="split_bill_cancel_partially_paid">Encours</string>
     <string name="split_bill_cancel_reject_dialog_text">Êtes-vous sûr de vouloir annuler cette demande?</string>
     <string name="split_bill_yes">Oui</string>
     <string name="split_bill_no">Non</string>
