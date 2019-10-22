@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <!--Splash Screen-->
+  <!--Splash Screen -->
   <string name="selectLanguage_languagecode">3</string>
   <string name="selectLanguage_languagelocale">ar</string>
   <string name="selectLanaguage_text_englishText">English</string>
